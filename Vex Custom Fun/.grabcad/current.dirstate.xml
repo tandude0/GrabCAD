@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-01-05T15:42:36.3832324-05:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OldVersions\18.0002.iam</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>2020352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:33:53.8080000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\DrivetrainPlate.0003.ipt</FileName>
+      <SHA1>CF4DE0E1284F8580558A62FBBD3240AD8A9AA0B2</SHA1>
+      <FileSize>88576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:41:19.0060000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\V5 Smart Motor (276-4840).0001.iam</FileName>
+      <SHA1>05B991D898DFE5DD1314D630CEBF6B544857819F</SHA1>
+      <FileSize>1798656</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:05.9233834+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-001 Rev38.ipt</FileName>
+      <SHA1>6D0861CB76193B13C488562B515B7A0E4C547F37</SHA1>
+      <FileSize>2470912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:05.2402229+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-003 Rev27.ipt</FileName>
+      <SHA1>2ECC405B84A2294030D6296136F29CBA929AB847</SHA1>
+      <FileSize>1475584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:01.8734307+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-004 Rev16.ipt</FileName>
+      <SHA1>A3B78AECC6D81FA771F863F3FE5EE490D978A387</SHA1>
+      <FileSize>1007616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:02.7726419+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-005 Rev27.ipt</FileName>
+      <SHA1>81C393CEEEC40B76CDA5F7E42D9461FEF0E59C27</SHA1>
+      <FileSize>700928</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:04.5420588+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-009 Rev3.ipt</FileName>
+      <SHA1>87A1C24995EC2DF84A9027B0EBA5BC7C3236BC2E</SHA1>
+      <FileSize>129024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:02.1064852+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-015 Rev7.ipt</FileName>
+      <SHA1>30554EDFFE1152625D6CF2738FC31821FC5F6A18</SHA1>
+      <FileSize>129536</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:02.3195356+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-018 Rev6.ipt</FileName>
+      <SHA1>BD44367386A147FC496E3436EADD08F3E3873903</SHA1>
+      <FileSize>171520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:00.3430702+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-022 Rev4.ipt</FileName>
+      <SHA1>6110D628E564181AAC97B19F5DB6C36C86E481C8</SHA1>
+      <FileSize>385536</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:03.0657110+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-025 Rev19.ipt</FileName>
+      <SHA1>94F318495393EDB410FE34161A571AA32AECAAFD</SHA1>
+      <FileSize>663552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:24:59.2008019+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-043 Rev8.ipt</FileName>
+      <SHA1>4BFD2B06EE2289DB1BB04D6684CF5385AF85F5CF</SHA1>
+      <FileSize>113152</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:24:59.4788666+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-059 Rev2.ipt</FileName>
+      <SHA1>57C6913EFAA798F7B446EBCD969B23026A6EC820</SHA1>
+      <FileSize>540160</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:00.1400224+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-061 Rev7_Ring_Gear_Fixed01 .6 Rev3.ipt</FileName>
+      <SHA1>AD332617786A467455328AE27ADFBE3F6290B184</SHA1>
+      <FileSize>837120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:00.6841504+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-062 Rev1.ipt</FileName>
+      <SHA1>88BD1FD3EB1016E0912F2E38EAC1E6F16240D3AA</SHA1>
+      <FileSize>760320</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:24:59.8789612+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-110 Rev10_Instruction.iam</FileName>
+      <SHA1>1AB5C26B590CF87B78A9A461B62D3EC243795953</SHA1>
+      <FileSize>532992</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:01.3673114+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-900 Rev6_Instruction.iam</FileName>
+      <SHA1>FC6E09C0B827F78D653FF0534A7308E42C859219</SHA1>
+      <FileSize>202752</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:04.2019783+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-901 Rev6.ipt</FileName>
+      <SHA1>BEBD94D2127ECCE29D2CF1377222AC202CE09C64</SHA1>
+      <FileSize>131584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:03.5868339+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\276-4840-902 Rev2.ipt</FileName>
+      <SHA1>258B21C001366FC6836B1ECDD605C34A7221F2FC</SHA1>
+      <FileSize>421376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:25:03.3567798+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\V5 Robot Brain (276-4810).step</FileName>
+      <SHA1>164CC94C2945A2AF23CE53B499349FEC8F6863F3</SHA1>
+      <FileSize>44925349</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:21:35.8358096+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>VexMotor\V5 Smart Motor (276-4840).step</FileName>
+      <SHA1>47625DBAF2FC4EFE555029165756D7D465061B01</SHA1>
+      <FileSize>16822582</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:21:56.2493979+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>18.iam</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>2021888</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-09T00:56:09.5610000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DrivetrainPlate.ipt</FileName>
+      <SHA1>9C539613476AC9F8D868D56EA27E7A5693C42468</SHA1>
+      <FileSize>85504</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:41:49.0610000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Parameters.ipt</FileName>
+      <SHA1>D6F5C5C816A667A88EADE59AA55FBE37A7D73F5D</SHA1>
+      <FileSize>66048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:23:12.3791957+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V5 Smart Motor (276-4840).iam</FileName>
+      <SHA1>B87DFFEB3C9D4E3B7723106E909A94B3CDD4FF41</SHA1>
+      <FileSize>1765376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-08T17:33:50.3600000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

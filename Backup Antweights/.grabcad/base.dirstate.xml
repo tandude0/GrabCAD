@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-29T03:29:40.4366823+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\OldVersions\57155K571_Flanged Ball Bearing.0002.ipt</FileName>
+      <SHA1>7CF0FE0DFDAB07EED2AF23A15FD8FBBA0B799AA4</SHA1>
+      <FileSize>638976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\OldVersions\Insomnia1ToothWeapon_10_5_21.0007.ipt</FileName>
+      <SHA1>368F49D0970887B7BAD4F189B75F4937D1C170F0</SHA1>
+      <FileSize>397824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\OldVersions\New Hub for old blade Lid.0001.ipt</FileName>
+      <SHA1>B8FCD1A31BAEBFAAE2F5FBF68FA00D63728A2795</SHA1>
+      <FileSize>94208</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\OldVersions\New Hub for old blade.0003.ipt</FileName>
+      <SHA1>5876C6D939DC0E9022FB12849BBF0ECCCA210040</SHA1>
+      <FileSize>137728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\57155K571_Flanged Ball Bearing.ipt</FileName>
+      <SHA1>8E3BD1114C2DD6D235F51F63C53E5D69609763C0</SHA1>
+      <FileSize>638464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\90417A126_Phillips Rounded Head Thread-Forming Screws.ipt</FileName>
+      <SHA1>3EABC62B8AC519D6D95518AD118EA56E26FD314B</SHA1>
+      <FileSize>693760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\Basic Horiozontal Assembly.iam</FileName>
+      <SHA1>4BB27E1CDB936F10773DC2C2A9EF2BE3B01EAF04</SHA1>
+      <FileSize>477696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\BatteryMockup.ipt</FileName>
+      <SHA1>A4FB45F161A175BA82353CE1EBD9949C0AEAB425</SHA1>
+      <FileSize>87040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\BH 7 28 22.PNG</FileName>
+      <SHA1>2F93CB2A7BF9F72C79DBECE98DE5C8B7454DD4F8</SHA1>
+      <FileSize>99168</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\CorrectSizeWheelsIThink.ipt</FileName>
+      <SHA1>90AF1B6C8C49AA0CC8ECF4C44BBDC7AF97B47594</SHA1>
+      <FileSize>251904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\EMax RS2205 v1.ipt</FileName>
+      <SHA1>4DD5ADEC8F7BF38B1BA3A98EA9FCA6F5A1C1B1E9</SHA1>
+      <FileSize>284160</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\FingerTech_Silver_Spark_223350.ipt</FileName>
+      <SHA1>0D814162F7A1FF1C166BDB4777EE8FD9467AF14E</SHA1>
+      <FileSize>333312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\Horizontal TPU 22 Chassis.ipt</FileName>
+      <SHA1>A12389D8A1BCD1F98936DD32DBB686E1A2BF0D69</SHA1>
+      <FileSize>855552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\Insomnia1ToothWeapon_10_5_21.ipt</FileName>
+      <SHA1>378C687615649007891B09A508D4F3037F011A1E</SHA1>
+      <FileSize>397824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\New Hub for old blade Lid.ipt</FileName>
+      <SHA1>7A0B86B194E2DFDA0F38D4263F1578B2260EE104</SHA1>
+      <FileSize>96768</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\New Hub for old blade.ipt</FileName>
+      <SHA1>3C91448E10F545CADD40F3EA24F851109B0653D1</SHA1>
+      <FileSize>140800</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\UHMWBearingUpright.ipt</FileName>
+      <SHA1>81E10DB0D9D5D76870B464EBAC07FF1C0716BCB2</SHA1>
+      <FileSize>195072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\UHMWMotorUpright.ipt</FileName>
+      <SHA1>D298C5DC8B99562A26A46C89F64CB82ADB82307F</SHA1>
+      <FileSize>410624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\OldVersions\Horizontal TPU 22 Chassis.0027.ipt</FileName>
+      <SHA1>54E2534415E414FB8F72F84858624257A1206E10</SHA1>
+      <FileSize>823296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\BH fixed lid 7 28 22.PNG</FileName>
+      <SHA1>A38369A5C52BBC4083C3B3ACB3D28C16A9BFD8A9</SHA1>
+      <FileSize>345913</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\JankLid.ipt</FileName>
+      <SHA1>A58E764F888FDBD3ED0BFDB7D86F112A5B3F7099</SHA1>
+      <FileSize>338944</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\STLS\Backup Horizontal topplate.gcode</FileName>
+      <SHA1>528E44394BC43B6ED17549CB6DA5CA4063F7FD0E</SHA1>
+      <FileSize>4886846</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\STLS\Backup_Horizontal TPU 22 Chassis hub and bottom.gcode</FileName>
+      <SHA1>B4A6E8F95E55714DCA9DDF4E687F35093DB641F2</SHA1>
+      <FileSize>18828156</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\STLS\Horizontal TPU 22 Chassis.stl</FileName>
+      <SHA1>26D9BE83E4B9B118F6796B4F5B4D87F0887FB861</SHA1>
+      <FileSize>819284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\STLS\New Hub for old blade Lid.stl</FileName>
+      <SHA1>9544788A56D80977690E688E396E753337AD171A</SHA1>
+      <FileSize>237684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\STLS\New Hub for old blade.stl</FileName>
+      <SHA1>881577A41C4E18089544BAFDE193171642844386</SHA1>
+      <FileSize>687384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\STLS\UHMWBearingUpright.stl</FileName>
+      <SHA1>52400DDD6FEA02A94B8E653E1519D1E915529065</SHA1>
+      <FileSize>92884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\STLS\UHMWMotorUpright.stl</FileName>
+      <SHA1>7A7293B8BADFF3BB9223A9D18378F5C90F235B37</SHA1>
+      <FileSize>467284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1 pound smee\OldVersions\Smooool TPU 22 Chassis.0001.ipt</FileName>
+      <SHA1>8CACF031C5D5432F457010B6B5BA60328F090D87</SHA1>
+      <FileSize>855040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1 pound smee\OldVersions\Smooool TPU 22 Chassis.ipt</FileName>
+      <SHA1>AA257B1E964DD19CA8800AF1EB1EE6DC8A026D2B</SHA1>
+      <FileSize>765440</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1 pound smee\OldVersions\TPU 22 Chassis.0038.ipt</FileName>
+      <SHA1>C7F5B161BE28CA5B19C96CD85FE2470ECFE09E93</SHA1>
+      <FileSize>697856</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1 pound smee\TPU 22 Chassis.ipt</FileName>
+      <SHA1>240465549BB1182334551C455C5611D3F81D4247</SHA1>
+      <FileSize>698880</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\OldVersions\Basic Horiozontal Assembly.0025.iam</FileName>
+      <SHA1>B47ED7B53C08DED46C4229F79AA52DFC604435CE</SHA1>
+      <FileSize>477184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\OldVersions\UHMWBearingUpright.0026.ipt</FileName>
+      <SHA1>90F6928225215E14DEAF1A075CD7C5B55FE82AD0</SHA1>
+      <FileSize>185856</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Basic Horizontal\OldVersions\UHMWMotorUpright.0031.ipt</FileName>
+      <SHA1>8FE62803D09752C439722167E682F11E628799AB</SHA1>
+      <FileSize>402944</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

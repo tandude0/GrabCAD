@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-01-05T15:42:36.6843051-05:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OldVersions\BR0806 8000KV Rough Mockup.0005.ipt</FileName>
+      <SHA1>F56A047DEE3FD3B6BC9785372CCCF0CC08EB090B</SHA1>
+      <FileSize>159232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T20:14:56.0020000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Brushless CustomChassis.0029.ipt</FileName>
+      <SHA1>B1189F8391DC567FB9A8E9EA9242572EBF4E613C</SHA1>
+      <FileSize>443904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T21:45:11.7550000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Brushless RC Assembly.0003.iam</FileName>
+      <SHA1>10BEBC6FDB1A87F93D2BD18975EF13D0867CA908</SHA1>
+      <FileSize>398848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T21:13:52.3350000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\CustomChassis.0019.ipt</FileName>
+      <SHA1>F3DF2A5C29AB0E16A62AA47F17243548A2999C0B</SHA1>
+      <FileSize>352768</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T01:46:56.6380000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\CustomRCAssembly.0012.iam</FileName>
+      <SHA1>D8B014B4FE0BFA1A46D6616F77BEB8D91DFA558F</SHA1>
+      <FileSize>270848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T19:50:48.7010000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Custom_LeftKnuckle.0003.ipt</FileName>
+      <SHA1>9F1BEF29AFFB874BAE17BAB97121AE22D2D2F6B3</SHA1>
+      <FileSize>181248</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:53:42.1260000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\HW_back.0001.ipt</FileName>
+      <SHA1>3083D06C99C41E44E2D5454B5D123C9570DEBB29</SHA1>
+      <FileSize>669184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T20:50:25.1844153+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Linear Servo.0004.ipt</FileName>
+      <SHA1>07211A037624375DE6473339DE5D258ACF26B596</SHA1>
+      <FileSize>308224</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:11:32.0730000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\N10 Motor DualShaftModded.0004.ipt</FileName>
+      <SHA1>A9E6707484E1B3105EA1D9E142F35153DE0B438B</SHA1>
+      <FileSize>314368</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T02:31:24.3880000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Steering_BottomPlate.0001.ipt</FileName>
+      <SHA1>CF7AAF0A8BC7CE86421CA57C5C1E1D6AA628658B</SHA1>
+      <FileSize>108544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T23:20:50.2220000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\OldVersions\Bottom_xmem_v2.0001.ipt</FileName>
+      <SHA1>31E4AA5F26A9609D6C23139993BE2B9B6139F788</SHA1>
+      <FileSize>91136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T21:02:35.1370000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\OldVersions\Chassis.0002.ipt</FileName>
+      <SHA1>53EDEAB28A1B206ED3B6170B505B4C319F0F6045</SHA1>
+      <FileSize>89600</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T21:01:16.1560000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\OldVersions\Left_knuckle.0002.ipt</FileName>
+      <SHA1>300A72BC47E589A46A3C4773FE1AEB50E7F2B10C</SHA1>
+      <FileSize>108032</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:45:20.7290000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\OldVersions\Right_knuckle.0001.ipt</FileName>
+      <SHA1>E231CD18C0536D7CC780A48CF359C69E8F067BBF</SHA1>
+      <FileSize>95744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T21:01:51.5740000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\OldVersions\top_xmem_v2.0001.ipt</FileName>
+      <SHA1>ECF34DF06BC10AFAC5404B127EB6DE181025E474</SHA1>
+      <FileSize>92672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T21:02:04.4650000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\Bottom_xmem_v2.ipt</FileName>
+      <SHA1>B0BAB1B6B0597BC87CC8FF059BEF403535675FEA</SHA1>
+      <FileSize>92672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:35:12.3090000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\Bottom_xmem_v2.stl</FileName>
+      <SHA1>3FEB3B231D062B72D3275193E96A38E92A39F9BE</SHA1>
+      <FileSize>30884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:39:32.5276892+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\Chassis.ipt</FileName>
+      <SHA1>EE200328B28B0130530A5F0359BBFECD202430AC</SHA1>
+      <FileSize>91136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:11:59.1770000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\Chassis.stl</FileName>
+      <SHA1>4FC1F4EF2C939DD97F1AEBA8212A80E7F7B0B9C7</SHA1>
+      <FileSize>9884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:39:33.7968533+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\Left_knuckle.ipt</FileName>
+      <SHA1>9445CBC0ABE12467F3FAF23A09D36BDA101ED9C1</SHA1>
+      <FileSize>108544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:50:40.4110000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\Left_knuckle.stl</FileName>
+      <SHA1>A596A2EAA2DED9218AF7086C7F974EE8ACC06965</SHA1>
+      <FileSize>43184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:39:34.6424281+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\Right_knuckle.ipt</FileName>
+      <SHA1>1BACD9B1BAA85BBD5779A4F2C9EAD23D40895882</SHA1>
+      <FileSize>96256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:55:36.6250000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\Right_knuckle.stl</FileName>
+      <SHA1>AAB84A75C8209D71AA15DE71D912ABEC317A2DCA</SHA1>
+      <FileSize>43184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:39:44.2745757+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\top_xmem_v2.ipt</FileName>
+      <SHA1>334865934B64BE1D7860326183E0496895954E1F</SHA1>
+      <FileSize>93184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:56:36.0320000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref STLs\top_xmem_v2.stl</FileName>
+      <SHA1>C2E7041E7130EE4351D24318CB1E34F4C93DFE3B</SHA1>
+      <FileSize>34484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:39:41.1780737+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0806 racestar specs.PNG</FileName>
+      <SHA1>4AAFCEA272DF6E7718A2010EE52CD64D8B87AA78</SHA1>
+      <FileSize>156358</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T16:14:26.4045648+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>7 22 2022.PNG</FileName>
+      <SHA1>C2D0C3071A24A32ECB984723353EAB6009CB9DF0</SHA1>
+      <FileSize>132039</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T02:36:18.0795768+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>7 23 22 done done i think.PNG</FileName>
+      <SHA1>CE4DF87B2B46A25C3A9F439D9EA789E8840645B4</SHA1>
+      <FileSize>312864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T21:34:33.1023215+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>7 23 22 Roughly done.PNG</FileName>
+      <SHA1>14D312F7E2DA4E539EAF5C503D2FAF8476759C10</SHA1>
+      <FileSize>201855</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T21:28:55.1361637+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>7 23 22.PNG</FileName>
+      <SHA1>3EA9966695C00FAF99AC34B7B86F7EAC12107AAD</SHA1>
+      <FileSize>223403</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T21:01:21.4813053+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BottomPlateReference.PNG</FileName>
+      <SHA1>E42FBE59784C989DE7A90C717BAE825F3DECCE43</SHA1>
+      <FileSize>646376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:35:34.3541981+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BR0806 8000KV Rough Mockup.ipt</FileName>
+      <SHA1>BB24E8B5CF5AD0987B1A959FDB0AB155DEA0F9F7</SHA1>
+      <FileSize>159232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T21:13:51.6160000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Brushless CustomChassis.ipt</FileName>
+      <SHA1>E8A04734739E74BC70C945CB2D7A3D67DF5C1E4B</SHA1>
+      <FileSize>445952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T21:47:55.4500000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Brushless RC Assembly.iam</FileName>
+      <SHA1>CCDA1CC9CB60CF232B6695FB25CA2148807EDF54</SHA1>
+      <FileSize>392192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T21:48:14.7320000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CustomChassis.ipt</FileName>
+      <SHA1>768A5E630F7DFE620B31AE74A5DA59289D6B0E43</SHA1>
+      <FileSize>348160</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T02:35:13.7720000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CustomRCAssembly.iam</FileName>
+      <SHA1>3D74F947639FF7E8F26F10D3647C52ADD95E540F</SHA1>
+      <FileSize>407040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T21:02:15.8980000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Custom_LeftKnuckle.ipt</FileName>
+      <SHA1>9650C008065313890A93C341A7125BADC1AEFA38</SHA1>
+      <FileSize>179712</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:55:27.0300000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Custom_RightKnuckle.ipt</FileName>
+      <SHA1>957373B4184690EBEACDFE3B704A762225F239CB</SHA1>
+      <FileSize>156672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:55:27.2366623+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>HW_back.CATPart</FileName>
+      <SHA1>10A5B5B8C02EF7BACF915D03183051D05A1F12FE</SHA1>
+      <FileSize>1002370</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T20:49:56.9661118+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>HW_back.ipt</FileName>
+      <SHA1>77B4AA23FB928E1AAF50F86AFC3FCAE56C6DAE92</SHA1>
+      <FileSize>669696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T20:50:33.1390000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Insomnia For Scale.PNG</FileName>
+      <SHA1>C0B4B4942B56492A1CBEA6241158B6D9BF1D35B1</SHA1>
+      <FileSize>232528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T02:43:10.8724246+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Linear Servo.ipt</FileName>
+      <SHA1>A29818C389D914B566B947E0001A253C796EF7B2</SHA1>
+      <FileSize>319488</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:19:12.7220000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Linear Servo.step</FileName>
+      <SHA1>7E5E3DDE5F8E08743717DB9F5BB6D755B0F7155F</SHA1>
+      <FileSize>214544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:22:46.8751379+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>LinearServo Pic.jpg</FileName>
+      <SHA1>4D620E1A7078B5482C96C035DC86580EADC63B29</SHA1>
+      <FileSize>19461</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:26:45.9185520+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>N10 Motor DualShaftModded.ipt</FileName>
+      <SHA1>4BFF27F10C651F1DFE3D384F93F1008205A3906C</SHA1>
+      <FileSize>315392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T03:05:31.5170000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>n10 pic.jpg</FileName>
+      <SHA1>74343CC21C6DBAD427E270128B431C4A5C02742B</SHA1>
+      <FileSize>21458</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:25:35.5636600+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>nicer n10 pic.jpg</FileName>
+      <SHA1>E242EB8FF9805902A09E237D7CD514533379157A</SHA1>
+      <FileSize>16007</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T02:09:11.1994266+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldRef.PNG</FileName>
+      <SHA1>DCB8A1E75A652A59A7BC9B162A6D522732428EB4</SHA1>
+      <FileSize>384620</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T21:03:03.6446390+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Parts.txt</FileName>
+      <SHA1>BFF176CF18582CB0C19A2BA6824E25D7082C92B0</SHA1>
+      <FileSize>2222</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T19:33:05.0308238+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SlickReference.PNG</FileName>
+      <SHA1>8D50B5BCC88FCD170041AF2FBB42B5B4937670E8</SHA1>
+      <FileSize>543394</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T20:33:58.2675041+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Steering_BottomPlate.ipt</FileName>
+      <SHA1>2460B7A1314CC01E89166F3E20E7A37781AA3A1E</SHA1>
+      <FileSize>122880</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T23:22:20.3740000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ultra dish.SLDPRT</FileName>
+      <SHA1>E4F49D7C1B5B5D774942F9CB5EB67675F55C23BE</SHA1>
+      <FileSize>1027713</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T20:45:41.9174326+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>UndersideRef.PNG</FileName>
+      <SHA1>DCE6B323BD8640F01F8F54E2C888872571355624</SHA1>
+      <FileSize>764335</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-22T22:28:56.8746062+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Wheel ultra dish.ipt</FileName>
+      <SHA1>B3FB981186B763B5125D966E6BBD7C16CB5C52B0</SHA1>
+      <FileSize>1051648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-07-23T20:46:33.4830000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

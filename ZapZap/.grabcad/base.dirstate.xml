@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-01-05T20:56:23.3055511+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>BiggerLever.ipt</FileName>
+      <SHA1>FC64B688795EE4AE903D0BB4443E014965401466</SHA1>
+      <FileSize>269312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Lever.ipt</FileName>
+      <SHA1>304F76F52198ABA6F76E8A62C23AE969C8AD0A15</SHA1>
+      <FileSize>291328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Lid.ipt</FileName>
+      <SHA1>DFD606F9B139045DCE9CF4977483291574710726</SHA1>
+      <FileSize>231424</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Lid.stl</FileName>
+      <SHA1>74FEA309619CD1E8D40DF59E3A8B67AE292C5640</SHA1>
+      <FileSize>287284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MainMiddle.ipt</FileName>
+      <SHA1>476F8AB8828702C4A91ADB466ED8F3CD522482A8</SHA1>
+      <FileSize>267776</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MainMiddle.stl</FileName>
+      <SHA1>7BAA626F9E5EC610911185BA1045158FC284F417</SHA1>
+      <FileSize>128684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\BiggerLever.0003.ipt</FileName>
+      <SHA1>BF2C6F3D08D54B20159E3B6350812CAD35F7C414</SHA1>
+      <FileSize>237056</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PI3MK2_Lid.gcode</FileName>
+      <SHA1>EE2929F01A1C23BA88875E920E6BED61182A119E</SHA1>
+      <FileSize>639300</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PI3MK2_MainMiddle.gcode</FileName>
+      <SHA1>45CECE548BA529C7F8563C40F7EFC66A3AD6B22B</SHA1>
+      <FileSize>6239869</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PI3MK2_YOUWANTIT.gcode</FileName>
+      <SHA1>3BDE13193046D61B8F604C0F1D9F74723FB6ABC7</SHA1>
+      <FileSize>865906</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PI3MK2_YOUWANTITTHICC.gcode</FileName>
+      <SHA1>650924A2359BFD122FE483D8E826AF108091F4EA</SHA1>
+      <FileSize>882177</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PI3MK2_malorian_body_full_fixed7000.gcode</FileName>
+      <SHA1>3D6A5E85802062A9A4F9F7069D7C55948B72C688</SHA1>
+      <FileSize>30437434</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PI3MK2_malorian_extras_7000.gcode</FileName>
+      <SHA1>8DC242B97DA4FCAC3111A5C4F9D2E78CF91E9670</SHA1>
+      <FileSize>8720379</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ZAP ASSEMBLY.iam</FileName>
+      <SHA1>19704281D5FF0F829A900E5D613B75991268890D</SHA1>
+      <FileSize>137728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>zapzapmid.gcode</FileName>
+      <SHA1>7E2B212776ACA23B529AA1AC5277C9E47A91C4A3</SHA1>
+      <FileSize>6028724</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Lever.0006.ipt</FileName>
+      <SHA1>8D830CA7217D3DFF3FBF4DB755FF632D5C28D68F</SHA1>
+      <FileSize>194048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Lid.0006.ipt</FileName>
+      <SHA1>17CA49BA455171E4CF3ADC84AB4B2608AE33D082</SHA1>
+      <FileSize>159744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\MainMiddle.0005.ipt</FileName>
+      <SHA1>38DA1405D269AFE353019F630CCF424FA4D2A3FC</SHA1>
+      <FileSize>287744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\ZAP ASSEMBLY.0003.iam</FileName>
+      <SHA1>3FDAB172B3B20AAFB6C6886AA41891AF04F53C4A</SHA1>
+      <FileSize>176640</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>7 9 2022 Lid.stl</FileName>
+      <SHA1>1DC79DDDBCCC6317C99E208A57E4C104FCDCD0C0</SHA1>
+      <FileSize>461584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>7 9 22 Lever.stl</FileName>
+      <SHA1>B6DB4A50A18FCD0E4D80141CF46B90B44BCA8DCE</SHA1>
+      <FileSize>878884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Zapppppp.PNG</FileName>
+      <SHA1>245A4B226508BE6F735E1E55A9113EAA7065ADDB</SHA1>
+      <FileSize>209334</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>New Lid.gcode</FileName>
+      <SHA1>DF91F75219AB6F7704B8109B9F27D0D075D394E0</SHA1>
+      <FileSize>1763233</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PI3MK3M_7 9 22 Lever.gcode</FileName>
+      <SHA1>4FF2CC079C00AAAA194DF4C9F6AA98D5A61B7C80</SHA1>
+      <FileSize>2349344</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

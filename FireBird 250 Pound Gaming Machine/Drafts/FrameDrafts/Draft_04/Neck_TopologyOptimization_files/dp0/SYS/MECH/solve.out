@@ -1,0 +1,1133 @@
+
+ ANSYS Mechanical Enterprise                       
+
+
+ *------------------------------------------------------------------*
+ |                                                                  |
+ |   W E L C O M E   T O   T H E   A N S Y S (R)  P R O G R A M     |
+ |                                                                  |
+ *------------------------------------------------------------------*
+
+
+
+
+ ***************************************************************
+ *            ANSYS 2020 R2          LEGAL NOTICES             *
+ ***************************************************************
+ *                                                             *
+ * Copyright 1971-2020 ANSYS, Inc.  All rights reserved.       *
+ * Unauthorized use, distribution or duplication is            *
+ * prohibited.                                                 *
+ *                                                             *
+ * Ansys is a registered trademark of ANSYS, Inc. or its       *
+ * subsidiaries in the United States or other countries.       *
+ * See the ANSYS, Inc. online documentation or the ANSYS, Inc. *
+ * documentation CD or online help for the complete Legal      *
+ * Notice.                                                     *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * THIS ANSYS SOFTWARE PRODUCT AND PROGRAM DOCUMENTATION       *
+ * INCLUDE TRADE SECRETS AND CONFIDENTIAL AND PROPRIETARY      *
+ * PRODUCTS OF ANSYS, INC., ITS SUBSIDIARIES, OR LICENSORS.    *
+ * The software products and documentation are furnished by    *
+ * ANSYS, Inc. or its subsidiaries under a software license    *
+ * agreement that contains provisions concerning               *
+ * non-disclosure, copying, length and nature of use,          *
+ * compliance with exporting laws, warranties, disclaimers,    *
+ * limitations of liability, and remedies, and other           *
+ * provisions.  The software products and documentation may be *
+ * used, disclosed, transferred, or copied only in accordance  *
+ * with the terms and conditions of that software license      *
+ * agreement.                                                  *
+ *                                                             *
+ * ANSYS, Inc. is a UL registered                              *
+ * ISO 9001:2015 company.                                      *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * This product is subject to U.S. laws governing export and   *
+ * re-export.                                                  *
+ *                                                             *
+ * For U.S. Government users, except as specifically granted   *
+ * by the ANSYS, Inc. software license agreement, the use,     *
+ * duplication, or disclosure by the United States Government  *
+ * is subject to restrictions stated in the ANSYS, Inc.        *
+ * software license agreement and FAR 12.212 (for non-DOD      *
+ * licenses).                                                  *
+ *                                                             *
+ ***************************************************************
+
+ 2020 R2 
+     
+ Point Releases and Patches installed:   
+     
+ ANSYS, Inc. Products 2020 R2
+ SpaceClaim 2020 R2  
+ Discovery 2020 R2   
+ AIM 2020 R2 
+ Live (includes SpaceClaim) 2020 R2  
+ ANSYS Sherlock 2020 R2  
+ Autodyn 2020 R2 
+ LS-DYNA 2020 R2 
+ CFD-Post only 2020 R2   
+ CFX (includes CFD-Post) 2020 R2 
+ Chemkin 2020 R2 
+ EnSight 2020 R2 
+ FENSAP-ICE 2020 R2  
+ Fluent (includes CFD-Post) 2020 R2  
+ Forte (includes EnSight) 2020 R2
+ Polyflow (includes CFD-Post) 2020 R2
+ TurboGrid 2020 R2   
+ ICEM CFD 2020 R2
+ Aqwa 2020 R2
+ SPEOS 2020 R2   
+ Customization Files for User Programmable Features 2020 R2  
+ Mechanical Products 2020 R2 
+ Additive 2020 R2
+ Icepak (includes CFD-Post) 2020 R2  
+ Remote Solve Manager Standalone Services 2020 R2
+ Viewer 2020 R2  
+ ACIS Geometry Interface 2020 R2 
+ AutoCAD Geometry Interface 2020 R2  
+ Catia, Version 4 Geometry Interface 2020 R2 
+ Catia, Version 5 Geometry Interface 2020 R2 
+ Catia, Version 6 Geometry Interface 2020 R2 
+ Creo Elements/Direct Modeling Geometry Interface 2020 R2
+ Creo Parametric Geometry Interface 2020 R2  
+ Inventor Geometry Interface 2020 R2 
+ JTOpen Geometry Interface 2020 R2   
+ NX Geometry Interface 2020 R2   
+ Parasolid Geometry Interface  2020 R2   
+ Solid Edge Geometry Interface 2020 R2   
+ SOLIDWORKS Geometry Interface 2020 R2   
+ ANSYS, Inc. License Manager 2020 R2 
+
+
+          *****  ANSYS COMMAND LINE ARGUMENTS  *****
+  BATCH MODE REQUESTED (-b)    = NOLIST
+  INPUT FILE COPY MODE (-c)    = COPY
+  DISTRIBUTED MEMORY PARALLEL REQUESTED
+       2 PARALLEL PROCESSES REQUESTED WITH SINGLE THREAD PER PROCESS
+    TOTAL OF     2 CORES REQUESTED
+  INPUT FILE NAME              = C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_15308_2\_ProjectScratch\ScrDD41\dummy.dat
+  OUTPUT FILE NAME             = C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_15308_2\_ProjectScratch\ScrDD41\solve.out
+  START-UP FILE MODE           = NOREAD
+  STOP FILE MODE               = NOREAD
+
+ RELEASE= 2020 R2              BUILD= 20.2      UP20200601   VERSION=WINDOWS x64 
+ CURRENT JOBNAME=file0  20:03:53  JUN 19, 2021 CP=      0.234
+
+
+ PARAMETER _DS_PROGRESS =     999.0000000    
+
+ /INPUT FILE= ds.dat  LINE=       0
+
+
+
+ *** NOTE ***                            CP =       0.344   TIME= 20:03:53
+ The /CONFIG,NOELDB command is not valid in a Distributed ANSYS          
+ solution.  Command is ignored.                                          
+
+ *GET  _WALLSTRT  FROM  ACTI  ITEM=TIME WALL  VALUE=  20.0647222    
+
+
+ USE DOUBLE PRECISION RESULTS FILE FORMAT
+
+ TITLE= 
+ unsaved_project--Static Structural (A5)                                       
+
+
+ SET PARAMETER DIMENSIONS ON  _WB_PROJECTSCRATCH_DIR
+  TYPE=STRI  DIMENSIONS=      248        1        1
+
+ PARAMETER _WB_PROJECTSCRATCH_DIR(1) = C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_15308_2\_ProjectScratch\ScrDD41\
+
+ SET PARAMETER DIMENSIONS ON  _WB_SOLVERFILES_DIR
+  TYPE=STRI  DIMENSIONS=      248        1        1
+
+ PARAMETER _WB_SOLVERFILES_DIR(1) = C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_15308_2\unsaved_project_files\dp0\SYS\MECH\
+
+ SET PARAMETER DIMENSIONS ON  _WB_USERFILES_DIR
+  TYPE=STRI  DIMENSIONS=      248        1        1
+
+ PARAMETER _WB_USERFILES_DIR(1) = C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_15308_2\unsaved_project_files\user_files\
+ --- Data in consistent MKS units. See Solving Units in the help system for more
+
+ MKS UNITS SPECIFIED FOR INTERNAL    
+  LENGTH        (l)  = METER (M)
+  MASS          (M)  = KILOGRAM (KG)
+  TIME          (t)  = SECOND (SEC)
+  TEMPERATURE   (T)  = CELSIUS (C)
+  TOFFSET            = 273.0
+  CHARGE        (Q)  = COULOMB
+  FORCE         (f)  = NEWTON (N) (KG-M/SEC2)
+  HEAT               = JOULE (N-M)
+
+  PRESSURE           = PASCAL (NEWTON/M**2)
+  ENERGY        (W)  = JOULE (N-M)
+  POWER         (P)  = WATT (N-M/SEC)
+  CURRENT       (i)  = AMPERE (COULOMBS/SEC)
+  CAPACITANCE   (C)  = FARAD
+  INDUCTANCE    (L)  = HENRY
+  MAGNETIC FLUX      = WEBER
+  RESISTANCE    (R)  = OHM
+  ELECTRIC POTENTIAL = VOLT
+
+ INPUT  UNITS ARE ALSO SET TO MKS 
+
+ *** ANSYS - ENGINEERING ANALYSIS SYSTEM  RELEASE 2020 R2          20.2     ***
+ DISTRIBUTED ANSYS Mechanical Enterprise                       
+
+ 01066031  VERSION=WINDOWS x64   20:03:53  JUN 19, 2021 CP=      0.359
+
+ unsaved_project--Static Structural (A5)                                       
+
+
+
+          ***** ANSYS ANALYSIS DEFINITION (PREP7) *****
+ *********** Nodes for the whole assembly ***********
+ *********** Nodes for all Remote Points ***********
+ *********** Elements for Body 1 "NeckFrame_Draft04-FreeParts|Solid1" **********
+ *********** Send User Defined Coordinate System(s) ***********
+ *********** Set Reference Temperature ***********
+ *********** Send Materials ***********
+ *********** Fixed Supports ***********
+ ********* Frictionless Supports Z *********
+ *********** Define Force Using Surface Effect Elements ***********
+ *********** Define Force Using Surface Effect Elements ***********
+ *********** Define Force Using Surface Effect Elements ***********
+ *********** Define Force Using Surface Effect Elements ***********
+ *********** Define Force Using Surface Effect Elements ***********
+ *********** Define Force Using Surface Effect Elements ***********
+ *********** Define Force Using Surface Effect Elements ***********
+ *********** Create Remote Point "Internal Remote Point" ***********
+ *********** Construct Remote Force ***********
+ *********** Create Bearing Load ***********
+ *********** Create Bearing Load ***********
+ *********** Create Bearing Load ***********
+
+
+ ***** ROUTINE COMPLETED *****  CP =         1.453
+
+
+ --- Number of total nodes = 216563
+ --- Number of contact elements = 1930
+ --- Number of spring elements = 0
+ --- Number of bearing elements = 0
+ --- Number of solid elements = 44665
+ --- Number of condensed parts = 0
+ --- Number of total elements = 46596
+
+ *GET  _WALLBSOL  FROM  ACTI  ITEM=TIME WALL  VALUE=  20.0650000    
+ ****************************************************************************
+ *************************    SOLUTION       ********************************
+ ****************************************************************************
+
+ *****  ANSYS SOLUTION ROUTINE  *****
+
+
+ PERFORM A STATIC ANALYSIS
+  THIS WILL BE A NEW ANALYSIS
+
+ PARAMETER _THICKRATIO =     1.000000000    
+
+ USE PRECONDITIONED CONJUGATE GRADIENT SOLVER
+  CONVERGENCE TOLERANCE = 1.00000E-08
+  MAXIMUM ITERATION     = NumNode*DofPerNode*  1.0000    
+
+ CONTACT INFORMATION PRINTOUT LEVEL       1
+
+ NLDIAG: Nonlinear diagnostics CONT option is set to ON. 
+         Writing frequency : each ITERATION.
+
+ DO NOT SAVE ANY RESTART FILES AT ALL
+ ****************************************************
+ ******************* SOLVE FOR LS 1 OF 1 ****************
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE         2 TO          2 STEP          1
+
+         20  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT      ALL NODES HAVING ANY ELEMENT IN ELEMENT SET.
+
+        112 NODES (OF     216563  DEFINED) SELECTED FROM
+       20 SELECTED ELEMENTS BY NSLE COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  1   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  2   KVAL = 1
+     VALUES =    0.46828E+06    0.46828E+06    0.46828E+06    0.46828E+06
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  3   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE         3 TO          3 STEP          1
+
+         20  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT      ALL NODES HAVING ANY ELEMENT IN ELEMENT SET.
+
+        112 NODES (OF     216563  DEFINED) SELECTED FROM
+       20 SELECTED ELEMENTS BY NSLE COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  1   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  2   KVAL = 1
+     VALUES =   -0.46828E+06   -0.46828E+06   -0.46828E+06   -0.46828E+06
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  3   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE         4 TO          4 STEP          1
+
+        190  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT      ALL NODES HAVING ANY ELEMENT IN ELEMENT SET.
+
+        646 NODES (OF     216563  DEFINED) SELECTED FROM
+      190 SELECTED ELEMENTS BY NSLE COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  1   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  2   KVAL = 1
+     VALUES =     77500.         77500.         77500.         77500.    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  3   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE         5 TO          5 STEP          1
+
+         25  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT      ALL NODES HAVING ANY ELEMENT IN ELEMENT SET.
+
+         96 NODES (OF     216563  DEFINED) SELECTED FROM
+       25 SELECTED ELEMENTS BY NSLE COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  1   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  2   KVAL = 1
+     VALUES =    0.31000E+06    0.31000E+06    0.31000E+06    0.31000E+06
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  3   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE         6 TO          6 STEP          1
+
+         25  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT      ALL NODES HAVING ANY ELEMENT IN ELEMENT SET.
+
+         96 NODES (OF     216563  DEFINED) SELECTED FROM
+       25 SELECTED ELEMENTS BY NSLE COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  1   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  2   KVAL = 1
+     VALUES =   -0.31000E+06   -0.31000E+06   -0.31000E+06   -0.31000E+06
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  3   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE         7 TO          7 STEP          1
+
+         60  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT      ALL NODES HAVING ANY ELEMENT IN ELEMENT SET.
+
+        248 NODES (OF     216563  DEFINED) SELECTED FROM
+       60 SELECTED ELEMENTS BY NSLE COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  1   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  2   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  3   KVAL = 1
+     VALUES =   -0.24800E+06   -0.24800E+06   -0.24800E+06   -0.24800E+06
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE         8 TO          8 STEP          1
+
+        290  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT      ALL NODES HAVING ANY ELEMENT IN ELEMENT SET.
+
+        997 NODES (OF     216563  DEFINED) SELECTED FROM
+      290 SELECTED ELEMENTS BY NSLE COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  1   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  2   KVAL = 1
+     VALUES =     0.0000         0.0000         0.0000         0.0000    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  3   KVAL = 1
+     VALUES =     37004.         37004.         37004.         37004.    
+
+ ALL SELECT   FOR ITEM=NODE COMPONENT=    
+  IN RANGE         1 TO     268335 STEP          1
+
+     216563  NODES (OF     216563  DEFINED) SELECTED BY NSEL  COMMAND.
+
+ ALL SELECT   FOR ITEM=ELEM COMPONENT=    
+  IN RANGE         1 TO      87252 STEP          1
+
+      46596  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT       FOR ITEM=NODE COMPONENT=    
+  IN RANGE    268335 TO     268335 STEP          1
+
+          1  NODES (OF     216563  DEFINED) SELECTED BY  NSEL  COMMAND.
+
+ SPECIFIED NODAL LOAD FX   FOR SELECTED NODES         1 TO   268335 BY        1
+  REAL=  0.00000000       IMAG=  0.00000000    
+
+ SPECIFIED NODAL LOAD FY   FOR SELECTED NODES         1 TO   268335 BY        1
+  REAL=  0.00000000       IMAG=  0.00000000    
+
+ SPECIFIED NODAL LOAD FZ   FOR SELECTED NODES         1 TO   268335 BY        1
+  REAL= -200.000000       IMAG=  0.00000000    
+
+ ALL SELECT   FOR ITEM=NODE COMPONENT=    
+  IN RANGE         1 TO     268335 STEP          1
+
+     216563  NODES (OF     216563  DEFINED) SELECTED BY NSEL  COMMAND.
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE        11 TO         11 STEP          1
+
+        300  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  5   KVAL = 1
+     VALUES =     0.0000         1.0000         0.0000         0.0000    
+
+ COORDINATE SYSTEM      11 DEFINITION.  TYPE= 0  (CARTESIAN)  
+   XC,YC,ZC=  0.0000      0.0000      0.0000    
+   ANGLES=  -90.00    0.00   90.00   PARAMETERS=   1.000   1.000
+   ORIENTATION=  0.00 -0.00 -1.00   1.00  0.00  0.00   0.00 -1.00  0.00
+
+ ACTIVE COORDINATE SYSTEM SET TO        11  (CARTESIAN)  
+
+ ACTIVE COORDINATE SYSTEM SET TO         0  (CARTESIAN)  
+
+ PARAMETER _V1 =     0.000000000    
+
+ PARAMETER _V2 =     0.000000000    
+
+ PARAMETER _V3 =    -1.000000000    
+
+ *GET  _NECURR   FROM  ELEM  ITEM=COUN           VALUE=  300.000000    
+
+ PARAMETER _ECURR =     0.000000000    
+
+ PARAMETER _TOTAL =     0.000000000    
+
+ *DO LOOP ON PARAMETER= _I FROM  1.0000     TO  300.00     BY  1.0000    
+
+ PARAMETER _ECURR =     86193.00000    
+
+ PARAMETER _NORMX =    0.4228832709E-06
+
+ PARAMETER _NORMY =    0.9986615112    
+
+ PARAMETER _NORMZ =    0.5172219995E-01
+
+ PARAMETER _NORMMAG =     1.000000000    
+
+ PARAMETER _NORMX =    0.4228832709E-06
+
+ PARAMETER _NORMY =    0.9986615112    
+
+ PARAMETER _NORMZ =    0.5172219995E-01
+
+ PARAMETER _DOT =   -0.5172219995E-01
+
+ *IF  _dot                              ( = -0.517222E-01 )  GT  
+      -.00001                           ( = -0.100000E-04 )  THEN    
+
+ *ELSE
+
+ ACTIVE COORDINATE SYSTEM SET TO        11  (CARTESIAN)  
+
+ *GET  _INDD     FROM  ELEM     86193  ITEM=APRO X         VALUE= 0.332170382E-06
+
+ ACTIVE COORDINATE SYSTEM SET TO         0  (CARTESIAN)  
+
+ PARAMETER _TOTAL =    0.3321703819E-06
+
+ *ENDIF
+
+ *ENDDO  INDEX= _I                              
+
+ *GET  _NECURR   FROM  ELEM  ITEM=COUN           VALUE=  150.000000    
+
+ *IF  _necurr                           ( =   150.000     )  EQ  
+      0                                 ( =   0.00000     )  THEN    
+
+ *ENDIF
+
+ PARAMETER _MAG =     400.0000000    
+
+ PARAMETER _MAG =     620001.2400    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  5   KVAL = 1
+     VALUES =    0.62000E+06     0.0000         0.0000        -400.00    
+
+ ALL SELECT   FOR ITEM=NODE COMPONENT=    
+  IN RANGE         1 TO     268335 STEP          1
+
+     216563  NODES (OF     216563  DEFINED) SELECTED BY NSEL  COMMAND.
+
+ ALL SELECT   FOR ITEM=ELEM COMPONENT=    
+  IN RANGE         1 TO      87252 STEP          1
+
+      46596  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE        12 TO         12 STEP          1
+
+        160  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  5   KVAL = 1
+     VALUES =     0.0000         1.0000         0.0000         0.0000    
+
+ COORDINATE SYSTEM      11 DEFINITION.  TYPE= 0  (CARTESIAN)  
+   XC,YC,ZC=  0.0000      0.0000      0.0000    
+   ANGLES=  -90.00    0.00  -26.57   PARAMETERS=   1.000   1.000
+   ORIENTATION=  0.00 -0.89  0.45   1.00  0.00  0.00  -0.00  0.45  0.89
+
+ ACTIVE COORDINATE SYSTEM SET TO        11  (CARTESIAN)  
+
+ ACTIVE COORDINATE SYSTEM SET TO         0  (CARTESIAN)  
+
+ PARAMETER _V1 =     0.000000000    
+
+ PARAMETER _V2 =   -0.8944271910    
+
+ PARAMETER _V3 =    0.4472135955    
+
+ *GET  _NECURR   FROM  ELEM  ITEM=COUN           VALUE=  160.000000    
+
+ PARAMETER _ECURR =     0.000000000    
+
+ PARAMETER _TOTAL =     0.000000000    
+
+ *DO LOOP ON PARAMETER= _I FROM  1.0000     TO  160.00     BY  1.0000    
+
+ PARAMETER _ECURR =     86493.00000    
+
+ PARAMETER _NORMX =    0.1240207973E-07
+
+ PARAMETER _NORMY =    0.9952914769    
+
+ PARAMETER _NORMZ =    0.9692716857E-01
+
+ PARAMETER _NORMMAG =     1.000000000    
+
+ PARAMETER _NORMX =    0.1240207973E-07
+
+ PARAMETER _NORMY =    0.9952914769    
+
+ PARAMETER _NORMZ =    0.9692716857E-01
+
+ PARAMETER _DOT =   -0.8468686124    
+
+ *IF  _dot                              ( = -0.846869     )  GT  
+      -.00001                           ( = -0.100000E-04 )  THEN    
+
+ *ELSE
+
+ ACTIVE COORDINATE SYSTEM SET TO        11  (CARTESIAN)  
+
+ *GET  _INDD     FROM  ELEM     86493  ITEM=APRO X         VALUE= 0.509609085E-05
+
+ ACTIVE COORDINATE SYSTEM SET TO         0  (CARTESIAN)  
+
+ PARAMETER _TOTAL =    0.5096090846E-05
+
+ *ENDIF
+
+ *ENDDO  INDEX= _I                              
+
+ *GET  _NECURR   FROM  ELEM  ITEM=COUN           VALUE=  80.0000000    
+
+ *IF  _necurr                           ( =   80.0000     )  EQ  
+      0                                 ( =   0.00000     )  THEN    
+
+ *ENDIF
+
+ PARAMETER _MAG =     1118.033989    
+
+ PARAMETER _MAG =     3474492.475    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  5   KVAL = 1
+     VALUES =    0.34745E+07     0.0000        -1000.0         500.00    
+
+ ALL SELECT   FOR ITEM=NODE COMPONENT=    
+  IN RANGE         1 TO     268335 STEP          1
+
+     216563  NODES (OF     216563  DEFINED) SELECTED BY NSEL  COMMAND.
+
+ ALL SELECT   FOR ITEM=ELEM COMPONENT=    
+  IN RANGE         1 TO      87252 STEP          1
+
+      46596  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SELECT       FOR ITEM=TYPE COMPONENT=    
+  IN RANGE        13 TO         13 STEP          1
+
+        600  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  5   KVAL = 1
+     VALUES =     0.0000         1.0000         0.0000         0.0000    
+
+ COORDINATE SYSTEM      11 DEFINITION.  TYPE= 0  (CARTESIAN)  
+   XC,YC,ZC=  0.0000      0.0000      0.0000    
+   ANGLES=   90.00    0.00    0.00   PARAMETERS=   1.000   1.000
+   ORIENTATION=  0.00  1.00 -0.00  -1.00  0.00  0.00   0.00  0.00  1.00
+
+ ACTIVE COORDINATE SYSTEM SET TO        11  (CARTESIAN)  
+
+ ACTIVE COORDINATE SYSTEM SET TO         0  (CARTESIAN)  
+
+ PARAMETER _V1 =     0.000000000    
+
+ PARAMETER _V2 =     1.000000000    
+
+ PARAMETER _V3 =   -0.7815970263E-14
+
+ *GET  _NECURR   FROM  ELEM  ITEM=COUN           VALUE=  600.000000    
+
+ PARAMETER _ECURR =     0.000000000    
+
+ PARAMETER _TOTAL =     0.000000000    
+
+ *DO LOOP ON PARAMETER= _I FROM  1.0000     TO  600.00     BY  1.0000    
+
+ PARAMETER _ECURR =     86653.00000    
+
+ PARAMETER _NORMX =    0.4205906045E-06
+
+ PARAMETER _NORMY =   -0.9667855166    
+
+ PARAMETER _NORMZ =   -0.2555890548    
+
+ PARAMETER _NORMMAG =     1.000000000    
+
+ PARAMETER _NORMX =    0.4205906045E-06
+
+ PARAMETER _NORMY =   -0.9667855166    
+
+ PARAMETER _NORMZ =   -0.2555890548    
+
+ PARAMETER _DOT =   -0.9667855166    
+
+ *IF  _dot                              ( = -0.966786     )  GT  
+      -.00001                           ( = -0.100000E-04 )  THEN    
+
+ *ELSE
+
+ ACTIVE COORDINATE SYSTEM SET TO        11  (CARTESIAN)  
+
+ *GET  _INDD     FROM  ELEM     86653  ITEM=APRO X         VALUE= 0.609035716E-05
+
+ ACTIVE COORDINATE SYSTEM SET TO         0  (CARTESIAN)  
+
+ PARAMETER _TOTAL =    0.6090357157E-05
+
+ *ENDIF
+
+ *ENDDO  INDEX= _I                              
+
+ *GET  _NECURR   FROM  ELEM  ITEM=COUN           VALUE=  300.000000    
+
+ *IF  _necurr                           ( =   300.000     )  EQ  
+      0                                 ( =   0.00000     )  THEN    
+
+ *ENDIF
+
+ PARAMETER _MAG =     20.00000000    
+
+ PARAMETER _MAG =     15848.70294    
+
+ SPECIFIED SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS  LKEY =  5   KVAL = 1
+     VALUES =     15849.         0.0000         20.000       -0.15632E-12
+
+ ALL SELECT   FOR ITEM=NODE COMPONENT=    
+  IN RANGE         1 TO     268335 STEP          1
+
+     216563  NODES (OF     216563  DEFINED) SELECTED BY NSEL  COMMAND.
+
+ ALL SELECT   FOR ITEM=ELEM COMPONENT=    
+  IN RANGE         1 TO      87252 STEP          1
+
+      46596  ELEMENTS (OF      46596  DEFINED) SELECTED BY  ESEL  COMMAND.
+
+ PRINTOUT RESUMED BY /GOP
+
+ USE       1 SUBSTEPS INITIALLY THIS LOAD STEP FOR ALL  DEGREES OF FREEDOM
+ FOR AUTOMATIC TIME STEPPING:
+   USE      1 SUBSTEPS AS A MAXIMUM
+   USE      1 SUBSTEPS AS A MINIMUM
+
+ TIME=  1.0000    
+
+ ERASE THE CURRENT DATABASE OUTPUT CONTROL TABLE.
+
+
+ WRITE ALL  ITEMS TO THE DATABASE WITH A FREQUENCY OF NONE
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE NSOL ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE RSOL ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE EANG ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE ETMP ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE VENG ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE NLOA ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE STRS ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE SRFS ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE BKST ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE EPEL ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE EPPL ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ WRITE CONT ITEMS TO THE DATABASE WITH A FREQUENCY OF ALL 
+   FOR ALL APPLICABLE ENTITIES
+
+ ALL CURRENT ANSYS DATA WRITTEN TO FILE NAME= file_Static22.db
+  FOR POSSIBLE RESUME FROM THIS POINT
+
+ *GET  ANSINTER_  FROM  ACTI  ITEM=INT        VALUE=  0.00000000    
+
+ *IF  ANSINTER_                         ( =   0.00000     )  NE  
+      0                                 ( =   0.00000     )  THEN    
+
+ *ENDIF
+
+ *** NOTE ***                            CP =       2.750   TIME= 20:03:54
+ The automatic domain decomposition logic has selected the MESH domain   
+ decomposition method with 2 processes per solution.                     
+
+ *****  ANSYS SOLVE    COMMAND  *****
+
+ *** WARNING ***                         CP =       2.781   TIME= 20:03:54
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** NOTE ***                            CP =       3.375   TIME= 20:03:55
+ The model data was checked and warning messages were found.             
+  Please review output or errors file (                                  
+ C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_1 
+ 15308_2\_ProjectScratch\ScrDD41\file0.err ) for these warning messages. 
+
+ *** SELECTION OF ELEMENT TECHNOLOGIES FOR APPLICABLE ELEMENTS ***
+      --- GIVE SUGGESTIONS AND RESET THE KEY OPTIONS ---
+
+ ELEMENT TYPE    1 IS SOLID186. KEYOPT(2)=0 IS SUGGESTED AND HAS BEEN RESET.
+  KEYOPT(1-12)=    0    0    0    0    0    0    0    0    0    0    0    0
+
+
+
+ *** ANSYS - ENGINEERING ANALYSIS SYSTEM  RELEASE 2020 R2          20.2     ***
+ DISTRIBUTED ANSYS Mechanical Enterprise                       
+
+ 01066031  VERSION=WINDOWS x64   20:03:55  JUN 19, 2021 CP=      3.375
+
+ unsaved_project--Static Structural (A5)                                       
+
+
+
+                       S O L U T I O N   O P T I O N S
+
+   PROBLEM DIMENSIONALITY. . . . . . . . . . . . .3-D                  
+   DEGREES OF FREEDOM. . . . . . UX   UY   UZ   ROTX ROTY ROTZ
+   ANALYSIS TYPE . . . . . . . . . . . . . . . . .STATIC (STEADY-STATE)
+   OFFSET TEMPERATURE FROM ABSOLUTE ZERO . . . . .  273.15    
+   EQUATION SOLVER OPTION. . . . . . . . . . . . .PCG                
+      TOLERANCE. . . . . . . . . . . . . . . . . . 1.00000E-08
+   GLOBALLY ASSEMBLED MATRIX . . . . . . . . . . .SYMMETRIC  
+
+ *** WARNING ***                         CP =       3.406   TIME= 20:03:55
+ Material number 2 (used by element 85322) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** NOTE ***                            CP =       3.469   TIME= 20:03:55
+ The step data was checked and warning messages were found.              
+  Please review output or errors file (                                  
+ C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_1 
+ 15308_2\_ProjectScratch\ScrDD41\file0.err ) for these warning messages. 
+
+ *** NOTE ***                            CP =       3.469   TIME= 20:03:55
+ The conditions for direct assembly have been met.  No .emat or .erot    
+ files will be produced.                                                 
+
+ *** NOTE ***                            CP =       3.562   TIME= 20:03:55
+ Internal nodes from 268336 to 268336 are created.                       
+ 1 internal nodes are used for handling degrees of freedom on pilot      
+ nodes of rigid target surfaces.                                         
+
+ *** NOTE ***                            CP =       3.656   TIME= 20:03:55
+ Internal nodes from 268336 to 268336 are created.                       
+ 1 internal nodes are used for handling degrees of freedom on pilot      
+ nodes of rigid target surfaces.                                         
+
+ *** NOTE ***                            CP =       3.719   TIME= 20:03:55
+ Force-distributed-surface identified by real constant set 9 and         
+ contact element type 9 has been set up.  The pilot node 268335 is used  
+ to apply the force.  Internal MPC will be built.                        
+ The used degrees of freedom set is  UX   UY   UZ   ROTX ROTY ROTZ
+ Please verify constraints (including rotational degrees of freedom)
+  on the pilot node by yourself.
+ ****************************************
+  
+  
+  
+
+ *** NOTE ***                            CP =       3.812   TIME= 20:03:55
+ Internal nodes from 268336 to 268336 are created.                       
+ 1 internal nodes are used for handling degrees of freedom on pilot      
+ nodes of rigid target surfaces.                                         
+
+  
+  
+     D I S T R I B U T E D   D O M A I N   D E C O M P O S E R
+  
+  ...Number of elements: 46596
+  ...Number of nodes:    216564
+  ...Decompose to 2 CPU domains
+  ...Element load balance ratio =     1.010
+
+
+                      L O A D   S T E P   O P T I O N S
+
+   LOAD STEP NUMBER. . . . . . . . . . . . . . . .     1
+   TIME AT END OF THE LOAD STEP. . . . . . . . . .  1.0000    
+   NUMBER OF SUBSTEPS. . . . . . . . . . . . . . .     1
+   STEP CHANGE BOUNDARY CONDITIONS . . . . . . . .    NO
+   PRINT OUTPUT CONTROLS . . . . . . . . . . . . .NO PRINTOUT
+   DATABASE OUTPUT CONTROLS
+      ITEM     FREQUENCY   COMPONENT
+       ALL       NONE               
+      NSOL        ALL               
+      RSOL        ALL               
+      EANG        ALL               
+      ETMP        ALL               
+      VENG        ALL               
+      NLOA        ALL               
+      STRS        ALL               
+      SRFS        ALL               
+      BKST        ALL               
+      EPEL        ALL               
+      EPPL        ALL               
+      CONT        ALL               
+
+
+ SOLUTION MONITORING INFO IS WRITTEN TO FILE= file.mntr                                                                                                                                                                                                                                                           
+
+
+ *** NOTE ***                            CP =       5.297   TIME= 20:03:56
+ The PCG solver has automatically set the level of difficulty for this   
+ model to 2.                                                             
+
+
+                         ***********  PRECISE MASS SUMMARY  ***********
+
+   TOTAL RIGID BODY MASS MATRIX ABOUT ORIGIN
+               Translational mass               |   Coupled translational/rotational mass
+         6.9900        0.0000        0.0000     |     0.0000      -0.29936E-01  -0.24443E-02
+         0.0000        6.9900        0.0000     |    0.29936E-01    0.0000      -0.87641E-11
+         0.0000        0.0000        6.9900     |    0.24443E-02   0.87641E-11    0.0000    
+     ------------------------------------------ | ------------------------------------------
+                                                |         Rotational mass (inertia)
+                                                |    0.37439       0.17568E-12   0.12146E-11
+                                                |    0.17568E-12   0.36784       0.18648E-03
+                                                |    0.12146E-11   0.18648E-03   0.67341E-02
+
+   TOTAL MASS =  6.9900    
+     The mass principal axes coincide with the global Cartesian axes
+
+   CENTER OF MASS (X,Y,Z)=  -0.12538E-11   0.34969E-03  -0.42827E-02
+
+   TOTAL INERTIA ABOUT CENTER OF MASS
+        0.37426       0.17261E-12   0.12522E-11
+        0.17261E-12   0.36771       0.17601E-03
+        0.12522E-11   0.17601E-03   0.67333E-02
+     The inertia principal axes coincide with the global Cartesian axes
+
+
+  *** MASS SUMMARY BY ELEMENT TYPE ***
+
+  TYPE      MASS
+     1   6.99000    
+
+ Range of element maximum matrix coefficients in global coordinates
+ Maximum = 1.549341017E+09 at element 44563.                             
+ Minimum = 356268692 at element 43257.                                   
+
+   *** ELEMENT MATRIX FORMULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     44665  SOLID186      7.609   0.000170
+        2        20  SURF154       0.000   0.000000
+        3        20  SURF154       0.000   0.000000
+        4       190  SURF154       0.016   0.000082
+        5        25  SURF154       0.000   0.000000
+        6        25  SURF154       0.000   0.000000
+        7        60  SURF154       0.016   0.000260
+        8       290  SURF154       0.016   0.000054
+        9       240  CONTA174      0.031   0.000130
+       10         1  TARGE170      0.000   0.000000
+       11       300  SURF154       0.000   0.000000
+       12       160  SURF154       0.016   0.000098
+       13       600  SURF154       0.062   0.000104
+ Time at end of element matrix formulation CP = 10.859375.               
+ curEqn=  24129  totEqn=  24129 Job CP sec=     11.875
+      Factor Done= 100% Factor Wall sec=      0.263 rate=   18681.1 Mflops
+ Iteration=    10 Ratio=  0.101859     Limit=  1.000000E-08 Wall=     0.6
+ Iteration=    40 Ratio=  4.700382E-04 Limit=  1.000000E-08 Wall=     2.9
+ Iteration=    80 Ratio=  1.771675E-06 Limit=  1.000000E-08 Wall=     5.9
+
+ DISTRIBUTED PCG SOLVER SOLUTION CONVERGED
+
+ DISTRIBUTED PCG SOLVER SOLUTION STATISTICS
+
+   NUMBER OF ITERATIONS=         115
+   NUMBER OF EQUATIONS =      649698
+   LEVEL OF CONVERGENCE=           1
+   CALCULATED NORM     = 0.98055E-08
+   SPECIFIED TOLERANCE = 0.10000E-07
+   TOTAL CPU TIME (sec)=        9.73
+   TOTAL WALL TIME(sec)=        9.75
+   TOTAL MEMORY (GB)   =        0.18
+
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     44665  SOLID186      3.422   0.000077
+        2        20  SURF154       0.000   0.000000
+        3        20  SURF154       0.000   0.000000
+        4       190  SURF154       0.000   0.000000
+        5        25  SURF154       0.000   0.000000
+        6        25  SURF154       0.000   0.000000
+        7        60  SURF154       0.000   0.000000
+        8       290  SURF154       0.031   0.000108
+        9       240  CONTA174      0.000   0.000000
+       11       300  SURF154       0.016   0.000052
+       12       160  SURF154       0.016   0.000098
+       13       600  SURF154       0.000   0.000000
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     44665  SOLID186      0.203   0.000005
+        2        20  SURF154       0.000   0.000000
+        3        20  SURF154       0.000   0.000000
+        4       190  SURF154       0.000   0.000000
+        5        25  SURF154       0.000   0.000000
+        6        25  SURF154       0.000   0.000000
+        7        60  SURF154       0.000   0.000000
+        8       290  SURF154       0.000   0.000000
+        9       240  CONTA174      0.000   0.000000
+       11       300  SURF154       0.000   0.000000
+       12       160  SURF154       0.000   0.000000
+       13       600  SURF154       0.000   0.000000
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** ANSYS BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+       35.125 MB WRITTEN ON ELEMENT SAVED DATA FILE: file0.esav
+       50.938 MB WRITTEN ON RESULTS FILE: file0.rst
+ *************** Write FE CONNECTORS *********
+
+ WRITE OUT CONSTRAINT EQUATIONS TO FILE= file.ce                                                                                                                                                                                                                                                             
+ ****************************************************
+ *************** FINISHED SOLVE FOR LS 1 *************
+
+ *GET  _WALLASOL  FROM  ACTI  ITEM=TIME WALL  VALUE=  20.0705556    
+
+ PRINTOUT RESUMED BY /GOP
+
+ *GET  _PCGITER  FROM  ACTI  ITEM=SOLU CGIT  VALUE=  115.000000    
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =        24.359
+
+
+
+ *** ANSYS - ENGINEERING ANALYSIS SYSTEM  RELEASE 2020 R2          20.2     ***
+ DISTRIBUTED ANSYS Mechanical Enterprise                       
+
+ 01066031  VERSION=WINDOWS x64   20:04:15  JUN 19, 2021 CP=     24.359
+
+ unsaved_project--Static Structural (A5)                                       
+
+
+
+          ***** ANSYS RESULTS INTERPRETATION (POST1) *****
+
+ *** NOTE ***                            CP =      24.359   TIME= 20:04:15
+ Reading results into the database (SET command) will update the current 
+ displacement and force boundary conditions in the database with the     
+ values from the results file for that load set.  Note that any          
+ subsequent solutions will use these values unless action is taken to    
+ either SAVE the current values or not overwrite them (/EXIT,NOSAVE).    
+
+ Set Encoding of XML File to:ISO-8859-1
+
+ Set Output of XML File to:
+     PARM,     ,     ,     ,     ,     ,     ,     ,     ,     ,     ,     ,
+         ,     ,     ,     ,     ,     ,     ,
+
+ DATABASE WRITTEN ON FILE  parm.xml                                                                                                                                                                                                                                                            
+
+ EXIT THE ANSYS POST1 DATABASE PROCESSOR
+
+
+ ***** ROUTINE COMPLETED *****  CP =        24.359
+
+
+
+ PRINTOUT RESUMED BY /GOP
+
+ *GET  _WALLDONE  FROM  ACTI  ITEM=TIME WALL  VALUE=  20.0708333    
+
+ PARAMETER _PREPTIME =     1.000000000    
+
+ PARAMETER _SOLVTIME =     20.00000000    
+
+ PARAMETER _POSTTIME =     1.000000000    
+
+ PARAMETER _TOTALTIM =     22.00000000    
+
+ *GET  _DLBRATIO  FROM  ACTI  ITEM=SOLU DLBR  VALUE=  1.01034468    
+
+ *GET  _COMBTIME  FROM  ACTI  ITEM=SOLU COMB  VALUE= 0.558175600    
+ --- Total number of nodes = 216563
+ --- Total number of elements = 46596
+ --- Element load balance ratio = 1.01034468
+ --- Time to combine distributed files = 0.5581756
+
+ EXIT ANSYS WITHOUT SAVING DATABASE
+
+
+ NUMBER OF WARNING MESSAGES ENCOUNTERED=          2
+ NUMBER OF ERROR   MESSAGES ENCOUNTERED=          0
+
++--------- D I S T R I B U T E D   A N S Y S   S T A T I S T I C S ------------+
+
+Release: 2020 R2            Build: 20.2       Update: UP20200601   Platform: WINDOWS x64 
+Date Run: 06/19/2021   Time: 20:04     Process ID: 12516
+Operating System: Windows Server 2019  (Build: 17763)
+
+Processor Model: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+
+Compiler: Intel(R) FORTRAN Compiler Version 19.0.0  (Build: 20190206)
+          Intel(R) C/C++ Compiler Version 19.0.0  (Build: 20190206)
+          Intel(R) Math Kernel Library Version 2020.0.0 Product Build 20191125
+
+Number of machines requested            :    1
+Total number of cores available         :    8
+Number of physical cores available      :    8
+Number of processes requested           :    2
+Number of threads per process requested :    1
+Total number of cores requested         :    2 (Distributed Memory Parallel)               
+MPI Type: INTELMPI
+MPI Version: Intel(R) MPI Library 2018 Update 3 for Windows* OS
+
+
+GPU Acceleration: Not Requested
+
+Job Name: file0
+Input File: dummy.dat
+
+  Core                Machine Name   Working Directory
+ -----------------------------------------------------
+     0   ccc-s19rd1-01.floridapoly   C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_15308_2\_ProjectScratch\ScrDD41
+     1   ccc-s19rd1-01.floridapoly   C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_15308_2\_ProjectScratch\ScrDD41
+ 
+Latency time from master to core     1 =    1.485 microseconds
+ 
+Communication speed from master to core     1 =  4535.64 MB/sec
+
+Total CPU time for main thread                    :       22.5 seconds
+Total CPU time summed for all threads             :       24.5 seconds
+
+Elapsed time spent obtaining a license            :        0.9 seconds
+Elapsed time spent pre-processing model (/PREP7)  :        0.6 seconds
+Elapsed time spent solution - preprocessing       :        1.4 seconds
+Elapsed time spent computing solution             :       18.3 seconds
+Elapsed time spent solution - postprocessing      :        0.6 seconds
+Elapsed time spent post-processing model (/POST1) :        0.0 seconds
+ 
+Equation solver used                              :            PCG (symmetric)
+Equation solver computational rate                :        7.9 Gflops
+
+Maximum total memory used                         :     1055.0 MB
+Maximum total memory allocated                    :     3136.0 MB
+Total physical memory available                   :         36 GB
+
+Total amount of I/O written to disk               :        0.5 GB
+Total amount of I/O read from disk                :        0.3 GB
+
++------ E N D   D I S T R I B U T E D   A N S Y S   S T A T I S T I C S -------+
+
+
+ *---------------------------------------------------------------------------*
+ |                                                                           |
+ |                       DISTRIBUTED ANSYS RUN COMPLETED                     |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ | Ansys 2020 R2               Build 20.2         UP20200601     WINDOWS x64 |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ | Database Requested(-db)  1024 MB    Scratch Memory Requested      1024 MB |
+ | Maximum Database Used     111 MB    Maximum Scratch Memory Used    504 MB |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ |        CP Time      (sec) =         24.469       Time  =  20:04:15        |
+ |        Elapsed Time (sec) =         24.000       Date  =  06/19/2021      |
+ |                                                                           |
+ *---------------------------------------------------------------------------*

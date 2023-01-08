@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-01-05T15:42:36.3652264-05:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>AluminumBase^Assem1.SLDPRT</FileName>
+      <SHA1>8C3809A98693E74C85E07A16C6DCD6F708FD0B4E</SHA1>
+      <FileSize>70266</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-02T02:35:50.3764748+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Assem1.SLDASM</FileName>
+      <SHA1>175BDF3A8484A47AAB4A907AFAD1AFA6305ED0EE</SHA1>
+      <FileSize>48359</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-21T03:42:03.5153228+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CompositeWeaponAssembly.SLDASM</FileName>
+      <SHA1>89537F7576007559866D02DAC91E1DE8883E5204</SHA1>
+      <FileSize>152807</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-02T02:37:07.2761371+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>console.log</FileName>
+      <SHA1>2E93ED718EA782D12F5938429F45548BD8668BE0</SHA1>
+      <FileSize>4726</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-02T02:32:03.1284705+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>equations.txt</FileName>
+      <SHA1>C5D8761D3A6050FA4C4599C202F569F521A66C10</SHA1>
+      <FileSize>496</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-02T02:32:07.9656176+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>NormalWeaponBladeTest.SLDPRT</FileName>
+      <SHA1>A4F91C9DC59DA14E57528ED6FDA4A53C91BFE37E</SHA1>
+      <FileSize>99198</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-21T23:50:22.1899840+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

@@ -1,0 +1,78 @@
+﻿Study Static Analysis:1 started: 11/13/2020, 4:03:33 PM
+Number of configurations: 1
+Default mesh: 181 elements, 471 nodes
+Solution time 0.3s
+Convergence rate: 43.9%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.91  on element 160 finished: 11/13/2020, 4:03:34 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 11/13/2020, 4:05:04 PM
+Number of configurations: 1
+Default mesh: 181 elements, 471 nodes
+Solution time 0.2s
+Convergence rate: 43.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/13/2020, 4:05:04 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 11/13/2020, 4:05:26 PM
+Number of configurations: 1
+Default mesh: 181 elements, 471 nodes
+Solution time 0.2s
+Convergence rate: 43.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/13/2020, 4:05:27 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 11/13/2020, 4:05:52 PM
+Number of configurations: 1
+Default mesh: 181 elements, 471 nodes
+Solution time 0.2s
+Convergence rate: 43.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/13/2020, 4:05:52 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 11/13/2020, 4:06:17 PM
+Number of configurations: 1
+Default mesh: 181 elements, 471 nodes
+Solution time 0.2s
+Convergence rate: 43.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/13/2020, 4:06:17 PM
+Total time 0:00:00
+
+Study Static Analysis:2 started: 11/13/2020, 4:08:42 PM
+Number of configurations: 1
+Default mesh: 181 elements, 471 nodes
+Study Static Analysis:2 finished: 11/13/2020, 4:08:43 PM
+Total time 0:00:01
+
+Study Static Analysis:2 started: 11/13/2020, 4:08:52 PM
+Number of configurations: 1
+Default mesh: 181 elements, 471 nodes
+Solution time 0.2s
+Convergence rate: 43.9%
+Reached the total number of h refinements 
+Study Static Analysis:2 finished: 11/13/2020, 4:08:52 PM
+Total time 0:00:00
+
+Study Static Analysis:2 started: 11/13/2020, 4:10:43 PM
+Number of configurations: 1
+Default mesh: 181 elements, 471 nodes
+Solution time 0.2s
+Convergence rate: 43.9%
+Reached the total number of h refinements 
+Study Static Analysis:2 finished: 11/13/2020, 4:10:43 PM
+Total time 0:00:00
+
+Study Static Analysis:2 started: 11/13/2020, 4:10:59 PM
+Number of configurations: 1
+Default mesh: 181 elements, 471 nodes
+Solution time 0.2s
+Convergence rate: 43.9%
+Reached the total number of h refinements 
+Study Static Analysis:2 finished: 11/13/2020, 4:11:00 PM
+Total time 0:00:01
+

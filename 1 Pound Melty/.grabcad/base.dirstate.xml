@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-29T03:29:35.8168984+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OldVersions\EMax RS2205 v1.0001.ipt</FileName>
+      <SHA1>E01CA9D659707E916E6363F71C0E5971C8C10E04</SHA1>
+      <FileSize>283136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BatteryMockup.ipt</FileName>
+      <SHA1>D3984E33A7DC3DCAE99E77374260502B7EC5CCED</SHA1>
+      <FileSize>84480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EMax RS2205 v1.ipt</FileName>
+      <SHA1>33BF33C97CF48BB35BA6A2FA60B730F1E20572F7</SHA1>
+      <FileSize>277504</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MeltyAssembly.iam</FileName>
+      <SHA1>F53E71B62B6F20AFD378952471DDA0CC571B21A5</SHA1>
+      <FileSize>660480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MeltyBrainChassis.ipt</FileName>
+      <SHA1>56F698D7E1F61C72042E2076F3873909CF9127F9</SHA1>
+      <FileSize>336896</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MeltyBrainTooth.ipt</FileName>
+      <SHA1>67706C9B8EDF36209D7C4AD24E83CC02F1B1A144</SHA1>
+      <FileSize>121856</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\MeltyBrainChassis.0013.ipt</FileName>
+      <SHA1>C771DF6DCC9E96A7B987B18D5DEDCC0EB0A364F0</SHA1>
+      <FileSize>329728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\TopLid.0005.ipt</FileName>
+      <SHA1>997AD20D8E5DDDBAEF2E295BE45256C1BFF8A33D</SHA1>
+      <FileSize>214528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90417A126_Phillips Rounded Head Thread-Forming Screws.ipt</FileName>
+      <SHA1>3EABC62B8AC519D6D95518AD118EA56E26FD314B</SHA1>
+      <FileSize>693760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>InWeight.PNG</FileName>
+      <SHA1>729D90EBFBD48BEC3500B73661D61F41CB8D8AE2</SHA1>
+      <FileSize>424010</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SimplerFanWheel_v2.ipt</FileName>
+      <SHA1>D849033F79D1CA0D204012EFEB79B8D303F593E8</SHA1>
+      <FileSize>768000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TopLid.ipt</FileName>
+      <SHA1>DBC14DDE7E31CA3DFD7462596D455E6356A29940</SHA1>
+      <FileSize>225792</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\MeltyAssembly.0019.iam</FileName>
+      <SHA1>4E6FD6AE304986F86E0420006A52658881694048</SHA1>
+      <FileSize>660480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\MeltyBrainTooth.0008.ipt</FileName>
+      <SHA1>75CD4DD25421D86AF11C863C91DD789EA4D245BC</SHA1>
+      <FileSize>121856</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

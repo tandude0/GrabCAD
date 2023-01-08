@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-29T03:29:35.9300422+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>CircularHolder.ipt</FileName>
+      <SHA1>0AEAD31C24C31E7474B848F657DC5D5BCE047D8E</SHA1>
+      <FileSize>330240</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>StandardHolder.ipt</FileName>
+      <SHA1>8D01383C19774D021CA52058C8EA0E4E43D16B88</SHA1>
+      <FileSize>543744</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\StandardHolder.0012.ipt</FileName>
+      <SHA1>FDD7418033EB915309E7BEF3A915C8DB25FCCD9B</SHA1>
+      <FileSize>543232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\CircularHolder.0008.ipt</FileName>
+      <SHA1>D172069A0C0AAE0E247546A62D1837853AB10EBE</SHA1>
+      <FileSize>303104</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>StandardHolder.stl</FileName>
+      <SHA1>C4FFB91BD8DE21341B744CDD50CB4E6A2AC76D0E</SHA1>
+      <FileSize>1038984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

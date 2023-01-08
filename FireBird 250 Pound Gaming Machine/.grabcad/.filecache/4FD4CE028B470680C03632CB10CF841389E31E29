@@ -1,0 +1,28 @@
+﻿Study Shape Generator:1 started: 3/12/2021, 7:55:42 PM
+Number of configurations: 1
+Default mesh: 67098 elements, 106179 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.63  on element 65144 finished: 3/12/2021, 7:57:34 PM
+Total time 0:01:52
+
+Study Shape Generator:1 started: 3/12/2021, 8:04:29 PM
+Number of configurations: 1
+Default mesh: 67098 elements, 106179 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/12/2021, 8:06:06 PM
+Total time 0:01:37
+
+Study Shape Generator:1 started: 3/12/2021, 8:07:39 PM
+Number of configurations: 1
+Default mesh: 67098 elements, 106179 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/12/2021, 8:09:18 PM
+Total time 0:01:39
+
+Study Shape Generator:1 started: 3/12/2021, 8:10:59 PM
+Number of configurations: 1
+Default mesh: 67098 elements, 106179 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/12/2021, 8:13:04 PM
+Total time 0:02:05
+

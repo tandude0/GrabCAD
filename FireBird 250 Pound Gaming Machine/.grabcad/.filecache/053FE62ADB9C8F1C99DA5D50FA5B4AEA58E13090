@@ -1,0 +1,27 @@
+﻿Study Static Analysis:1 started: 6/19/2021, 6:02:37 PM
+Number of configurations: 1
+Default mesh: 8424 elements, 15425 nodes
+Solution time 1.6s
+Convergence rate: 1.69%
+Problem converged 
+Study        Worst Jacobian ratio :  2.1  on element 3725 finished: 6/19/2021, 6:02:46 PM
+Total time 0:00:09
+
+Study Static Analysis:1 started: 6/19/2021, 6:03:27 PM
+Number of configurations: 1
+Default mesh: 8424 elements, 15425 nodes
+Solution time 1.4s
+Convergence rate: 1.57%
+Problem converged 
+Study Static Analysis:1 finished: 6/19/2021, 6:03:28 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 6/19/2021, 6:03:45 PM
+Number of configurations: 1
+Default mesh: 8424 elements, 15425 nodes
+Solution time 1.2s
+Convergence rate: 1.57%
+Problem converged 
+Study Static Analysis:1 finished: 6/19/2021, 6:03:47 PM
+Total time 0:00:02
+

@@ -1,0 +1,143 @@
+ ----------------------------------------------------------------------
+ ----------          Welcome to Topology Optimizer          -----------
+ ----------------------------------------------------------------------
+                                                                       
+       Version 2020 R2 (Build: 178) from 20200529                       
+                                                                       
+       Copyright 2020 ANSYS Inc. All Rights Reserved               
+                                                                       
+ ----------------------------------------------------------------------
+ 
+       Execution time: Sat Jun 19 20:04:56 2021
+
+ ----------------------------------------------------------------------
+ 
+   Parameter setting:
+      solver                   = Scpip
+      ansys version            = 2020 R2
+      design elements          = OptimizationRegionElements.dat
+      feedersystem list:
+       - Static system 'Static22' with id 22: 1 load case(s) at t = 1
+      penalty parameter        = 3
+      minimum member size      = 0.015
+      maximum member size      = 0
+      minimum density          = 0.001
+      initial response scaling = yes
+      boundary padding         = false
+      restart information      = final
+      mapdl ncnv               = 1e+12
+      filter option            = 0
+      maximum iteration        = 500
+      acc                      = 0.001
+      units                    = MKS
+      output frequency         = 1
+      max intermediate files   = 500
+      extrusion                = active
+         direction             = X axis
+      objective 1              = single compliance (force load) for load step 1 of feeder system 'Static22' [1]
+      constraint 1             = total mass with lower bound 63 and upper bound 63
+      method                   = SCP
+      acc scp                  = 1e-06
+      version scp              = 402
+      cut off in scp           = 1
+      linear inequalities remain in active set in scp = selected always
+      initial penalty scp      = 1
+      asymptote strategy       = program controlled
+
+ ----------------------------------------------------------------------
+   Start generating constant data...
+   ...done
+   Start generating tree...
+   ...finished.
+   Start generating element neighborhood...
+    10 Percent done
+    20 Percent done
+    30 Percent done
+    40 Percent done
+    50 Percent done
+    60 Percent done
+    70 Percent done
+    80 Percent done
+    90 Percent done
+   100 Percent done
+   ...finished.
+ 
+ *** INFORMATION ***
+ In 0.434742% (mass) of optimization region topology density is set to 1 to meet manufacturing constraint(s).
+ 
+   Starting Ansys...
+   Asymptote strategy applied: adaptive
+ 
+  INITIAL SUMMARY
+  ---------------
+  Objective(s):
+    [  1] Name: Objective
+          Value : 1.97555e-01
+ 
+  Constraint(s):
+    [  1] Name: Mass Constraint_62
+          LB: 3.82863e+00 <= Value: 6.07719e+00 <= UB: 3.82863e+00  Deviation: 58.7302 %
+ 
+  Iter :  number of iterations
+  #LS  :  number of line search iterations
+  #ME  :  number of model evaluations
+
+                                         max relative
+                                         deviation of
+                         objective       constraints     convergence
+   Iter  #LS     #ME     measurement     in %            criterion
+   ------------------------------------------------------------------
+      0    0       0             ---     5.87302e+01             ---
+      1    1       1     1.00000e+00     4.63967e-13             ---
+      2    1       2     6.41601e-01     9.26472e-05     3.58399e-01
+      3    1       3     5.30435e-01     6.59790e-05     1.73265e-01
+      4    1       4     5.07477e-01     5.90450e-05     4.32797e-02
+      5    1       5     4.96648e-01     5.24192e-05     2.13405e-02
+      6    1       6     4.90927e-01     4.75346e-05     1.15179e-02
+      7    1       7     4.87196e-01     4.51676e-05     7.60083e-03
+      8    1       8     4.84504e-01     4.22186e-05     5.52567e-03
+      9    1       9     4.82305e-01     4.09324e-05     4.53909e-03
+     10    1      10     4.80426e-01     3.89071e-05     3.89561e-03
+     11    1      11     4.78756e-01     3.70886e-05     3.47639e-03
+     12    1      12     4.77236e-01     3.55161e-05     3.17469e-03
+     13    1      13     4.75867e-01     3.43921e-05     2.86705e-03
+     14    1      14     4.74608e-01     3.23326e-05     2.64685e-03
+     15    1      15     4.73367e-01     3.09120e-05     2.61528e-03
+     16    1      16     4.72217e-01     2.91384e-05     2.42950e-03
+     17    1      17     4.71082e-01     2.88730e-05     2.40166e-03
+     18    1      18     4.69883e-01     2.72330e-05     2.54538e-03
+     19    1      19     4.68447e-01     2.55166e-05     3.05609e-03
+     20    1      20     4.66798e-01     2.37326e-05     3.52168e-03
+     21    1      21     4.64884e-01     2.16950e-05     4.09975e-03
+     22    1      22     4.63488e-01     1.96534e-05     3.00296e-03
+     23    1      23     4.62259e-01     1.74644e-05     2.65228e-03
+     24    1      24     4.60904e-01     1.58356e-05     2.92993e-03
+     25    1      25     4.59529e-01     1.28727e-05     2.98357e-03
+     26    1      26     4.58584e-01     1.17959e-05     2.05699e-03
+     27    1      27     4.57821e-01     1.06225e-05     1.66440e-03
+     28    1      28     4.57187e-01     9.82903e-06     1.38405e-03
+     29    1      29     4.56609e-01     8.50347e-06     1.26387e-03
+     30    1      30     4.56264e-01     8.39274e-06     7.55462e-04
+     31    1      31     4.56022e-01     7.17709e-06     5.30568e-04
+     32    1      32     4.55835e-01     6.66324e-06     4.09632e-04
+ 
+  FINAL SUMMARY
+  -------------
+  Number of iterations: 32
+  Total number of model evaluations: 32
+
+  Objective(s):
+    [  1] Name: Objective
+          Value : 2.32664e-01
+ 
+  Constraint(s):
+    [  1] Name: Mass Constraint_62
+          LB: 3.82863e+00 <= Value: 3.82863e+00 <= UB: 3.82863e+00  Deviation: -6.66324e-06 %
+ ----------------------------------------------------------------------
+ --> Topology Optimizer finished successfully
+     Total time:  0h 18m 34s
+     CPU time:    0h 2m 52s
+     Peak Memory: 496388 K
+     I/O Read:    3835776701 Bytes
+     I/O Write:   115669709 Bytes
+ ----------------------------------------------------------------------

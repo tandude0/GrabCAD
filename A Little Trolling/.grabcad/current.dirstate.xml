@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-01-05T15:42:36.2737887-05:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\Antweight_crusher_Shuffler_version_v32.iam</FileName>
+      <SHA1>C9B1BF9CCBD188B7B969551241214A708B12AAE1</SHA1>
+      <FileSize>352768</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:08.3112667+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\Antweight_crusher_Shuffler_version_v32.step</FileName>
+      <SHA1>B362DB51DCBDF94D00F2F70ACDE893E2B170298A</SHA1>
+      <FileSize>5097557</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:57:15.7294655+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\ant_and_fairy_motor v2.iam</FileName>
+      <SHA1>60B8FF00D0E2B4EE8D517CBD5020C0AFA52B33ED</SHA1>
+      <FileSize>150016</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:07.7351317+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\ant_and_fairy_motor.ipt</FileName>
+      <SHA1>F00605AA18D3EC6D8FA7D8C2D32ADB7423555199</SHA1>
+      <FileSize>227840</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:07.2950297+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\Center drive ger shuffler v1.iam</FileName>
+      <SHA1>5F2C94481F08C9ACC0BC2D0E39AC6BF4D4354F3A</SHA1>
+      <FileSize>145920</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:06.1867711+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\drive motor mounts ant crusher shuffler v17.ipt</FileName>
+      <SHA1>CED2F4315E57B3C9DEAC1684F250B193F23D5726</SHA1>
+      <FileSize>196096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:07.0099630+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\Legs shuffler ant crusher v19.ipt</FileName>
+      <SHA1>E5C423C357D435918D0AC7E625CBAF972B0CF367</SHA1>
+      <FileSize>117248</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:06.3688136+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\side guards shuffler crusher ant v12.ipt</FileName>
+      <SHA1>4FD66273D015418C7D332705BA9C6393CDFCC5F9</SHA1>
+      <FileSize>163328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:06.8319213+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\Spur Gear (19 teeth).ipt</FileName>
+      <SHA1>A77ACF74B87D51FF4129068A265FAD95B804DDC2</SHA1>
+      <FileSize>442880</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:05.7236628+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\walker motor round crusher ant 2 front wheels v1.ipt</FileName>
+      <SHA1>8F262250F9FEC12ADA5B0F4B1790CBB385905D52</SHA1>
+      <FileSize>809472</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:05.4416013+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Crusher Grabcad Shuffler\walker motor round crusher ant 2 v24.ipt</FileName>
+      <SHA1>4683A2F48C50725F29678F765BB22A158DF84111</SHA1>
+      <FileSize>718848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T22:58:06.6638820+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\UF Shuffler\Full_Shuffler_v1.step</FileName>
+      <SHA1>272A3B30396375765A624F1B0585A9FC25B6CDE8</SHA1>
+      <FileSize>1332814</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:27:29.7164825+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\msg243750612-503548.jpg</FileName>
+      <SHA1>40822D497CC531281D13E16EE8E60A1FE668540F</SHA1>
+      <FileSize>345336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:01:24.1760206+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\msg243750612-503549 (1).jpg</FileName>
+      <SHA1>4F8023E6C191DAB587FF23F0836711A47655EB0C</SHA1>
+      <FileSize>208752</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:01:24.0980004+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\msg243750612-503550 (2).jpg</FileName>
+      <SHA1>6CB7F5C4E9431EF7D639E5B88EA96675F6232EED</SHA1>
+      <FileSize>203787</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:01:25.5500028+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\msg243750612-503551 (1).jpg</FileName>
+      <SHA1>33206EA0809C9664E696F50986A0962509612E3F</SHA1>
+      <FileSize>181047</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:01:25.5790096+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\msg243750612-503552 (2).jpg</FileName>
+      <SHA1>235EDA7FDCD55EDB5314EC8088D854696D691AFB</SHA1>
+      <FileSize>226345</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:01:25.5930134+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\msg243750612-503556 (1).jpg</FileName>
+      <SHA1>1088B82143F46690382F1D21D50A3ED9FBEBE9C0</SHA1>
+      <FileSize>73643</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:01:19.6388199+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\msg243750612-503557 (1).jpg</FileName>
+      <SHA1>E188FABC733261A3321D2361C68DB3ADF1B571E1</SHA1>
+      <FileSize>71810</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:01:19.6768277+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\msg243750612-503758.jpg</FileName>
+      <SHA1>9DBFA68B686351D05B92D1E703BAEBDE9B8A4850</SHA1>
+      <FileSize>157260</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:01:06.3575720+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\References\Silent_X_White_BG.jpg</FileName>
+      <SHA1>73B0AC9E8FA6A44E7A4CED4F826942099702CA34</SHA1>
+      <FileSize>165120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:41:37.3454766+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\OldVersions\MotorMountShufflerPod.0005.ipt</FileName>
+      <SHA1>6520EB38A062557705B3374E5FF002D74823BF8F</SHA1>
+      <FileSize>167936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:38:37.8050000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\OldVersions\ShufflerAssembly1.0013.iam</FileName>
+      <SHA1>0690A52B729D0921F6CFDF77C1A6F9DF8BDBA656</SHA1>
+      <FileSize>680960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:56:40.9200000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\OldVersions\ShufflerBaseCam.0004.ipt</FileName>
+      <SHA1>EE05FA513891B11C03A7DDAA63F526A626EB77BB</SHA1>
+      <FileSize>133120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:22:31.9670000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\OldVersions\ShufflerEndCam.0005.ipt</FileName>
+      <SHA1>6471D7816D0791E3BCEB43782909A0DF7ECB3479</SHA1>
+      <FileSize>117760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:34:35.2190000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\OldVersions\ShufflerFoot.0003.ipt</FileName>
+      <SHA1>F7D16AD4DAD538B6EE5E6BDD9F01E0D2B011D185</SHA1>
+      <FileSize>130048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:32:54.8740000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\OldVersions\ShufflerMidCam.0003.ipt</FileName>
+      <SHA1>AEEE5D94D9805DF7A33CE42FAF4EF4160F71801D</SHA1>
+      <FileSize>125440</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:17:36.2620000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\OldVersions\ShufflerMidCam2.0004.ipt</FileName>
+      <SHA1>5BCF30D9B904E77630478445B345185DB0A6BF64</SHA1>
+      <FileSize>125952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:26:54.6540000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\94868A724_Female Threaded Hex Standoff.ipt</FileName>
+      <SHA1>1CDC2A635E61D8B1F6EFFE588442E5D82956626B</SHA1>
+      <FileSize>881152</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:29:18.7348041+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\94868A724_Female Threaded Hex Standoff.STEP</FileName>
+      <SHA1>9B91B47E891FE2CCC62A0C7CB1C46D96FF1136F8</SHA1>
+      <FileSize>991082</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:28:37.1142280+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\FingerTech_Silver_Spark_223350.ipt</FileName>
+      <SHA1>0D814162F7A1FF1C166BDB4777EE8FD9467AF14E</SHA1>
+      <FileSize>333312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-05T20:09:55.2906083+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\MotorMountShufflerPod.ipt</FileName>
+      <SHA1>18FBD545B069A94E984383FA7066BB179F669C48</SHA1>
+      <FileSize>188928</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:49:59.7420000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\ShufflerAssembly1.iam</FileName>
+      <SHA1>9588036BFD0DB8B20242099889EB8C94B6C9A62D</SHA1>
+      <FileSize>683008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:58:08.9620000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\ShufflerBaseCam.ipt</FileName>
+      <SHA1>A84EAB01B6AC01FF30E3E4078850F7F3145DF851</SHA1>
+      <FileSize>130560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:32:54.7230000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\ShufflerEndCam.ipt</FileName>
+      <SHA1>00314CAB3E717F0221557812F9F8137E6E0B6D43</SHA1>
+      <FileSize>128000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:54:50.1790000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\ShufflerFoot.ipt</FileName>
+      <SHA1>62826636B529CBD06F210886794E98BB5D2D0613</SHA1>
+      <FileSize>130048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:54:50.0340000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\ShufflerMidCam.ipt</FileName>
+      <SHA1>A5E479CC6AAB08067A9FBAA42EC841D5F042DD28</SHA1>
+      <FileSize>127488</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:32:55.2140000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\ShufflerMidCam2.ipt</FileName>
+      <SHA1>FA2E90633C1DB2B48A6FCB6DF510AD96C14853C6</SHA1>
+      <FileSize>127488</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:32:55.0310000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler\ShufflerPodEndPlate.ipt</FileName>
+      <SHA1>83E0D481644243AFB9EA60BCB7CA2C899F4A70CC</SHA1>
+      <FileSize>130560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-06T20:54:49.9100076+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>V1\Shuffler.zip</FileName>
+      <SHA1>4813A1685C777D60801304AC9D146E8AD3400417</SHA1>
+      <FileSize>3903011</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-28T23:49:19.5585365+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

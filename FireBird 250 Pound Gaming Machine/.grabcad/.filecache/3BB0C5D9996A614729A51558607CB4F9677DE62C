@@ -1,0 +1,49 @@
+# encoding: utf-8
+# 2020 R2
+SetScriptVersion(Version="20.2.221")
+template1 = GetTemplate(
+    TemplateName="Static Structural",
+    Solver="ANSYS")
+system1 = template1.CreateSystem()
+geometry1 = system1.GetContainer(ComponentName="Geometry")
+geometry1.SetFile(FilePath="Z:/NeckFrame_Draft04.stp")
+modelComponent1 = system1.GetComponent(Name="Model")
+modelComponent1.Refresh()
+model1 = system1.GetContainer(ComponentName="Model")
+model1.Edit()
+template2 = GetTemplate(
+    TemplateName="Topology Optimization",
+    Solver="ANSYS")
+system2 = template2.CreateSystem(
+    Position="Right",
+    RelativeTo=system1)
+solutionComponent1 = system1.GetComponent(Name="Solution")
+modelComponent2 = system2.GetComponent(Name="Model")
+solutionComponent1.TransferData(TargetComponent=modelComponent2)
+system2.Delete()
+system3 = template2.CreateSystem(
+    Position="Right",
+    RelativeTo=system1)
+modelComponent3 = system3.GetComponent(Name="Model")
+solutionComponent1.TransferData(TargetComponent=modelComponent3)
+modelComponent3.Refresh()
+engineeringDataComponent1 = system3.GetComponent(Name="Engineering Data")
+engineeringDataComponent2 = system1.GetComponent(Name="Engineering Data")
+engineeringDataComponent1.ReplaceWithShare(
+    TargetSystem=system3,
+    ComponentToShare=engineeringDataComponent2,
+    SourceSystem=system1)
+modelComponent3.Refresh()
+system3.Delete()
+geometryComponent1 = system1.GetComponent(Name="Geometry")
+componentTemplate1 = GetComponentTemplate(Name="SimulationSetupCellTemplate_StructuralTopologyOptimizationANSYS")
+system4 = template2.CreateSystem(
+    ComponentsToShare=[engineeringDataComponent2, geometryComponent1, modelComponent1],
+    DataTransferFrom=[Set(FromComponent=solutionComponent1, TransferName=None, ToComponentTemplate=componentTemplate1)],
+    Position="Right",
+    RelativeTo=system1)
+setup1 = system4.GetContainer(ComponentName="Setup")
+setup1.Edit()
+Save(Overwrite=True)
+model1.Exit()
+Save(Overwrite=True)

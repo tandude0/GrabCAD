@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-01-05T15:42:40.9411445-05:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OldVersions\Bottom and Top Sides 40-4040-914_4-CL.0001.ipt</FileName>
+      <SHA1>A3CF759B1F138DBFFA489DA3D75BCFEB3E3F1FFE</SHA1>
+      <FileSize>194560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T21:35:48.2596934+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Bottom and Top Sides 40-4040-914_4-CL.ipt</FileName>
+      <SHA1>794B4D62864C5D8B40BA3E9EDD9BDA1772A3B0AD</SHA1>
+      <FileSize>236032</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T23:59:43.0870000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\ConnectingPlatee.0006.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>119808</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-25T23:34:35.3210000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Corner Verticals 40-4040-914_4-CL.0001.ipt</FileName>
+      <SHA1>A3CF759B1F138DBFFA489DA3D75BCFEB3E3F1FFE</SHA1>
+      <FileSize>194560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T21:35:59.6204635+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Corner Verticals 40-4040-914_4-CL.ipt</FileName>
+      <SHA1>FCB2567A4106D422559F05C24CCD2BDCF471AA13</SHA1>
+      <FileSize>237568</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T23:59:43.2670000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\DropInNuts 14162_m.0002.ipt</FileName>
+      <SHA1>7AD20213F7F1AD9861808F6DFA6BCA8555ED9396</SHA1>
+      <FileSize>213504</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-14T13:39:26.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Floor.0003.ipt</FileName>
+      <SHA1>1F4590D0918BBDD2F75E5B21EF5B00E56CB7FCD8</SHA1>
+      <FileSize>96768</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-14T09:29:38.1460000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Horizontal Extrusion 1010-32-CL.0006.ipt</FileName>
+      <SHA1>A5DEFA017A0BBE22613014523545BE690BEBCACC</SHA1>
+      <FileSize>184832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-06-05T03:52:44.3470000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\KickPlate.0004.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>108032</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-26T00:00:23.7770000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Parameters.0005.ipt</FileName>
+      <SHA1>1ECA26D8CED8C79BAE6088979EBF8C95D7A1BCEB</SHA1>
+      <FileSize>88064</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-14T09:45:36.5950000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Stock 40-4040-914_4-CL.ipt</FileName>
+      <SHA1>A3CF759B1F138DBFFA489DA3D75BCFEB3E3F1FFE</SHA1>
+      <FileSize>194560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-02T03:34:40.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\TestBoxAssembly.0022.iam</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>374272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-26T19:09:57.0640000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\TopBracket.0001.ipt</FileName>
+      <SHA1>BEEA2620D592FB1B0226F0B982893380E53BDD1B</SHA1>
+      <FileSize>131072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-14T09:14:45.5244356+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Upright Extrusion 1010-24-CL.0007.ipt</FileName>
+      <SHA1>3659749525D401E8609E1772FD5C8D0950EA8653</SHA1>
+      <FileSize>185344</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-06-05T03:52:37.2270000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\1515_UL_23_CL.sldprt</FileName>
+      <SHA1>A3F55444992D412692EFCE839F05ECD6F50EA959</SHA1>
+      <FileSize>113598</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.3007814+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\1515_UL_45_CL.sldprt</FileName>
+      <SHA1>2587C8855A10040FF55E5580E01AA12879DD5729</SHA1>
+      <FileSize>112662</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.5828525+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\1515_UL_48_CL.sldprt</FileName>
+      <SHA1>A0305057EDD9A858F1C1C18CC5B35C672818179B</SHA1>
+      <FileSize>112154</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.6978815+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\1530_UL_45_CL.sldprt</FileName>
+      <SHA1>E642B3D19964917BF57C22C8488ABDD44FD51130</SHA1>
+      <FileSize>150925</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.4708239+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\1774A440_PADLOCKABLE GATE LATCH.sldasm</FileName>
+      <SHA1>A6E9243A4FD9381B2B5B737C88B4C60D16810C66</SHA1>
+      <FileSize>20878</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.8649238+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\24125T250_LEVELING CASTER WNONMARKING BLK NYLON WHL.sldasm</FileName>
+      <SHA1>CBF051C68D2B13D279B13C0A49DD8B758A183806</SHA1>
+      <FileSize>20486</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.7191770+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\24125T250_LEVELING CASTER WNONMARKING BLK NYLON WHL_1.sldasm</FileName>
+      <SHA1>FC9FC89412C8BBCF32742EAA1BDD2E0124788AA9</SHA1>
+      <FileSize>21742</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.3240772+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\24125T250_LEVELING CASTER WNONMARKING BLK NYLON WHL_2.sldasm</FileName>
+      <SHA1>3F9ACDCABC6C2934ACC0D88F38D20796B2C6CF11</SHA1>
+      <FileSize>21433</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.1109861+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\24125T250_LEVELING CASTER WNONMARKING BLK NYLON WHL_3.sldasm</FileName>
+      <SHA1>07133C62C2CCF7510D71540A4DB6C08B610A9D10</SHA1>
+      <FileSize>21201</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.2070104+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\3061 quarter 20 half in bolt.sldprt</FileName>
+      <SHA1>E9648F0B5F5F8F765BE4B6758CCFB345CE4FDDDF</SHA1>
+      <FileSize>25818</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.2497679+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\3286 T nut quarter 20.sldprt</FileName>
+      <SHA1>42E37C0C43BDB4710569AFB31B83C62F68EF1D46</SHA1>
+      <FileSize>25938</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.7358913+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\4366 6 hole rectangle.sldprt</FileName>
+      <SHA1>661E6A08513CF44382349AF3CE35FE78CBDCE741</SHA1>
+      <FileSize>26595</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.3397911+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\4481 5 hole L.sldprt</FileName>
+      <SHA1>15FEFBB97CE5166D0B1402E8DEC7E4AAEB9C59F6</SHA1>
+      <FileSize>27694</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.5558458+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Ant 4x4 8020 Arena.SLDASM</FileName>
+      <SHA1>8BD27FC25145D8C94BD3F1A728BB87066A3D5189</SHA1>
+      <FileSize>2098576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.6901702+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Bracket.sldprt</FileName>
+      <SHA1>658C50603AC0A7C0D7239309960F94EC7C8060DF</SHA1>
+      <FileSize>34199</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.6708750+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\C525 Logitech Webcam.sldasm</FileName>
+      <SHA1>A5C65AFB5C0698CC304E9C738A4FA9AA23440580</SHA1>
+      <FileSize>22100</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.4471084+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Camera Bracket Mount.sldasm</FileName>
+      <SHA1>27E8163F7E8FAB7750A4126B7368E847F080627B</SHA1>
+      <FileSize>22453</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.2380182+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Camera Bracket Mount.sldprt</FileName>
+      <SHA1>E43401D262955181A3E604801D14556F01C186F8</SHA1>
+      <FileSize>28399</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.9359422+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Camera Head.sldprt</FileName>
+      <SHA1>B1FB01A947E7CBA78DD751338B1BFFE7AF10F3CE</SHA1>
+      <FileSize>462221</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.7551862+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\console.log</FileName>
+      <SHA1>FD15EF3DBE1970254E392D75E7CFA44E4B859F23</SHA1>
+      <FileSize>22240</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-25T23:16:51.3655202+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Door^Ant 4x4 8020 Arena.sldprt</FileName>
+      <SHA1>9ACE67C6B429A4746F76E448C82C49B2810A1E81</SHA1>
+      <FileSize>25058</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.3727991+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Entrance Wall.sldprt</FileName>
+      <SHA1>3C4B8A40F57A9A9DF0D8A6E71F142094FDB92D22</SHA1>
+      <FileSize>30104</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.4368166+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Entry Spacer^Ant 4x4 8020 Arena.sldprt</FileName>
+      <SHA1>21D3EF3E85CFE7928FA5AFEC5302DA13EC28D579</SHA1>
+      <FileSize>24202</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.5298394+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Floor 4x4^Ant 4x4 8020 Arena.sldprt</FileName>
+      <SHA1>464E68E1E2F6DBFD85D785852835DD2CCFF4EA16</SHA1>
+      <FileSize>33719</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.5018317+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Gate Hinge.sldasm</FileName>
+      <SHA1>7F112E644E3C54B0B3E5BB83AD16FBE9CCF74E70</SHA1>
+      <FileSize>20527</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.1589991+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Gate Hinge_1.sldasm</FileName>
+      <SHA1>4B25BA59C1D619713B26E94F5E0DD9F05F1C3DCA</SHA1>
+      <FileSize>20818</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.7769024+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Head Pivot.sldprt</FileName>
+      <SHA1>C80C22F04426AC7AB8D0AE22E55460701109A683</SHA1>
+      <FileSize>45608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.7801920+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Hinge Mount.sldprt</FileName>
+      <SHA1>1F03F49236E33DC2BEEC6EE747580837410C8798</SHA1>
+      <FileSize>29184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.8229138+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Hinge Triangle.sldprt</FileName>
+      <SHA1>0F05060899FB3590014AD3BFF7B189781D1E774F</SHA1>
+      <FileSize>27642</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.6098597+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Kickplate Steel.sldprt</FileName>
+      <SHA1>7140C29562A14B1B814938F2EC7F7BE25FE11B72</SHA1>
+      <FileSize>26045</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.6428674+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\light fixture.sldprt</FileName>
+      <SHA1>0AD2175897B667C8757667A8E923271D9E5BE1F1</SHA1>
+      <FileSize>67188</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.9039333+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Lock Base.sldprt</FileName>
+      <SHA1>0E2CEBB48683F0B7D71CECDA4AD56DC7A661D7CF</SHA1>
+      <FileSize>38584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.0559729+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Lock Hook.sldprt</FileName>
+      <SHA1>80ADD361B008BD465F2CF070DAD3AF75C6E6D621</SHA1>
+      <FileSize>27992</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.4048077+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\main.sldprt</FileName>
+      <SHA1>D517DE9AE92B3CCB44B15D1BCEA3519DF4CDC331</SHA1>
+      <FileSize>296337</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.8152014+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Mid Hinge.sldprt</FileName>
+      <SHA1>47E4A654BA731569C0B095A35587A6892AE46153</SHA1>
+      <FileSize>59545</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.4751147+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Mount Base.sldprt</FileName>
+      <SHA1>5989DA6609DDCCA5CDFA90FC61F1F5164E8AF2BA</SHA1>
+      <FileSize>39722</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.5011212+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Pin Mount.sldprt</FileName>
+      <SHA1>101DC01680238E3B2262C3A788A4FF8AF5B3A211</SHA1>
+      <FileSize>43058</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.1349926+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\puck.sldprt</FileName>
+      <SHA1>4796F26AE86F79A216735000067920BD96E7E67B</SHA1>
+      <FileSize>37896</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.1840048+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Roof PC Panel 21.8792(Mirror).sldprt</FileName>
+      <SHA1>6E9A8F23E8F07F97F949F5024EEB2CC49D22F013</SHA1>
+      <FileSize>24893</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.3800913+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Roof PC Panel 21.8792.sldprt</FileName>
+      <SHA1>A19C471348CE3D970ABBB5F04F9DE30331F19B00</SHA1>
+      <FileSize>25454</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.2620256+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Subfloor Mount Bracket.sldprt</FileName>
+      <SHA1>B020B79098F53A08247CA7045D65F7B7C25A4E72</SHA1>
+      <FileSize>45387</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.2880721+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Tripod Screw.sldprt</FileName>
+      <SHA1>E8C25CCD1BA96F7723A5C613CEA1149A0B17D53C</SHA1>
+      <FileSize>70576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.9659490+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Truck Lights.sldasm</FileName>
+      <SHA1>439F731FC5C969A0B6FCF483C3B107714E47F427</SHA1>
+      <FileSize>21351</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:08.9919556+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Truck Lights_1.sldasm</FileName>
+      <SHA1>A9FA3CE1432990EF9F38C02BF1EE51CA8F61C5B9</SHA1>
+      <FileSize>20791</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.3550852+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\Wall PC Panel 20.8792.sldprt</FileName>
+      <SHA1>69109BF259857C7BF12D890AB3399DB25D4E4FE0</SHA1>
+      <FileSize>25226</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.0269645+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Solidworks CAD Arena\wheel.sldprt</FileName>
+      <SHA1>EEB043C55FF240FA194E0B5F4E300C495D2A66B9</SHA1>
+      <FileSize>28274</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:53:09.0839793+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Corner(could use another plate on the side as well).PNG</FileName>
+      <SHA1>854253C72702CAF4B8B95AAA9073AABF3CA13EA8</SHA1>
+      <FileSize>643434</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T20:14:25.1681743+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Just Cuz Antweight Arena Construction Guide.docx</FileName>
+      <SHA1>62E0B6724FF887AAE3910BEC0DB2060C4D387483</SHA1>
+      <FileSize>2632362</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:52:04.3807918+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\Overview.PNG</FileName>
+      <SHA1>AB6CDA76102289F9E6DF31F024923B6D75DB0644</SHA1>
+      <FileSize>621694</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T20:13:45.9212906+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\SPARC_Arena_Construction_Best_Practices_v1.0 (1).pdf</FileName>
+      <SHA1>6298013669D7E304883CCAC0659679DA2F61B91B</SHA1>
+      <FileSize>646209</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T19:52:44.6817893+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>References\TopDownTopBracketsHidden.PNG</FileName>
+      <SHA1>B01AC87A6B5B47692B27D8CC5DA441897BA8B5EE</SHA1>
+      <FileSize>67689</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-03-01T20:16:58.3752973+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>10 32 0375 Screw 3042.ipt</FileName>
+      <SHA1>18861ED29D9A91E2A2859055483148364399B073</SHA1>
+      <FileSize>124416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-14T14:37:14.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1010s.PNG</FileName>
+      <SHA1>30A4099F86BCA319D272343668B23B8FAE078A19</SHA1>
+      <FileSize>395199</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-14T06:55:42.2155583+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>4040s No ConnectingPlates.PNG</FileName>
+      <SHA1>FB949597FEF586505981DF11E20E0CC15B270FDE</SHA1>
+      <FileSize>460189</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-14T06:39:01.3033064+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>8 kickers.dxf</FileName>
+      <SHA1>7CD6D90593EAEB479B40C51C40289DDEAD9AA373</SHA1>
+      <FileSize>268096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-25T23:37:34.8344684+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Connecting Plate L.dxf</FileName>
+      <SHA1>CA4931525E44DA6C0502D6CA6940E31EA97523B9</SHA1>
+      <FileSize>269115</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-25T23:54:55.7292118+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ConnectingPlatee.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>120320</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-26T19:09:56.0930000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DropInNuts 14162_m.ipt</FileName>
+      <SHA1>7AD20213F7F1AD9861808F6DFA6BCA8555ED9396</SHA1>
+      <FileSize>213504</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-14T13:39:26.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Floor.ipt</FileName>
+      <SHA1>D12E5BC0F5260C8DDDC7FFAF7DA0A705E0AE1035</SHA1>
+      <FileSize>98816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-25T22:49:40.8630000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Horizontal Extrusion 1010-32-CL.ipt</FileName>
+      <SHA1>C1F16421EC2AC6E2282DAE8537AD202E553F3296</SHA1>
+      <FileSize>184832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-25T23:34:35.5740000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>just1kicker.dxf</FileName>
+      <SHA1>6093472C3D4279FBED1B2B7072C440B3BE8AC4FB</SHA1>
+      <FileSize>268085</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-25T23:47:42.9691972+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>KickPlate.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>106496</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-26T19:09:55.9440000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Parameters.ipt</FileName>
+      <SHA1>D60C7A7305FF730C767904A2613D99CA2C747126</SHA1>
+      <FileSize>89600</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-06-05T03:11:40.3800000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TestBoxAssembly.iam</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>343040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-09T22:32:54.8610000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>testkicker.dxf</FileName>
+      <SHA1>3EE2ADB656FB5C1676AD7016B917C927BF165DE8</SHA1>
+      <FileSize>268102</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-25T23:34:18.2085261+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TextBoxList.xlsx</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>11378</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-09-09T22:33:13.4869251+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TopBracket.ipt</FileName>
+      <SHA1>B41657DDFBF55CB7968BE9E38AE523DE1F1760C1</SHA1>
+      <FileSize>156160</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-05-14T09:31:37.7200000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Upright Extrusion 1010-24-CL.ipt</FileName>
+      <SHA1>58E4DF3416CBA1C86BC2041C7B6296B79A50DC34</SHA1>
+      <FileSize>186880</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-08-25T23:34:35.7110000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

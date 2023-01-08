@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-29T03:29:38.9882794+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>NotIdealFrame.STEP</FileName>
+      <SHA1>178A705F2D44D4ECC64068145BB60BE324B5B48E</SHA1>
+      <FileSize>422452</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Battery Mockup.ipt</FileName>
+      <SHA1>D6CDA3C0E5F2B0293B55C9568C094FF9837AE4FC</SHA1>
+      <FileSize>75264</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EscMockup.ipt</FileName>
+      <SHA1>EA473C28A0A6BDBACA28E35EB8FF98791750EFA4</SHA1>
+      <FileSize>95232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>GearboxMockup.ipt</FileName>
+      <SHA1>E74E490E2931C4C6B9782B58A88624A757E53D69</SHA1>
+      <FileSize>472576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MotorMockup.ipt</FileName>
+      <SHA1>9E750CBC86FCA9B24F76A5ABE1DC6E26EF9E5997</SHA1>
+      <FileSize>159232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>NotIdeal.iam</FileName>
+      <SHA1>B54032E6F6D01C9488E1AA61D9C53A363FFDFF98</SHA1>
+      <FileSize>306176</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>NotIdealFrame.ipt</FileName>
+      <SHA1>7DA7D0CF395C144B8FD2FC81671CAA98B2FCED38</SHA1>
+      <FileSize>235008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Whyachi_MS-2PowerSwitch.ipt</FileName>
+      <SHA1>5ECCB4C1B99BEC4CE9E59286F3679932179BEBA7</SHA1>
+      <FileSize>152064</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ArmorPlating\OldVersions\FrontDriveArmorPlate.0001.ipt</FileName>
+      <SHA1>E6EC225F5230A068A049BE1CD5283EEC05671FA8</SHA1>
+      <FileSize>61952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ArmorPlating\OldVersions\FrontMiddleDriveArmorPlate.0002.ipt</FileName>
+      <SHA1>22FF7028D2240C61FC548FBAB04B42859C1BD6AF</SHA1>
+      <FileSize>126976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ArmorPlating\FrontArmorPlate.ipt</FileName>
+      <SHA1>08382AD66DAC91D8D1D3F226B52B697EB2B17533</SHA1>
+      <FileSize>153088</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ArmorPlating\FrontDriveArmorPlate.ipt</FileName>
+      <SHA1>B9BCDD457DF90E0446953FB904CA37FFAA022144</SHA1>
+      <FileSize>134144</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ArmorPlating\FrontMiddleDriveArmorPlate.ipt</FileName>
+      <SHA1>4ABE1145586D90D053860D5181DEB4A594CEA946</SHA1>
+      <FileSize>127488</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\FrontArmorPlate.0001.ipt</FileName>
+      <SHA1>5C65940F1ED070EB34691D1D57BDCB98A9854C9C</SHA1>
+      <FileSize>66048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\FrontMiddleDriveArmorPlate.0001.ipt</FileName>
+      <SHA1>6503FF5595A5F0EAA721C30E43A2764762D072F7</SHA1>
+      <FileSize>110080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ArmorPlating\SideDriveArmorPlate.ipt</FileName>
+      <SHA1>C3F4EE4770C3DF94F3FEE71D02BCCC7CCBC9EA09</SHA1>
+      <FileSize>136704</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MotorCircularClamp.ipt</FileName>
+      <SHA1>5CA827B5D272278FD5F731A9F92848B3FB5AD4C1</SHA1>
+      <FileSize>185856</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MotorClampUhmw.ipt</FileName>
+      <SHA1>62BBC9D57102DA135120A5204F6A2F992D8B329B</SHA1>
+      <FileSize>97280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ArmorPlating\OldVersions\SideDriveArmorPlate.0002.ipt</FileName>
+      <SHA1>319F7A8739584893AFD469CB41C30859B7A9E027</SHA1>
+      <FileSize>136704</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ArmorPlating\BottomPlateMiddle.ipt</FileName>
+      <SHA1>0EB221EAFE6676BA50795B59DB72924741E2A38E</SHA1>
+      <FileSize>194560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ArmorPlating\SideBackInnerPlateIdk.ipt</FileName>
+      <SHA1>FFC187B2F6721F5F5C361E808FB05C02B6AC93FC</SHA1>
+      <FileSize>107008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\GearboxMockup.0012.ipt</FileName>
+      <SHA1>04D7766A251E37CDE4569D13E70ABA9C98BA8952</SHA1>
+      <FileSize>486400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\MotorCircularClamp.0006.ipt</FileName>
+      <SHA1>B9451CF8BEEC82C996180EFD0FD57F1C065124D4</SHA1>
+      <FileSize>180736</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\NotIdeal.0011.iam</FileName>
+      <SHA1>60FB1468B1C056477C5AF8813F68B1D6F6D08ABD</SHA1>
+      <FileSize>301056</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\NotIdealFrame.0002.ipt</FileName>
+      <SHA1>51B1BC1B0A540605EEA0BB4B1F481B5D497B6E87</SHA1>
+      <FileSize>231936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>AIS2022\OldVersions\2_00005_441.0001.iam</FileName>
+      <SHA1>0B293B727362B5E5610748B157D927462A75E513</SHA1>
+      <FileSize>189952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>AIS2022\2_00005_441.iam</FileName>
+      <SHA1>7348E434D822417DDEEB420DF78A3EE5CB596F96</SHA1>
+      <FileSize>171008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>AIS2022\2_00005_4411 1_4 (C).ipt</FileName>
+      <SHA1>FEB18879ECA929E3CAAAF09079C047F68CFBFC3E</SHA1>
+      <FileSize>221696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>AIS2022\2_00005_4411 1_4 (T).ipt</FileName>
+      <SHA1>751C7ED797B2EB2EBC41654A44E6D8D3EAA4BF00</SHA1>
+      <FileSize>168448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>AIS2022\52008_43.ipt</FileName>
+      <SHA1>774A3EBE6B0C0789534843864FF81016DC15DB20</SHA1>
+      <FileSize>89088</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>AIS2022\52008_48.ipt</FileName>
+      <SHA1>9C7E45165C8EB7D9C782E0AEB220EB36B3ED7E53</SHA1>
+      <FileSize>114176</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>6383K241_Ball Bearing.ipt</FileName>
+      <SHA1>15871DA96514BA08EC372B93127D6536C65C5117</SHA1>
+      <FileSize>509952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

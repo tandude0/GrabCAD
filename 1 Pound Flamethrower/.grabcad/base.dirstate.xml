@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-29T03:29:35.7238779+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OldVersions\1 Pound Flamethrower Assembly.0004.iam</FileName>
+      <SHA1>7252B4FE03B53A26AD8D40C1E11B9484C0390537</SHA1>
+      <FileSize>427520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Flamethrower TPU 22 Chassis.0024.ipt</FileName>
+      <SHA1>8A9666854CE12119136B7F6A229A0CB8554B6DED</SHA1>
+      <FileSize>658944</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\FlamethrowerModule.0004.ipt</FileName>
+      <SHA1>555B5E2F525E902F39BB7595DB8B8157CFC666AC</SHA1>
+      <FileSize>152064</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1 Pound Flamethrower Assembly.iam</FileName>
+      <SHA1>B34F774F7B209508E6F2C05D5010C2DE466B35B0</SHA1>
+      <FileSize>437760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90417A126_Phillips Rounded Head Thread-Forming Screws.ipt</FileName>
+      <SHA1>3EABC62B8AC519D6D95518AD118EA56E26FD314B</SHA1>
+      <FileSize>693760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CorrectSizeWheelsIThink.ipt</FileName>
+      <SHA1>90AF1B6C8C49AA0CC8ECF4C44BBDC7AF97B47594</SHA1>
+      <FileSize>251904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FingerTech_Silver_Spark_223350.ipt</FileName>
+      <SHA1>0D814162F7A1FF1C166BDB4777EE8FD9467AF14E</SHA1>
+      <FileSize>333312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Flamethrower TPU 22 Chassis.ipt</FileName>
+      <SHA1>01F04C97C625285D481614B038E89FA07970544B</SHA1>
+      <FileSize>629760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FlamethrowerModule.ipt</FileName>
+      <SHA1>1D708A0DAE7CF6DB3400EFE1C332D72001BE91F9</SHA1>
+      <FileSize>151040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>WedgeUHMWPiece.ipt</FileName>
+      <SHA1>75AB19B3B170A23C5DF0044BD0F512FC13654A3A</SHA1>
+      <FileSize>122880</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-01-05T15:42:36.6913068-05:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\9654K119_Steel Extension Spring_9654K119.ipt</FileName>
+      <SHA1>5247325DCE96553F87BAE4ECDA288C23A2AF7D25</SHA1>
+      <FileSize>1464320</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:29.4616114+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\Axle^CatapultAssembly.ipt</FileName>
+      <SHA1>AC96A7D0AD2D26FB166F254BE0F4704F62F2ABC4</SHA1>
+      <FileSize>78336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:30.8619342+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\BottomPlateAxle^CatapultAssembly.ipt</FileName>
+      <SHA1>15DED4B016D659700B28580D989E104854B1B90E</SHA1>
+      <FileSize>78336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:30.3808236+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\BottomPlateStopper^CatapultAssembly.ipt</FileName>
+      <SHA1>0589235FF06CF0BC405FFD79DBF48E15172B7669</SHA1>
+      <FileSize>77824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:30.5588647+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\BottomPlate^CatapultAssembly.ipt</FileName>
+      <SHA1>5FC046DB630D4FCCC90B23CB060AE5E7108D2AE5</SHA1>
+      <FileSize>100864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:30.7289041+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\CatapultArm^CatapultAssembly.ipt</FileName>
+      <SHA1>BCA2D866E2109C46D946DE99C10C7F56E09C54E8</SHA1>
+      <FileSize>260096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:30.0047364+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\CatapultAssembly.iam</FileName>
+      <SHA1>C5CB9FEA1F40EF7A15FC13310B66AEF2AC6995C4</SHA1>
+      <FileSize>999936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:31.8651650+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\CatapultRing.ipt</FileName>
+      <SHA1>6C18B8D2DB1744872DFEA2C1F93E8C4D2384B3FD</SHA1>
+      <FileSize>139776</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:31.0099685+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\CatapultRingSupports^CatapultAssembly.ipt</FileName>
+      <SHA1>6DEFA70681751BD67CFDC229A2EA2A2D4743FA03</SHA1>
+      <FileSize>177152</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:29.8266956+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\CatapultUprightArm^CatapultAssembly.ipt</FileName>
+      <SHA1>1F06B76A4126F771AD3009643569B0E2EBD6D3FA</SHA1>
+      <FileSize>122368</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:30.2457929+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\CatapultUprightArm^CatapultAssembly_Flipped Mirrored.ipt</FileName>
+      <SHA1>F809BD3B8C9D3DF16ED3D5EA87FE94DEC17C7B0C</SHA1>
+      <FileSize>123904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:29.1465395+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Inventor 4 2 22 import\Pin^CatapultAssembly.ipt</FileName>
+      <SHA1>079E30719B7E4A40F03ABD719C8ED7C97B5DC8B6</SHA1>
+      <FileSize>80384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:29.6046446+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>10_9654K119_Steel Extension Spring.pdf</FileName>
+      <SHA1>F4D7BC377E0141E0A4E375F23AE032DD04C36CFC</SHA1>
+      <FileSize>77635</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:04:47.8598088+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>11_90417A126_Phillips Rounded Head Thread-Forming Screws.pdf</FileName>
+      <SHA1>818D5617858E01D499AB220500DB909AE2847678</SHA1>
+      <FileSize>66493</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:05:25.6656574+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>12_Pin^CatapultTopAssembly.pdf</FileName>
+      <SHA1>6104874B56D92ED348EABD8D0E14B49F0FCAC25F</SHA1>
+      <FileSize>51541</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:05:46.3021631+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>13_Axle^CatapultTopAssembly.pdf</FileName>
+      <SHA1>BCC478B64F64E648C47C4D27E9DC0C5954F5D813</SHA1>
+      <FileSize>49452</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:06:20.9037514+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>14_CatapultRing.pdf</FileName>
+      <SHA1>CF7714D3F5A0BF4B518334D51EACFD8EE7D1A6D1</SHA1>
+      <FileSize>54275</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:06:50.3643479+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>15_CatapultArm^CatapultTopAssembly.pdf</FileName>
+      <SHA1>07FBB7E51DA4628CBADAA9DADEAFF5AB1473E68A</SHA1>
+      <FileSize>61031</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:07:13.0451860+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1CatapultAssembly.pdf</FileName>
+      <SHA1>D20BA05DB0BF0FB482C490B1D94344BD80FAD28D</SHA1>
+      <FileSize>95503</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:43:25.8253965+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>2BottomPlate^CatapultAssembly.pdf</FileName>
+      <SHA1>E98E9B2D654C5F1578260AAE275914B283AC1DEC</SHA1>
+      <FileSize>53516</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:44:43.7615878+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>3BottomPlateAxle^CatapultAssembly.pdf</FileName>
+      <SHA1>14286A762334AE1E8E58D2AE5DDFACB33FA6B7BE</SHA1>
+      <FileSize>49854</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:45:54.5611708+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>4BottomPlateStopper^CatapultAssembly.pdf</FileName>
+      <SHA1>5123513FA8CF07AF3034452CA49469D63D6FBE47</SHA1>
+      <FileSize>51989</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:46:38.3557566+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>5REV-41-1125.pdf</FileName>
+      <SHA1>4EC3C657C2F1E53D66207326CDC10025611D3BE0</SHA1>
+      <FileSize>52128</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:48:01.0635759+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>6_90576A102_Medium-Strength Steel Nylon-Insert Locknut.pdf</FileName>
+      <SHA1>B0F9007F58E0F35125310BAA6FD279CA4E844BE1</SHA1>
+      <FileSize>58534</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:49:05.4592330+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>7CatapultTopAssembly.pdf</FileName>
+      <SHA1>29A9DDC9DF58E3148745FE642A5C2F8B1E4E7446</SHA1>
+      <FileSize>101966</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:50:11.8823168+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>8CatapultUprightArm^CatapultTopAssembly.pdf</FileName>
+      <SHA1>C7FD1DE4815C801894CA6F308AABFFAAD3F9AA77</SHA1>
+      <FileSize>68752</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:52:12.0840645+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90417A126_Phillips Rounded Head Thread-Forming Screws.STEP</FileName>
+      <SHA1>79A4EEEF895A51A24C8305051A4CF0C90BBC5DF6</SHA1>
+      <FileSize>633133</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-07T07:57:28.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90417A126_Phillips Rounded Head Thread-Forming Screws.step.SLDDRW</FileName>
+      <SHA1>5498C79957C553855D9B57B0BD393492FAD48A44</SHA1>
+      <FileSize>508022</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:05:30.6930506+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90417A126_Phillips Rounded Head Thread-Forming Screws.step.SLDPRT</FileName>
+      <SHA1>2EF262670DFD31E0CF0F21B845B7E8FBAB4C12D5</SHA1>
+      <FileSize>550191</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-07T07:57:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90576A102_Medium-Strength Steel Nylon-Insert Locknut.STEP</FileName>
+      <SHA1>A9C09F67B3C4D78F3C0E55036E5B2387169572E2</SHA1>
+      <FileSize>314696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-07T07:57:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90576A102_Medium-Strength Steel Nylon-Insert Locknut.step.SLDDRW</FileName>
+      <SHA1>831205C82E244D0629422A949ED27E3B2EA50D8D</SHA1>
+      <FileSize>381699</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:49:17.0812243+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90576A102_Medium-Strength Steel Nylon-Insert Locknut.step.SLDPRT</FileName>
+      <SHA1>CEF51BADF510DFC24B1E02863984F7F612630B29</SHA1>
+      <FileSize>405689</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-07T07:57:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>9654K119_Steel Extension Spring.SLDDRW</FileName>
+      <SHA1>C209E013C4676E5B0813176938C9E5EDD5D35C0C</SHA1>
+      <FileSize>4064499</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:04:57.9449813+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>9654K119_Steel Extension Spring.SLDPRT</FileName>
+      <SHA1>10E91F3A9F7F6E3DA9DDD69F13A59BCD7DBAADE5</SHA1>
+      <FileSize>3242327</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T03:58:58.2690858+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>9CatapultRingSupports^CatapultTopAssembly.pdf</FileName>
+      <SHA1>CBB47867C41D2E81C29BDA0DAA598BCD9B61F2CF</SHA1>
+      <FileSize>62132</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:04:13.7294607+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Axle.SLDPRT</FileName>
+      <SHA1>DED6B6CB6040919A9B4B07A5E2AE70F71D0CDDEC</SHA1>
+      <FileSize>204259</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-07T07:57:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Axle^CatapultTopAssembly.SLDDRW</FileName>
+      <SHA1>B982639B44B3058AB840AE8C0D5B8264967F1588</SHA1>
+      <FileSize>82908</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T03:43:32.0737847+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Axle^CatapultTopAssembly.SLDPRT</FileName>
+      <SHA1>EDA300BC328CAB500A73672DED46D7B2EBC7F75D</SHA1>
+      <FileSize>103665</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-28T22:24:45.2754632+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BottomPlateAxle^CatapultAssembly.SLDDRW</FileName>
+      <SHA1>072EEF43EFEDE5F819FB541C88892579FDDC45CF</SHA1>
+      <FileSize>93245</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:46:03.5274220+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BottomPlateAxle^CatapultAssembly.SLDPRT</FileName>
+      <SHA1>B13146130E3108177C1E048326F2CFACE8F322FE</SHA1>
+      <FileSize>82404</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T04:06:06.5090454+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BottomPlateStopper^CatapultAssembly.SLDDRW</FileName>
+      <SHA1>18B944E92E44F50B76B85CC299AFDA989F21D4CE</SHA1>
+      <FileSize>104897</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:46:45.3433890+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BottomPlateStopper^CatapultAssembly.SLDPRT</FileName>
+      <SHA1>8B2C1734F9C6887A494FD6D342B71FB30BAE5A1D</SHA1>
+      <FileSize>228536</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T04:06:06.4060199+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BottomPlate^CatapultAssembly.SLDDRW</FileName>
+      <SHA1>EAAF8CB63709797CC67A6A7850AE8819F22D688A</SHA1>
+      <FileSize>134353</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:45:03.8429814+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BottomPlate^CatapultAssembly.SLDPRT</FileName>
+      <SHA1>AF39D71775B5CF0309455544EFD20AE541D73BA6</SHA1>
+      <FileSize>207107</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T04:06:06.6720829+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultArm^CatapultAssembly.STL</FileName>
+      <SHA1>7151D677B420D474B8E5CFD92DDE259B0CB861E7</SHA1>
+      <FileSize>41602284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-07T07:57:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultArm^CatapultTopAssembly.SLDDRW</FileName>
+      <SHA1>0235D9CC9D682B116C6BFF32FF4C5272CD805BBB</SHA1>
+      <FileSize>313074</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:07:17.6423203+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultArm^CatapultTopAssembly.SLDPRT</FileName>
+      <SHA1>B8F17BCF279650615C2CF8DAFFC123B304DAF008</SHA1>
+      <FileSize>257644</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T04:14:07.7189191+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultAssembly.SLDASM</FileName>
+      <SHA1>D8C30EEBBC88F536A52A17EEAE8F8F59CE45DB2F</SHA1>
+      <FileSize>5489246</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-28T22:24:43.5053541+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultAssembly.SLDDRW</FileName>
+      <SHA1>F874458D8EF6604F06E50FBB27D27ED9158BEAFF</SHA1>
+      <FileSize>11436796</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-28T22:35:21.9775033+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultAssembly.STEP</FileName>
+      <SHA1>5D64DA5FAB14FE49BDD5BD5AD432F55E5DAF4BD5</SHA1>
+      <FileSize>2532174</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:02:13.6453690+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultRing.SLDDRW</FileName>
+      <SHA1>B8937E9A0E67D2191A14E4C490D55D13D2E97CD2</SHA1>
+      <FileSize>124793</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:06:56.8949584+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultRing.SLDPRT</FileName>
+      <SHA1>03B8A8C24267029FA85A5F71EC6C08FB43898D02</SHA1>
+      <FileSize>116307</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T04:14:07.8409497+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultRing.stl</FileName>
+      <SHA1>0C5C2A56BDCED089459D08109B1E198F154BD798</SHA1>
+      <FileSize>353084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:04:09.2424876+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultRingSupports^CatapultAssembly.STL</FileName>
+      <SHA1>66531B9F55F22D7C8EFEDA10E102103F2A81A27C</SHA1>
+      <FileSize>307584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:07:50.4780541+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultRingSupports^CatapultTopAssembly.SLDDRW</FileName>
+      <SHA1>D600DA66CB1AD54DC37F4A5B72506649F09CE6FE</SHA1>
+      <FileSize>189417</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:04:21.1244566+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultRingSupports^CatapultTopAssembly.SLDPRT</FileName>
+      <SHA1>A53D4684699C29786ADFBDC7399DD5195EB6A914</SHA1>
+      <FileSize>177139</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T04:14:09.9966374+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultTopAssembly.SLDASM</FileName>
+      <SHA1>8F2870E4269DB59941F5AF55A7C54857C0B42A6D</SHA1>
+      <FileSize>4818108</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-28T22:24:42.9640040+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultTopAssembly.SLDDRW</FileName>
+      <SHA1>E963EAFACDBF87EE210D0167F17DB52BD0B330FA</SHA1>
+      <FileSize>5255704</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T03:37:12.6267767+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultUprightArm^CatapultAssembly.STL</FileName>
+      <SHA1>928FA798F0F4798721E0BB2EB0E7F53FF3F96646</SHA1>
+      <FileSize>84784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:08:14.3974066+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultUprightArm^CatapultTopAssembly.SLDDRW</FileName>
+      <SHA1>369ECECF5A02CEBB68A3B9135D08BD7F4E1C2622</SHA1>
+      <FileSize>289232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T03:40:27.7626891+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CatapultUprightArm^CatapultTopAssembly.SLDPRT</FileName>
+      <SHA1>4B0C9C06A80CD02EF69433A0165500A6C8FCA377</SHA1>
+      <FileSize>309748</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T04:14:10.1796794+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>console.log</FileName>
+      <SHA1>6E379EC4B4ADE5B1A99F37D39EB85BF4F4717E4D</SHA1>
+      <FileSize>9730</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-07T07:57:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MirroredCatapultUprightArm^CatapultAssembly.STL</FileName>
+      <SHA1>0F1C86B6BE3FBCEC0DD513CC418CA6C557407690</SHA1>
+      <FileSize>84984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-02T18:08:32.0820620+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pin^CatapultTopAssembly.SLDDRW</FileName>
+      <SHA1>35E9983BF0C60E49E27194C5F6B84CC943DDA758</SHA1>
+      <FileSize>92680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T02:05:51.9965668+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Pin^CatapultTopAssembly.SLDPRT</FileName>
+      <SHA1>D4C7BC9CA733FCB22EF6326138B5323456996D5C</SHA1>
+      <FileSize>106153</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-26T04:14:09.8716083+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>REV-41-1125.STEP</FileName>
+      <SHA1>B7C06CA5BFBE5C63BC53C7BA2A66E0262FA0D770</SHA1>
+      <FileSize>54663</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-07T07:57:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>REV-41-1125.step.SLDDRW</FileName>
+      <SHA1>48BADB6F460521EF654CB3A8C7E7E89304E741FF</SHA1>
+      <FileSize>112818</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-15T01:48:07.6323527+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>REV-41-1125.step.SLDPRT</FileName>
+      <SHA1>EA0C249848F5BD51DBA43C1D65CC54179EDBDE95</SHA1>
+      <FileSize>77459</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-07T07:57:30.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RingCatapultAssembly.STL</FileName>
+      <SHA1>A67887D22087E79C2A0F5DE36E77A7BDB8B34032</SHA1>
+      <FileSize>135384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-04T18:50:36.3092903+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Russell Williams Catpult Individual Reflection.docx</FileName>
+      <SHA1>662E76B36A229C354ACE9A71A5875AEE7C7634D8</SHA1>
+      <FileSize>16667</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-29T03:16:55.1761834+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Team India Catpult Final Drawing Package.pdf</FileName>
+      <SHA1>803D443AE6CBEC4A30AAE1B6C599D18A1D54B1F3</SHA1>
+      <FileSize>451410</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-28T22:35:39.2302312+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

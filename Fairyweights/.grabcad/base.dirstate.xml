@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-29T03:29:47.2025037+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\OldVersions\2s 250mAh Mockup.0003.ipt</FileName>
+      <SHA1>5F3E8AAD83359A30C63B9A5CBE9C222646493549</SHA1>
+      <FileSize>78848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\OldVersions\DYS BE 1806 - Moteur complet.0005.ipt</FileName>
+      <SHA1>B22018288B45F37A3D3AEC07ED7FE3C1CECCC0CF</SHA1>
+      <FileSize>2814464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\OldVersions\MicroGearmotor v3.0003.ipt</FileName>
+      <SHA1>23C0137B6D574C9AF415D9074F25EA8E014F9260</SHA1>
+      <FileSize>1212416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\OldVersions\pololu-wheel-40x7mm-black.0002.ipt</FileName>
+      <SHA1>9237BF01A89AC9DFECE8C3DE9D6B6F6181E814BE</SHA1>
+      <FileSize>1240576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\2s 250mAh Mockup.ipt</FileName>
+      <SHA1>7DECD21B68ED86DDA1E7D80646B166BF373E2C2E</SHA1>
+      <FileSize>78848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\9 18 22 base.PNG</FileName>
+      <SHA1>F097994B8BE7CEDE253A62962A443C960A83C530</SHA1>
+      <FileSize>183191</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\console.log</FileName>
+      <SHA1>7BA38B4BE86109035E38F590A056F211EC676F9B</SHA1>
+      <FileSize>58658</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\DYS BE 1806 - Moteur complet.ipt</FileName>
+      <SHA1>D16A7B91700DE8A3964DA77CD2FF6A4D49B10259</SHA1>
+      <FileSize>2813952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\DYS BE 1806 - Moteur complet.SLDPRT</FileName>
+      <SHA1>A14FA6CCB8FCFA1D32A1A2B262ADDB6C84154902</SHA1>
+      <FileSize>4599296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\DYS BE 1806 - Moteur complet.STEP</FileName>
+      <SHA1>658B0D04B7024B4051F25192B67B92202E532D39</SHA1>
+      <FileSize>9343813</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\Fairy Shell Spinner Assembly1.iam</FileName>
+      <SHA1>67C5D436F6DEF6323C88271912F669CB756D382C</SHA1>
+      <FileSize>1051648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\MicroGearmotor v3.ipt</FileName>
+      <SHA1>7DDD4F12F15A3F935A0AA647B7AA98C97E053A7D</SHA1>
+      <FileSize>1212928</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\MicroGearmotor v3.step</FileName>
+      <SHA1>183522D20BF841F131EEE522FB21796C9F56BC98</SHA1>
+      <FileSize>381984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\multirotor-motor-dys-be1806-2300kv-1.snapshot.5.zip</FileName>
+      <SHA1>E2F7A382E4C31120C96A92F899BCE8AF1C60DFCE</SHA1>
+      <FileSize>40918136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\pololu-wheel-40x7mm-black.ipt</FileName>
+      <SHA1>52B49D50CB1E25801A73DA1C3BF5CDB74AD2BBD8</SHA1>
+      <FileSize>1262592</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\pololu-wheel-40x7mm-black.step</FileName>
+      <SHA1>78B4950E808249CFEF92B39C4A154361A694CE13</SHA1>
+      <FileSize>2397350</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\Shell.ipt</FileName>
+      <SHA1>51A4E1E59DA6C4C4ACBD9B0D0453BF7C351B976A</SHA1>
+      <FileSize>649728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\ShellSpinnerBottomPlate.ipt</FileName>
+      <SHA1>B787A0D8C016DEA8E7D96FE7D4013B2F8A02C033</SHA1>
+      <FileSize>585728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\OldVersions\ShellSpinnerBottomPlate.0013.ipt</FileName>
+      <SHA1>5F860FE72266285E8C6F85A0BE38A9E2135BBDC0</SHA1>
+      <FileSize>585728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\9 18 22 progress.PNG</FileName>
+      <SHA1>BEDE4FBDEEBBA6CA7BAC51404EB26D9D2E4E7C40</SHA1>
+      <FileSize>394717</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\Shell.stl</FileName>
+      <SHA1>C2DFE516EB07837A3F98AE8C6982338869DF45FD</SHA1>
+      <FileSize>786284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\OldVersions\Fairy Shell Spinner Assembly1.0011.iam</FileName>
+      <SHA1>F2DCA074B9182EBEC37BD3A4A1E57DBA217D143C</SHA1>
+      <FileSize>1052672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Shell Spinner\OldVersions\Shell.0013.ipt</FileName>
+      <SHA1>5FD7EC9189F1B29E0AE46BC694DC6BF3927BAB3A</SHA1>
+      <FileSize>393728</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-29T03:29:40.4175212+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\OldVersions\Ant Beater Bar R1.0001.ipt</FileName>
+      <SHA1>5038BE19AC3F111DCE86F2BA12A124665D1926A4</SHA1>
+      <FileSize>183296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\OldVersions\FHSCS 5-16x075_91253A581.0001.ipt</FileName>
+      <SHA1>07C6FA3CFAEB412AEC859659D86469240422817C</SHA1>
+      <FileSize>419840</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\OldVersions\HHCS Gr8 1-4x4.5 91257A559_HIGH-STRENGTH GRADE 8 STEEL CAP SCREW_91257A559.0001.ipt</FileName>
+      <SHA1>5266C0B0EDF0270406C0ACF770573E3643230171</SHA1>
+      <FileSize>374784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\ant beater 26t pulley.ipt</FileName>
+      <SHA1>A064366BACABA83320AAAA2A5D52288FFA056BBB</SHA1>
+      <FileSize>323584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\Ant Beater Bar R1.ipt</FileName>
+      <SHA1>DD18444AA3DEE5EB810796A6005608EEFCD43C5D</SHA1>
+      <FileSize>183808</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\Ant Delrin Flange R1.ipt</FileName>
+      <SHA1>6C305A2C781DEBC46C824EC627F16DAF983BA250</SHA1>
+      <FileSize>123904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\FHSCS 5-16x075_91253A581.ipt</FileName>
+      <SHA1>94FF6027D9E2ED446D8E25324A33F64049BBAFB1</SHA1>
+      <FileSize>420352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\FHSCS 6-32 x 0.625_91253A150.ipt</FileName>
+      <SHA1>B8856193CC6C70994B8F81B6F943F5F80D2D1B21</SHA1>
+      <FileSize>596480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\HHCS Gr8 1-4x4.5 91257A559_HIGH-STRENGTH GRADE 8 STEEL CAP SCREW_91257A559.ipt</FileName>
+      <SHA1>2AF61E2F93E36586B38823EA8E6DC457A3F5DDD5</SHA1>
+      <FileSize>374784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\NILN Gr8 1-4_90630A110.ipt</FileName>
+      <SHA1>83B5C19DA61534A793188A8B3973053FD08CB37D</SHA1>
+      <FileSize>360960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\SCE44 0.250 needle roller bearing.ipt</FileName>
+      <SHA1>3C5067E5C28A13298FAA518F7AD556967A69DDAD</SHA1>
+      <FileSize>136192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BeaterStuff\SLW 5-16.ipt</FileName>
+      <SHA1>CD9AD3D0FD15ACE59013006F2C7AEB3D3BD0A929</SHA1>
+      <FileSize>91136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\15t_pulley.0001.ipt</FileName>
+      <SHA1>6F0D2DD51B7DB60C066E8E1981CD91E16A0D3600</SHA1>
+      <FileSize>275456</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\1lb_Beater_Bar_Assy.0006.iam</FileName>
+      <SHA1>E68928371084DBBECAC435BC81596E0D6820C623</SHA1>
+      <FileSize>675840</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\EMax RS2205 v1.0007.ipt</FileName>
+      <SHA1>4DD5ADEC8F7BF38B1BA3A98EA9FCA6F5A1C1B1E9</SHA1>
+      <FileSize>284160</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Sus TPU 22 Chassis.0024.ipt</FileName>
+      <SHA1>8C38067ADB9144304A09E10CF89F7A470BDB6625</SHA1>
+      <FileSize>812032</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Sus.0008.iam</FileName>
+      <SHA1>37F16EA7843BD78D49EA88AC8C2A2164E024F2C5</SHA1>
+      <FileSize>1041408</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\SusLid.0002.ipt</FileName>
+      <SHA1>FD4757C783DAF1A6C8D3024D7730890B59421005</SHA1>
+      <FileSize>227328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>15t_pulley.ipt</FileName>
+      <SHA1>E3E4D7AA9182496512C5D1DC37357537ABF5DDEB</SHA1>
+      <FileSize>275968</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>15t_pulley.STEP</FileName>
+      <SHA1>556E0FE8740900334063039D6C6B8282B0EC476F</SHA1>
+      <FileSize>452927</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1lb_Beater_Bar_Assy.iam</FileName>
+      <SHA1>73A3586F018E4C908E7D9F67E17FCF833C1C58FE</SHA1>
+      <FileSize>623104</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1lb_Beater_Bar_Assy.STEP</FileName>
+      <SHA1>E1BDD898778DC04587E135B0A4F3DC6C810B1FBB</SHA1>
+      <FileSize>3140069</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90417A126_Phillips Rounded Head Thread-Forming Screws.ipt</FileName>
+      <SHA1>3EABC62B8AC519D6D95518AD118EA56E26FD314B</SHA1>
+      <FileSize>693760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BatteryMockup.ipt</FileName>
+      <SHA1>A4FB45F161A175BA82353CE1EBD9949C0AEAB425</SHA1>
+      <FileSize>87040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CorrectSizeWheelsIThink.ipt</FileName>
+      <SHA1>90AF1B6C8C49AA0CC8ECF4C44BBDC7AF97B47594</SHA1>
+      <FileSize>251904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DerivedLid.ipt</FileName>
+      <SHA1>065D6F61D513A6D55DFD1D6CFA135E94A08CB0EF</SHA1>
+      <FileSize>304128</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>EMax RS2205 v1.ipt</FileName>
+      <SHA1>6D767F68CBA1F674326295EEAB1AC2325A896D74</SHA1>
+      <FileSize>292352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FingerTech_Silver_Spark_223350.ipt</FileName>
+      <SHA1>0D814162F7A1FF1C166BDB4777EE8FD9467AF14E</SHA1>
+      <FileSize>333312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Sus TPU 22 Chassis.ipt</FileName>
+      <SHA1>BF0B42B07728BCAA37633151946CFB4F77E30BB8</SHA1>
+      <FileSize>859648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Sus.iam</FileName>
+      <SHA1>5C6DE11F013CE4A625AB5A5680DAE6F0DA577438</SHA1>
+      <FileSize>1055232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Sus.PNG</FileName>
+      <SHA1>F76891BE9900DBA1FB6E25CAB8A9D1B483A924EB</SHA1>
+      <FileSize>343604</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SusLid.ipt</FileName>
+      <SHA1>212232B26DE199B6328AF552F98834778FB367B1</SHA1>
+      <FileSize>232448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\BottomPlateMiddle.0001.ipt</FileName>
+      <SHA1>AAA4D44F985B697960FB259BE2EDF5D1C6EC045F</SHA1>
+      <FileSize>118272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

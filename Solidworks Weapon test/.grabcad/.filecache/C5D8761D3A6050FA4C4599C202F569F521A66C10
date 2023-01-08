@@ -1,0 +1,13 @@
+﻿"WeaponDiameter"= 5in
+"WeaponInnerHole"= 1in
+"WeaponThickness"= 0.25in
+"MinimumThickness"= 0.2in
+"ScrewHoleSize"= 0.125in'Diameter
+"CounterWeightLeftAngle"= 35deg'With tooth up
+"CounterWeightRightAngle"= 40deg
+"CounterWeightSizeCircle"= 3in'For Aluminum Base
+"CounterWeightHeight"= 0.125in'Like the offset from the aluminum base
+"ToothRakeAngle"= 16deg
+"ToothReliefAngle"= 90deg
+"ToothThickness"= 0.5in
+"WeaponLongThickness"= 0.65in'Look into other ways to constrain

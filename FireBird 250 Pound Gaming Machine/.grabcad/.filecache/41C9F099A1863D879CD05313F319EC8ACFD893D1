@@ -1,0 +1,109 @@
+﻿Study Static Analysis:1 started: 3/10/2021, 2:40:24 PM
+Number of configurations: 1
+Default mesh: 740 elements, 1523 nodes
+Solution time 0.9s
+Convergence rate: 2.88%
+h Refinement #1: 849 elements, 1746 nodes
+
+Solution time 0.5s
+Convergence rate: 36.5%
+h Refinement #2: 893 elements, 1836 nodes
+
+Solution time 0.6s
+Convergence rate: 59.9%
+h Refinement #3: 931 elements, 1919 nodes
+
+Solution time 0.5s
+Convergence rate: 41.7%
+h Refinement #4: 1277 elements, 2496 nodes
+
+Solution time 0.6s
+Convergence rate: 16.4%
+h Refinement #5: 1628 elements, 3045 nodes
+
+Solution time 0.7s
+Convergence rate: 16.9%
+h Refinement #6: 2101 elements, 3824 nodes
+
+Solution time 0.7s
+Convergence rate: 77.2%
+h Refinement #7: 2112 elements, 3840 nodes
+
+Solution time 0.8s
+h Refinement #8: 2112 elements, 3840 nodes
+
+Solution time 0.7s
+Convergence rate: 0.00209%
+Problem converged 
+Study        Worst Jacobian ratio :  2.29  on element 1264 finished: 3/10/2021, 2:40:42 PM
+Total time 0:00:18
+
+Study Static Analysis:1 started: 3/10/2021, 2:45:04 PM
+Number of configurations: 1
+Default mesh: 740 elements, 1523 nodes
+Solution time 0.6s
+Convergence rate: 2.88%
+h Refinement #1: 849 elements, 1746 nodes
+
+Solution time 0.5s
+Convergence rate: 36.5%
+h Refinement #2: 893 elements, 1836 nodes
+
+Solution time 0.5s
+Convergence rate: 59.9%
+h Refinement #3: 931 elements, 1919 nodes
+
+Solution time 0.8s
+Convergence rate: 41.7%
+h Refinement #4: 1277 elements, 2496 nodes
+
+Solution time 0.6s
+Convergence rate: 16.4%
+h Refinement #5: 1628 elements, 3045 nodes
+
+Solution time 0.6s
+Convergence rate: 16.9%
+h Refinement #6: 2101 elements, 3824 nodes
+
+Solution time 0.7s
+Convergence rate: 77.2%
+h Refinement #7: 2112 elements, 3840 nodes
+
+Solution time 0.8s
+h Refinement #8: 2112 elements, 3840 nodes
+
+Solution time 0.7s
+Convergence rate: 0.00135%
+Problem converged 
+Study        Worst Jacobian ratio :  2.29  on element 1264 finished: 3/10/2021, 2:45:14 PM
+Total time 0:00:10
+
+Study Static Analysis:1 started: 3/10/2021, 2:45:27 PM
+Number of configurations: 1
+Study Static Analysis:1 finished: 3/10/2021, 2:45:27 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 3/10/2021, 2:46:17 PM
+Number of configurations: 1
+Default mesh: 740 elements, 1523 nodes
+Solution time 0.5s
+Convergence rate: 33.1%
+h Refinement #1: 849 elements, 1746 nodes
+
+Solution time 0.6s
+h Refinement #2: 956 elements, 1963 nodes
+
+Solution time 0.5s
+Convergence rate: 99.3%
+h Refinement #3: 1250 elements, 2458 nodes
+
+Solution time 0.6s
+Convergence rate: 1.17%
+h Refinement #4: 1592 elements, 3024 nodes
+
+Solution time 0.6s
+Convergence rate: 0.457%
+Problem converged 
+Study        Worst Jacobian ratio :  2.19  on element 438 finished: 3/10/2021, 2:46:23 PM
+Total time 0:00:06
+

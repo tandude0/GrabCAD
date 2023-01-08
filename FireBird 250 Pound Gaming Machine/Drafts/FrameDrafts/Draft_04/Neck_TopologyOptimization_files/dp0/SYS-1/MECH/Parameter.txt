@@ -1,0 +1,32 @@
+$Topology Optimization Input File
+FeederSystem1=Static,Static22,22,"C:\Users\mlydon7629\AppData\Local\Temp\11\WB_CCC-S19RD1-01_mlydon7629_15308_2\unsaved_project_files\dp0\SYS\MECH\",1,1.000000
+nonlin_contact = no
+min_density = 0.001
+power_law_stiff = 3
+max_iter = 500
+acc = 0.001
+output_freq = 1
+max_num_inter_files = 500
+solver = scpip
+ansys_version = 202
+units = MKS
+distributed = True
+num_procs = 2
+
+cut_off_scp = 1
+version_scp = 402
+
+$Objective:
+objective1=COMP,Objective,22,all,no,1
+
+$Constraints:
+constraint1 = TOT_MASS,Mass Constraint_62, 63
+constraint2 = EXTRUSION, Manufacturing Constraint,1,0,0
+constraint3 = MIN_MEMBER_SIZE, Manufacturing Constraint 2, 0.015
+
+$Design Space:
+design_elements = OptimizationRegionElements.dat
+
+$Capability Info:
+license_server = 28352@CCC-ANSYS01.floridapoly.org
+capability_id = CCC-ANSYS01_floridapoly_org-SYSTEM-1944-049980

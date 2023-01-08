@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-29T03:29:46.5019281+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OldVersions\15T_pulley_dual.0001.ipt</FileName>
+      <SHA1>AB2BC2959A5B087EB202888C1D642547A77919DE</SHA1>
+      <FileSize>280576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\4s 550mAh mockup.0002.ipt</FileName>
+      <SHA1>85C4866749077D1B17B9B83095B829B2CACDB434</SHA1>
+      <FileSize>80384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\ft-bl-mega-spark.0002.ipt</FileName>
+      <SHA1>E5030E71436893A76E416AC4F4C0914A99E9006F</SHA1>
+      <FileSize>503296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\15t_pulley.STEP</FileName>
+      <SHA1>556E0FE8740900334063039D6C6B8282B0EC476F</SHA1>
+      <FileSize>452927</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\15T_pulley_dual.STEP</FileName>
+      <SHA1>167900FFA1B4136CF0F68897C6C8A1EB4BF1CB95</SHA1>
+      <FileSize>453207</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\173.PNG</FileName>
+      <SHA1>54205021FF842AF1214861860CD95DFBDE669250</SHA1>
+      <FileSize>679310</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\35-36 outrunner.STEP</FileName>
+      <SHA1>6F59A16A22257FCCEDDE592996CF61189D4AEF6D</SHA1>
+      <FileSize>1282846</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\36.PNG</FileName>
+      <SHA1>981D9BE8835902989483C846E2279A503C89E902</SHA1>
+      <FileSize>278557</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\90101A011_18-8 Stainless Steel Thin Nylon-Insert Locknut.STEP</FileName>
+      <SHA1>553F1F07810653B33F5915FE9A72B3A93AC0DD84</SHA1>
+      <FileSize>219450</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\91259A102_Alloy Steel Shoulder Screw.STEP</FileName>
+      <SHA1>E299B95DBE5064DADABBD563B5352F4E56E00F1F</SHA1>
+      <FileSize>1179144</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>15T_pulley_dual.ipt</FileName>
+      <SHA1>A986262781FC3D3239F9A12FD890F4A5ECAF515A</SHA1>
+      <FileSize>281088</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>35-36 outrunner.ipt</FileName>
+      <SHA1>B1F74A14B83F2791A42FC89DAC56D02156CE62FC</SHA1>
+      <FileSize>747520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>4s 550mAh mockup.ipt</FileName>
+      <SHA1>CB2E81701C7E891BF3472160CA4423A826458319</SHA1>
+      <FileSize>77312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>91259A102_Alloy Steel Shoulder Screw.ipt</FileName>
+      <SHA1>59802E1C5C66E3E7DBE904D368879A1F4BD57A42</SHA1>
+      <FileSize>549376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Assembly1.iam</FileName>
+      <SHA1>5CD1875C823A50A3553F9534072AAAB55A449961</SHA1>
+      <FileSize>908800</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FrontWheelPulleyAndHub.ipt</FileName>
+      <SHA1>8DE0F15058E2A4F8C53ACA412B575EC0B5DEE37C</SHA1>
+      <FileSize>293376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ft-bl-mega-spark.ipt</FileName>
+      <SHA1>75A2BED00D564E85A89876C25EB1D65A7E5DB357</SHA1>
+      <FileSize>503296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Parameters Excelxlsx.xlsx</FileName>
+      <SHA1>D5EBA760EF91BBFB71AAE76C33BDFADFD8C96521</SHA1>
+      <FileSize>11882</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SHA BaseChassis.ipt</FileName>
+      <SHA1>212C1EE6B40BC19AC35A34E629C89E529EA2470B</SHA1>
+      <FileSize>480768</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SHA Parameters-params.xml</FileName>
+      <SHA1>48BB52DF0014EAD0DB0C20119A96B95BBAEEBE30</SHA1>
+      <FileSize>2279</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SHA Parameters.ipt</FileName>
+      <SHA1>8EE0E4953FA9CC5015F90561D697ABD2EEA26BC8</SHA1>
+      <FileSize>68096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>WheelPulleyAndHub.ipt</FileName>
+      <SHA1>A5B50A0A480FBA8D87D3F7451793347A4B8ADD1D</SHA1>
+      <FileSize>294912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\35-36 outrunner.0003.ipt</FileName>
+      <SHA1>E090A77C2C3D1691A1ECA0E266A4E515EAAE5CA2</SHA1>
+      <FileSize>743936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\91259A102_Alloy Steel Shoulder Screw.0001.ipt</FileName>
+      <SHA1>3174DF29CBBD9EA09FA5B10DAC193FB61447B833</SHA1>
+      <FileSize>545280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\FrontWheelPulleyAndHub.0003.ipt</FileName>
+      <SHA1>0900C45D38CCE511EC9CBE812E988A46F8946EF5</SHA1>
+      <FileSize>293376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\SHA BaseChassis.0026.ipt</FileName>
+      <SHA1>4F2F59CA27199762DDAD72DCE988D0B08543A27E</SHA1>
+      <FileSize>488448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\SHA Parameters.0008.ipt</FileName>
+      <SHA1>D7DF23119A95B424E1C6E0960E587C7F9BECE4B2</SHA1>
+      <FileSize>68096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Weapon Bolt 94328A932_Black Oxide Alloy Steel Low-Profile Shoulder Screw.0001.ipt</FileName>
+      <SHA1>54E264BDD8FFB1E2F94F2805FA6289C4817F0B84</SHA1>
+      <FileSize>538112</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\WheelPulleyAndHub.0005.ipt</FileName>
+      <SHA1>5574D958F3C922F9ACC30A435E78000D0E6F0C35</SHA1>
+      <FileSize>294912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\57155K304_Stainless Steel Ball Bearing (1).STEP</FileName>
+      <SHA1>13003D8520F574931A26537066A26EA9B4CE7DA4</SHA1>
+      <FileSize>133340</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\90101A011_18-8 Stainless Steel Thin Nylon-Insert Locknut.ipt</FileName>
+      <SHA1>867CCBC887998317166EEC1E064F6B6514684512</SHA1>
+      <FileSize>245248</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\94328A932_Black Oxide Alloy Steel Low-Profile Shoulder Screw.STEP</FileName>
+      <SHA1>E7EA9FE4F97CE566A3B5142F7B914F545ED11BE5</SHA1>
+      <FileSize>1186351</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>57155K304_Stainless Steel Ball Bearing (1).ipt</FileName>
+      <SHA1>6EBC155645E594FB81020D81CACB7A480233657A</SHA1>
+      <FileSize>666112</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>9 22 22 progress.PNG</FileName>
+      <SHA1>C61AA24B42E0ACCADB390DE4AD2916CD8D826641</SHA1>
+      <FileSize>171029</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90101A011_18-8 Stainless Steel Thin Nylon-Insert Locknut.ipt</FileName>
+      <SHA1>20F2CD5979A61F92ED7D857F4A6F9EADA0F4DF96</SHA1>
+      <FileSize>245248</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon Bolt 94328A932_Black Oxide Alloy Steel Low-Profile Shoulder Screw.ipt</FileName>
+      <SHA1>32389A9143AAEAECAB24F2C783897FF95C0AA790</SHA1>
+      <FileSize>539648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>WeaponBlade.ipt</FileName>
+      <SHA1>231C35A678BDECC8094F3FC45264DE415305F011</SHA1>
+      <FileSize>85504</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Assembly1.0017.iam</FileName>
+      <SHA1>776DC7BD22FC8466AD3F355F217F70A6C458B13D</SHA1>
+      <FileSize>1150464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

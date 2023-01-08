@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-29T03:29:44.7815858+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OldVersions\StandoffSleeves.0002.ipt</FileName>
+      <SHA1>C581C5424C9B9A15E36269C19FFA03147B255F82</SHA1>
+      <FileSize>88576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Refs\91920A033_Female Threaded Hex Standoff.STEP</FileName>
+      <SHA1>36D4FB99E8735D372BD5AEA80E914379E010EB9C</SHA1>
+      <FileSize>2070387</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Refs\93265A483_Female Threaded Round Standoff.STEP</FileName>
+      <SHA1>F5DF373A74795093AD857818E24806DA320163D6</SHA1>
+      <FileSize>953151</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>35-36 outrunner.ipt</FileName>
+      <SHA1>03969A0229396367665E99B1EBBB616AAD4EAF59</SHA1>
+      <FileSize>727552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>4s 550mAh mockup.ipt</FileName>
+      <SHA1>CB2E81701C7E891BF3472160CA4423A826458319</SHA1>
+      <FileSize>77312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>91920A033_Female Threaded Hex Standoff.ipt</FileName>
+      <SHA1>55A43F5321B85B03EBA2BA85E1E1C687EC8BB682</SHA1>
+      <FileSize>573952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>93265A483_Female Threaded Round Standoff.ipt</FileName>
+      <SHA1>4FD5350EFCA220427FA4222FE4A3F88AF234ECDD</SHA1>
+      <FileSize>658944</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Katrina Assembly.iam</FileName>
+      <SHA1>E92608509F3F3DE4458C85F506BC08D4CD6C3497</SHA1>
+      <FileSize>1854976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Katrina Base.ipt</FileName>
+      <SHA1>D36CD12EBBB149D71FC2284F974B5006B9924ABA</SHA1>
+      <FileSize>390656</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Katrina Parameters Part.ipt</FileName>
+      <SHA1>7A332CD2B075692ADE3C623096B742564C4EA377</SHA1>
+      <FileSize>73216</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Katrina TPU Base.ipt</FileName>
+      <SHA1>F8797E7EB2E11E2A056980825E860BAD0D002393</SHA1>
+      <FileSize>627200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MotorMounts.ipt</FileName>
+      <SHA1>E694A11B1D2E101ACED0AFAE5AD4B162D0F8F9B0</SHA1>
+      <FileSize>157184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>StandoffSleeves.ipt</FileName>
+      <SHA1>1EA4447027A957AB7DD25CB25AF688161A5EBFF8</SHA1>
+      <FileSize>92672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>UHMWWallSymmetric.ipt</FileName>
+      <SHA1>060900C486668A507EF80A75DAFF3D87D6D62D26</SHA1>
+      <FileSize>179712</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\35-36 outrunner.0004.ipt</FileName>
+      <SHA1>0AD1345214FFD50310B8731265A2E122FE5B2BBC</SHA1>
+      <FileSize>727040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\MotorMounts.0005.ipt</FileName>
+      <SHA1>D38ED948A2FB98D9EADA5864E047AC9576935F8E</SHA1>
+      <FileSize>140288</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\RecieverMockup.0002.ipt</FileName>
+      <SHA1>9E9479595531030BBE72172B0A36878A52FB06D5</SHA1>
+      <FileSize>76800</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ESCMockup.ipt</FileName>
+      <SHA1>62146B93683521BCEA04F5CC3B086937DECABE08</SHA1>
+      <FileSize>79872</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MockupGyro.ipt</FileName>
+      <SHA1>4FA667DB506B92BD59E4E8EF1B34E83B78E1811B</SHA1>
+      <FileSize>101376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RecieverMockup.ipt</FileName>
+      <SHA1>85EB1BE6F0262582C91AA94791AB0D988759C65D</SHA1>
+      <FileSize>80384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\OldVersions\Arduino nano.0001.iam</FileName>
+      <SHA1>6C9C32D7A23A99C9B883E94519CCE14661967447</SHA1>
+      <FileSize>1005056</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\0805 Chip SMD LED (2x1.2mm).step.ipt</FileName>
+      <SHA1>F3726F2B7F7272C4235238E80990E6FF3472A50F</SHA1>
+      <FileSize>229376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\102 RESISTOR PACK.ipt</FileName>
+      <SHA1>4B64E24E4928C63F6CCE8837A11FBCCDC59ACB6E</SHA1>
+      <FileSize>271360</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\189 RESISTOR PACK.ipt</FileName>
+      <SHA1>99050FEF894DA29151DBF709D238C1628664EB17</SHA1>
+      <FileSize>312832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\1x15 Male Pin Header.ipt</FileName>
+      <SHA1>26205906E665978698325038E85CEC2D2958296B</SHA1>
+      <FileSize>441856</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\Arduino nano.iam</FileName>
+      <SHA1>DF61EF548077671EF5F5C21EFD6B991B77AB579E</SHA1>
+      <FileSize>1099776</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\Arduino nano.STEP</FileName>
+      <SHA1>60361E98F40C6557B1BFF7D075BDB93264B9D452</SHA1>
+      <FileSize>19699839</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\atmega328.ipt</FileName>
+      <SHA1>3EB5F16D7C61620F92A2B25B53C88E12A7D57854</SHA1>
+      <FileSize>1187328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\C5 FD10 Reg.ipt</FileName>
+      <SHA1>48EFD2AA2E42527284B1E9327B2B36C8BC3A55E1</SHA1>
+      <FileSize>199680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\Diode MBR0520.ipt</FileName>
+      <SHA1>8FB5BBE6C5E4F146FFAC05886C70F0ABAF4114C2</SHA1>
+      <FileSize>181248</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\FTDI FT232RL.ipt</FileName>
+      <SHA1>D53E4AE7382B0586A292EEA69C50DAB9C65C8BEE</SHA1>
+      <FileSize>588288</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\Mini B USB.ipt</FileName>
+      <SHA1>FB53DC516BE98A9402FA0E38117A03F723A21BF6</SHA1>
+      <FileSize>918016</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\nano board.ipt</FileName>
+      <SHA1>DE1208B5F541466D2FF0F272B744BC331C81E228</SHA1>
+      <FileSize>2853376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\PLD-2.step.ipt</FileName>
+      <SHA1>743522CA2F0D9EE049D7DDBAB0FD2F2D85AEE4DE</SHA1>
+      <FileSize>112640</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\Pushbutton3x4x2.ipt</FileName>
+      <SHA1>6346BEEB5711C3AF0908CFB0918F706F4E25C561</SHA1>
+      <FileSize>246272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\SMD Crystal 16MHz.ipt</FileName>
+      <SHA1>4660EF48B84642BE134ADE1C8F46D68BC34DDCB6</SHA1>
+      <FileSize>124416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\Tantalum Capacitor 475C A3216.ipt</FileName>
+      <SHA1>374EE1F94646A16FD84AC46CBF8089E511585747</SHA1>
+      <FileSize>294400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Arduino\User Library-C0805-2.step.ipt</FileName>
+      <SHA1>51732A73C831ADD30FD6B10CA69CBAB29179D9AD</SHA1>
+      <FileSize>116224</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Katrina Base.0026.ipt</FileName>
+      <SHA1>9284F30CA42FFB250EFFFF4427CD94EC3D7467CE</SHA1>
+      <FileSize>400896</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Katrina Parameters Part.0007.ipt</FileName>
+      <SHA1>3C2C61375C2EFCC3316DE4EBC18F0A4888BCECF3</SHA1>
+      <FileSize>72704</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Katrina Top Plate.0004.ipt</FileName>
+      <SHA1>A53AC6FFCD1E3DC13ED4BD7A48C3A358046B7930</SHA1>
+      <FileSize>294400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Katrina Top TPU Plate.0001.ipt</FileName>
+      <SHA1>E90BA6BD339FC424C4EF35C0FA9347506C80C74D</SHA1>
+      <FileSize>141312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Katrina TPU Base.0016.ipt</FileName>
+      <SHA1>5365F0F2990DA28DE5368D97C6AE55059B1C9390</SHA1>
+      <FileSize>629760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Mini_Power_Switch.0001.iam</FileName>
+      <SHA1>59FDDADA694ABB8F20CCC961313B7A4C1E35E932</SHA1>
+      <FileSize>348672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\MockupGyro.0004.ipt</FileName>
+      <SHA1>53D5E03F7770E10B9D7FFAD5B4A997F998DFFCD9</SHA1>
+      <FileSize>100864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\UHMWWallSymmetric.0013.ipt</FileName>
+      <SHA1>4F23605184640B1FBE6D135907642505C2DC92EC</SHA1>
+      <FileSize>179200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Refs\Mini_Power_Switch.IGS</FileName>
+      <SHA1>6E7082927380DCCC7CD20AF865F43093A6EFAE2F</SHA1>
+      <FileSize>2568322</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>copper tab.ipt</FileName>
+      <SHA1>7B350ED19A6123B0C102B9BEDC941EEA90A243A4</SHA1>
+      <FileSize>149504</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>copper tab_through hole.ipt</FileName>
+      <SHA1>CE15C27121E2E6E212A5396DE22D63A86C1BF9B1</SHA1>
+      <FileSize>151040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Katrina Top Plate.ipt</FileName>
+      <SHA1>6E104A6172357A2173F70279C6E23A9603FCEBBB</SHA1>
+      <FileSize>295936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Katrina Top TPU Plate.ipt</FileName>
+      <SHA1>E227B8D88B535DFB2739093666DD3D7E0F438644</SHA1>
+      <FileSize>216064</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Mini_Power_Switch.iam</FileName>
+      <SHA1>69F8A0B3CE53AB2E2FDCCF257A11F58584C82CB8</SHA1>
+      <FileSize>350720</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SHCS 4-40x375_HX-SHCS 0.112-40x0.375x0.375-S.ipt</FileName>
+      <SHA1>74A2FC7D3A1C27DF6FD40C80AFF16921C7CD4272</SHA1>
+      <FileSize>366592</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>switch half R1.1.ipt</FileName>
+      <SHA1>B88AE1F26274FDE8E766A18279F4303039A2B181</SHA1>
+      <FileSize>868864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>WeaponBlade.ipt</FileName>
+      <SHA1>80313763521582E7D6C796E07C89EED01762013B</SHA1>
+      <FileSize>243712</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Oldd Thicc Weapon_Ring.0001.ipt</FileName>
+      <SHA1>BD177598578A46DB3BAE8519C84FC5560F631190</SHA1>
+      <FileSize>256000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\TPUWeaponGap.0001.ipt</FileName>
+      <SHA1>F82490B46B71370CC5BFD0CE8E03BF474B34069E</SHA1>
+      <FileSize>258560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\WeaponBlade.0004.ipt</FileName>
+      <SHA1>57D8CDAB38BDFAF8F776720BCBF58B9EB379D066</SHA1>
+      <FileSize>238080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>10 6  22.PNG</FileName>
+      <SHA1>4E42D2021AABE2B8E84842383351609B103A41F6</SHA1>
+      <FileSize>224100</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Oldd Thicc Weapon_Ring.ipt</FileName>
+      <SHA1>3EB315707E1F0371C349C0C71AB569E5209DC5D8</SHA1>
+      <FileSize>258048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Thicc Weapon_Ring.ipt</FileName>
+      <SHA1>9DBB39758C413AE49267737E5F729545D9E30AB4</SHA1>
+      <FileSize>256512</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TPUWeaponGap.ipt</FileName>
+      <SHA1>96AF5701E89064D4570FF5DF4A6146B871776961</SHA1>
+      <FileSize>262656</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Katrina Assembly.0028.iam</FileName>
+      <SHA1>ABA83BCEE0B764621ADE2FD171D93122401EFC24</SHA1>
+      <FileSize>1906176</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Thicc Weapon_Ring.0009.ipt</FileName>
+      <SHA1>99CB9774A042B86024F21254E52BA0B45101DF39</SHA1>
+      <FileSize>280064</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
