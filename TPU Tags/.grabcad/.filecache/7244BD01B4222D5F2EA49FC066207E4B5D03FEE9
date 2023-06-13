@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1080 1080" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false"/>
+<vectornator:setting key="UndoHistoryDisabled" value="true"/>
+<vectornator:setting key="VNDimensionsVisible" value="true"/>
+<vectornator:setting key="VNSnapToGuides" value="true"/>
+<vectornator:setting key="WDCMYKEnabledKey" value="false"/>
+<vectornator:setting key="WDDisplayWhiteBackground" value="false"/>
+<vectornator:setting key="WDDynamicGuides" value="false"/>
+<vectornator:setting key="WDGuidesVisible" value="true"/>
+<vectornator:setting key="WDIsolateActiveLayer" value="false"/>
+<vectornator:setting key="WDOutlineMode" value="false"/>
+<vectornator:setting key="WDRulersVisible" value="true"/>
+<vectornator:setting key="WDSnapToEdges" value="false"/>
+<vectornator:setting key="WDSnapToGrid" value="false"/>
+<vectornator:setting key="WDSnapToPoints" value="false"/>
+<vectornator:setting key="WDUnits" value="Inches"/>
+</metadata>
+<defs/>
+<g id="Thiccer-left" vectornator:layerName="Thiccer left">
+<path d="M524.156 35.5625C524.156 35.5625 545.633 114.985 507.75 175.656C444.9 276.314 465.379 221.782 354.594 357.281C241.732 495.32 242.078 709.239 420.188 871.156C488.101 932.896 529 1007.34 529 1007.34C529 1007.34 650.634 974.594 738.5 830.812C812.678 709.43 793.759 607.037 735.594 506.625C673.946 400.2 717.156 226.531 717.156 226.531C717.156 226.531 665.627 250.002 629.406 320.312C602.032 373.45 589.111 464.45 608.5 528.156C640.768 634.181 670.487 678.726 665.656 710.125C662.767 728.905 619.676 649.4 597.938 599.281C576.199 549.163 567.983 523.445 568.969 452.406C569.955 381.367 605.188 294.031 605.188 294.031C605.188 294.031 478.095 400.308 452.469 480.438C417.592 589.495 529.5 727.156 529.5 727.156C529.5 727.156 512.424 530.333 528.688 578.219C544.951 626.105 575.809 743.326 541.562 760.969C525.739 769.12 407.117 671.836 417.875 517.844C427.871 374.773 548.55 328.887 600.438 252.719C656.368 170.616 524.156 35.5625 524.156 35.5625ZM493.562 523.281L490.625 609.312C490.625 609.312 481.176 585.953 476.656 563.406C469.125 525.836 493.563 523.281 493.562 523.281Z" fill="#532e8e" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
+</svg>

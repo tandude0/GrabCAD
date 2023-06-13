@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-05-13T17:07:11.7192668-04:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OldVersions\16 mm 91239A150_Button Head Hex Drive Screw.STEP</FileName>
+      <SHA1>505FA333EB4A6F1084FF80B562D53474C759027D</SHA1>
+      <FileSize>633057</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3932533+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\2207 5 fixed motor.0016.ipt</FileName>
+      <SHA1>A4BEC4A720674799F96D1473183B86D0ECE2BFDD</SHA1>
+      <FileSize>8706048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4042548+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\90237A110_High-Strength Steel Nylon-Insert Locknuts.STEP</FileName>
+      <SHA1>23DD16387FC4DF45CDB1C66952E06E81FF042140</SHA1>
+      <FileSize>331081</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4092555+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\91239A151_Button Head Hex Drive Screw.STEP</FileName>
+      <SHA1>C357AE5547B26FE78FAC5A4217D730394502893B</SHA1>
+      <FileSize>699962</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4142570+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\94361A593_Short-Thread Alloy Steel Shoulder Screw.STEP</FileName>
+      <SHA1>31494C163D00D3DAA0D8821894950901E5875028</SHA1>
+      <FileSize>732298</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4352563+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Assembly4.0006.iam</FileName>
+      <SHA1>D8997FCFF7A87513CC93F6E310690A39EE946118</SHA1>
+      <FileSize>980480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4402562+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Assembly5.0008.iam</FileName>
+      <SHA1>2F43361DC7DD02B7D0E1F0DB19327050296B3804</SHA1>
+      <FileSize>1854976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4452587+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\BatteryMockup.0001.ipt</FileName>
+      <SHA1>C46C15595004282EF41C2935BC75667610B0338C</SHA1>
+      <FileSize>90624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4512592+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\ChassisWheeled.0014.ipt</FileName>
+      <SHA1>0FE2F6EA4B0FD3F29205A4B6EC8A5E38A143402A</SHA1>
+      <FileSize>526336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4562605+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\CounterWeight.0007.ipt</FileName>
+      <SHA1>AD35B1C42687C114C9475F4BCA108EEA00C3E4CF</SHA1>
+      <FileSize>309760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4612614+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\CounterWeight.0010.ipt</FileName>
+      <SHA1>4F27573A147C90DD8B25052660E4E877EF9C2292</SHA1>
+      <FileSize>337408</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4662630+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\DerivedLid.0004.ipt</FileName>
+      <SHA1>ADF71DDEB578C3C7BC631064D0EA637A01E38CED</SHA1>
+      <FileSize>407552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4722655+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\DrumAssembly.0007.iam</FileName>
+      <SHA1>3805B700BE7A77DF4AED2C3697EAE2702711BA86</SHA1>
+      <FileSize>1655808</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4792657+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\DrumAssembly.0010.iam</FileName>
+      <SHA1>D5D7A5E01B2C50A980B319AA40FCAADB3D2EE172</SHA1>
+      <FileSize>684544</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4842670+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Repeat Drive Mini Mk2.0003.iam</FileName>
+      <SHA1>FF9909FF8AE907063B4C5996804612CE58D64062</SHA1>
+      <FileSize>494592</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4892688+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Tooth.0007.ipt</FileName>
+      <SHA1>CE579CA296D8EC56F4C52292A0311CDF7A52E0EA</SHA1>
+      <FileSize>373760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5122731+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Tooth.0010.ipt</FileName>
+      <SHA1>E9822B0B5BA60DE74507AD6D7F6E9873B173D24D</SHA1>
+      <FileSize>452608</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5182744+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\TPUEggBeater.0015.ipt</FileName>
+      <SHA1>28EC004A9B9EE5D5ED2D7E6D5B2FB4B7218CBEC7</SHA1>
+      <FileSize>630272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.4952695+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\TPUEggBeater.0020.ipt</FileName>
+      <SHA1>E695519E8F813F8A14D673FC7F334DE67573AF59</SHA1>
+      <FileSize>673280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5012713+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\TPUWeaponHub.0041.ipt</FileName>
+      <SHA1>57921C729B2DAE563C842AB18B5DF38504BE4338</SHA1>
+      <FileSize>486912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5062716+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\WedgeTPUPiece.0004.ipt</FileName>
+      <SHA1>F15CDB5F55619C9E7F752CC495A0ACF85C707D72</SHA1>
+      <FileSize>151040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5242760+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\WedgeTPUPiece_MIR.0002.ipt</FileName>
+      <SHA1>7BC22ED5C733DB0D6F2EBBDC9387AECCD785506B</SHA1>
+      <FileSize>115712</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5302788+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\OldVersions\Part1.0001.ipt</FileName>
+      <SHA1>EB6216F96951628E7FBC9E9C76AB5EE0F1252062</SHA1>
+      <FileSize>619520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5512821+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\35-36 outrunner.STEP</FileName>
+      <SHA1>6F59A16A22257FCCEDDE592996CF61189D4AEF6D</SHA1>
+      <FileSize>1282846</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5372801+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\3536.ipt</FileName>
+      <SHA1>DB01BB9EFECCE3387B1C1EF9918E7568600CC04B</SHA1>
+      <FileSize>988672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5442800+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\ft-bl-mega-spark.STEP</FileName>
+      <SHA1>834AD9BD36F6729E7B78D92914CE3A8BB17AFD89</SHA1>
+      <FileSize>965590</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5662858+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Ref\Part1.ipt</FileName>
+      <SHA1>2E3FCF8C29CBE90A63C30F46CF10D4637A46A844</SHA1>
+      <FileSize>620032</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5582836+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\4.7______.STEP.ipt</FileName>
+      <SHA1>23B29532EA8D12966B64516054E52365F2195FCD</SHA1>
+      <FileSize>323584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5812891+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\45T______15_M0.3X45.STEP.ipt</FileName>
+      <SHA1>8C6AA81CCC11EBAFB602904710CE2F19A6B15398</SHA1>
+      <FileSize>551936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5872910+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\AAAA.stp.ipt</FileName>
+      <SHA1>DA6FDB7B09B7838B1EEEFD17CF9D856E2517C76E</SHA1>
+      <FileSize>378368</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5932923+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\BVBB.stp.ipt</FileName>
+      <SHA1>840544297A53AB9C00883F303EE3FE53C3F51BC9</SHA1>
+      <FileSize>157696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6002930+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\CC.stp.ipt</FileName>
+      <SHA1>56D35DDED9076C287E09D690BDB01655B9B3EDE6</SHA1>
+      <FileSize>125952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6082948+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\GMP16T-22 6___ TT MOTOR20220629.STEP.iam</FileName>
+      <SHA1>B23DF1B889BA9DD7B17EB2C8EC5B231F0C0F80C5</SHA1>
+      <FileSize>362496</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6142977+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\r1104-02_asm.stp.iam</FileName>
+      <SHA1>7DF1E3352D306EDD2BBD36085D4B739AD710EF73</SHA1>
+      <FileSize>223232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6643071+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\Repeat Drive Mini Mk2.STEP</FileName>
+      <SHA1>CFCCABB597987CB59DC3E730525B9B5A069B23C4</SHA1>
+      <FileSize>4574741</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6232993+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\Z.stp.ipt</FileName>
+      <SHA1>D18E9DCFC237A42CF1F68524764F6038E88CC758</SHA1>
+      <FileSize>84992</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6292999+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\______-0.STEP.ipt</FileName>
+      <SHA1>EE9061275A9B4D9060A1AE5F1F2FD18A9235C920</SHA1>
+      <FileSize>97280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6353011+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\______.STEP.ipt</FileName>
+      <SHA1>C16FB87C482BAF7A26600C877DB8E2CFA5873ADD</SHA1>
+      <FileSize>414720</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6413027+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\________.STEP.ipt</FileName>
+      <SHA1>D8ECED2D37DADCC78D7C3755099EA0AABC7DED07</SHA1>
+      <FileSize>102400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6463043+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\__________0.3.STEP.ipt</FileName>
+      <SHA1>B57C177A7083EEFACEB6A185B1C4F173CAEB1DCB</SHA1>
+      <FileSize>107008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6513046+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RepeatBrushless\__________8.6.STEP.ipt</FileName>
+      <SHA1>595F1FAB8B05FC388C32FC606F03F920CCC0A97B</SHA1>
+      <FileSize>162304</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.6583064+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\OldVersions\16 mm 91239A150_Button Head Hex Drive Screw.0001.ipt</FileName>
+      <SHA1>F49C2160978E3D9E72C34DAC0601731C6F18487C</SHA1>
+      <FileSize>690176</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7843349+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\OldVersions\CounterWeight.0012.ipt</FileName>
+      <SHA1>9066551B2C57D6CFA8CB130638BB498E3A5D5F96</SHA1>
+      <FileSize>333824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7903362+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\OldVersions\DrumAssembly.0012.iam</FileName>
+      <SHA1>20EFAFFAD854378CC5E59C41D6CB0EC6E9A667A4</SHA1>
+      <FileSize>683008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7963401+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\OldVersions\Tooth.0012.ipt</FileName>
+      <SHA1>8A7D75FC9E35CF349477D20248AD1244FF9744E9</SHA1>
+      <FileSize>441856</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.8123414+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\OldVersions\TPUEggBeater.0022.ipt</FileName>
+      <SHA1>4F7C7642F6E294763B417AFE8F5EDE6B28AAF10D</SHA1>
+      <FileSize>672768</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.8053396+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\STLS\TestTPUBar.stl</FileName>
+      <SHA1>B8FF1BDC9CD031904C08CE5758C381BEF0B13110</SHA1>
+      <FileSize>216584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.8203421+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\STLS\TestTPUBarNoPocketing.stl</FileName>
+      <SHA1>929D62EDB41E1F0643D9EB9DE81043AE4D2947D7</SHA1>
+      <FileSize>150084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.8263452+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\16 mm 91239A150_Button Head Hex Drive Screw.ipt</FileName>
+      <SHA1>2BDC5FAE7A5785EDD10891DFF7A8EA7FDFF01231</SHA1>
+      <FileSize>690176</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7433250+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\2 15 23 Titanium teeth mockup 4inch diameter 3 inch length.PNG</FileName>
+      <SHA1>D46B7FB78427864AF1B98C8982E329F309A08BD0</SHA1>
+      <FileSize>301431</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7493265+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\2 15 23 Titanium teeth mockup 5 inch diameter 4 inch length.PNG</FileName>
+      <SHA1>85EC50FD505F7CE620310A5229132C0C624BE03D</SHA1>
+      <FileSize>217136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7553280+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\90237A110_High-Strength Steel Nylon-Insert Locknuts.ipt</FileName>
+      <SHA1>AB333B3C2C8D206376DB932559452B2745099DAF</SHA1>
+      <FileSize>398848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7603287+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\91239A151_Button Head Hex Drive Screw.ipt</FileName>
+      <SHA1>AFBAF160D64CA6229DC07D75ACA21D9C27D44780</SHA1>
+      <FileSize>782848</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7653300+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\CounterWeight.ipt</FileName>
+      <SHA1>D5589199CC62AB8B4034694751AE6C6F5AF6D97E</SHA1>
+      <FileSize>342528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7723317+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\DrumAssembly.iam</FileName>
+      <SHA1>E986E661BCD5B312AA939DC7CD3653A1942BDE24</SHA1>
+      <FileSize>360448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7773335+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\Tooth.ipt</FileName>
+      <SHA1>5BECF92186983C9E6E106477E74E91B71AB612D2</SHA1>
+      <FileSize>449024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.8383469+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Weapon\TPUEggBeater.ipt</FileName>
+      <SHA1>2F3E0C78FD58ECE8BA95C7C73A19C7066525E1FB</SHA1>
+      <FileSize>679936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.8323458+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>2 15 23 Wheeled.PNG</FileName>
+      <SHA1>8929C8DB34A4789736892BFD68C544A3556C0C05</SHA1>
+      <FileSize>203055</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.2343802+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>2 16 23 Wheeled.PNG</FileName>
+      <SHA1>0A740DCB00B8E71EFDB786179EAE7FD62FD82A56</SHA1>
+      <FileSize>142474</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.2483824+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>2 16 23 WLid Wheeled.PNG</FileName>
+      <SHA1>331106702B91A55DCF120F57C0F3B78454B56737</SHA1>
+      <FileSize>164798</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.2433812+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>2207 5 fixed motor.ipt</FileName>
+      <SHA1>F6FE2415362D486806F0C3FBCD1037EF2544E40E</SHA1>
+      <FileSize>8653312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3103973+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>57155K571_Flanged Ball Bearing.ipt</FileName>
+      <SHA1>7CF0FE0DFDAB07EED2AF23A15FD8FBBA0B799AA4</SHA1>
+      <FileSize>638976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3163988+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90417A126_Phillips Rounded Head Thread-Forming Screws.ipt</FileName>
+      <SHA1>3EABC62B8AC519D6D95518AD118EA56E26FD314B</SHA1>
+      <FileSize>693760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3224012+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>94361A593_Short-Thread Alloy Steel Shoulder Screw.ipt</FileName>
+      <SHA1>F5CCE599DA11A2F0C98240494A88C48124A410B1</SHA1>
+      <FileSize>342528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3274011+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Assembly5.iam</FileName>
+      <SHA1>11F1AE0516C7EDCDAA5BE3B19FBBC0B804C90553</SHA1>
+      <FileSize>1854976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3344028+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BatteryMockup.ipt</FileName>
+      <SHA1>DFAC6D844A14B9AA77F1B0CCE5ED11E457D64C6D</SHA1>
+      <FileSize>90624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3384033+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ChassisWheeled.ipt</FileName>
+      <SHA1>44B96182D90BEDADE6A05DC19569BF70ECE88B05</SHA1>
+      <FileSize>484864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3434046+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CorrectSizeWheelsIThink.ipt</FileName>
+      <SHA1>51AE0A3E971E47921F564BF0E879EF4E23599E2E</SHA1>
+      <FileSize>260096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3477531+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DerivedLid.ipt</FileName>
+      <SHA1>58F655A41BFD3AB99BE5A53C69B46E2A6D969FE0</SHA1>
+      <FileSize>434176</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3527565+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FingerTech_Silver_Spark_223350.ipt</FileName>
+      <SHA1>47224E156F971CDBFAF9FA4C565C92D6119B6234</SHA1>
+      <FileSize>311296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.3689274+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Repeat Drive Mini Mk2.iam</FileName>
+      <SHA1>9867DABE2270AF014ED95EDB245D547EC6272676</SHA1>
+      <FileSize>515584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.5732866+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TPUWeaponHub.ipt</FileName>
+      <SHA1>67CA787FF32D84CFEFEE3EF783C8BF438764147C</SHA1>
+      <FileSize>494080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.7263211+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>WedgeTPUPiece.ipt</FileName>
+      <SHA1>99132615447490E8247C7226CAB227C1363DB09A</SHA1>
+      <FileSize>151552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.8433478+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>WedgeTPUPiece_MIR.ipt</FileName>
+      <SHA1>BA95E718AC2B6DFEEDD02C808F2FE155BA27D3B6</SHA1>
+      <FileSize>111104</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-05-13T21:07:09.8493506+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

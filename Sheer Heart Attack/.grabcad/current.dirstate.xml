@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <UpdateTime>2023-01-05T15:42:40.1435921-05:00</UpdateTime>
+  <UpdateTime>2023-05-13T16:56:50.5134610-04:00</UpdateTime>
   <Standins>
     <GCSCMStandin>
       <FileName>Assembly1\Design Accelerator\OldVersions\Spur Gear11.0002.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>6F933F6AB992B8FB92897D07A426946F97FBDFF6</SHA1>
       <FileSize>220672</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-08T02:36:27.3120000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Assembly1\Design Accelerator\OldVersions\Spur Gear21.0002.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>62D655E80E1E2ACB11929FE65006E74CCB458CF1</SHA1>
       <FileSize>310784</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-08T02:36:26.9880000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Assembly1\Design Accelerator\OldVersions\Spur Gears1.0001.iam</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>A74111B344C6B4489B5BFE6E26257B34D872CDD2</SHA1>
       <FileSize>166912</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-08T02:30:06.9374315+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Assembly1\Design Accelerator\Spur Gear11.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>9BB88AFABE524C89E4FDFB4280989EDAD5F5E848</SHA1>
       <FileSize>218112</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-08T02:40:32.5890000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Assembly1\Design Accelerator\Spur Gear21.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>1251FFFF0BAE76974A553788CDD0AA003E593B32</SHA1>
       <FileSize>311808</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-08T02:44:20.4280000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Assembly1\Design Accelerator\Spur Gears1.iam</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>CD570E86F63A2E792EB301A445D7318CAC7F8C60</SHA1>
       <FileSize>152576</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-08T02:36:27.9020000+00:00</LastUpdated>
@@ -73,43 +73,43 @@
       <LastUpdated>2022-09-20T02:42:48.8720783+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\Assembly1.0029.iam</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>1556480</FileSize>
+      <FileName>OldVersions\Assembly1.0030.iam</FileName>
+      <SHA1>1FEA86FE6CFC1CB8AB8A07FA543D1BAA90F66464</SHA1>
+      <FileSize>2409472</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-13T18:28:49.3620000+00:00</LastUpdated>
+      <LastUpdated>2022-10-13T18:32:27.0930000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\BackWheelPulleyAndHub.0002.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>4B34292F326CE745D1FD51969A64B2508BB7CA9F</SHA1>
       <FileSize>390144</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:29:33.4050000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\DerivedWeaponBiggerGear.0005.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>DD4705C08F9436CD37701ADABEE6C62D327A5996</SHA1>
       <FileSize>1743872</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-11T22:54:36.2040000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\DerivedWeaponSmallerGear.0005.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>0CC8893E7AFAA45DDBE28C74DC059B10E3C98A58</SHA1>
       <FileSize>986624</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-10T22:28:14.2610000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\DiskWeapon.0002.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>174592</FileSize>
+      <FileName>OldVersions\DiskWeapon.0006.ipt</FileName>
+      <SHA1>C32FCFAD9092E3E1744F1DE69EFF1124EC7628CA</SHA1>
+      <FileSize>242176</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-13T17:52:34.8970000+00:00</LastUpdated>
+      <LastUpdated>2023-01-16T02:00:36.7510000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\FrontWheelPulleyAndHub.0007.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>AD32B5408ED6486BA5C7F1D889290C7F37EF1383</SHA1>
       <FileSize>395264</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:39:01.5580000+00:00</LastUpdated>
@@ -122,18 +122,18 @@
       <LastUpdated>2022-09-19T23:58:14.7060000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\SHA BaseChassis.0032.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>481280</FileSize>
+      <FileName>OldVersions\SHA BaseChassis.0033.ipt</FileName>
+      <SHA1>0C8402EB6DF8929E514C6D0F0ADD913666DD32E3</SHA1>
+      <FileSize>480256</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-07T17:09:51.3370000+00:00</LastUpdated>
+      <LastUpdated>2022-10-11T22:48:01.7200000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\SHA Parameters.0009.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <FileName>OldVersions\SHA Parameters.0011.ipt</FileName>
+      <SHA1>DE4CBDC7D0B4868B48BE0B3F998B5BA5F17C8C6F</SHA1>
       <FileSize>68096</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-09-22T22:04:58.6210000+00:00</LastUpdated>
+      <LastUpdated>2023-01-16T01:43:16.3480000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\Weapon Bolt 94328A932_Black Oxide Alloy Steel Low-Profile Shoulder Screw.0001.ipt</FileName>
@@ -144,35 +144,35 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\WeaponBlade.0006.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>5A7962CEE55C642C71EF2B014B8D931D2682436F</SHA1>
       <FileSize>168960</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-12T01:21:51.8590000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\WheelCap.0007.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>7D295B860850350D0C0DFADA16528C542BE77C27</SHA1>
       <FileSize>205312</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:57:20.4200000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\WheelMockup.0002.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>FCFA9A7C9D7E0BE4075694A53033FD864033BD93</SHA1>
       <FileSize>88064</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:25:51.1940000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\WheelPulleyAndHub.0006.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>A5B50A0A480FBA8D87D3F7451793347A4B8ADD1D</SHA1>
       <FileSize>294912</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-09-23T02:52:36.9160000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Ref\OldVersions\Drive Bearing 57155K303_Stainless Steel Ball Bearing.0001.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>E026C2B3460D212ABFD498286B1A22CFDEF312A8</SHA1>
       <FileSize>971264</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:46:41.8179668+00:00</LastUpdated>
@@ -242,7 +242,7 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Ref\91390A099_Alloy Steel Cup-Point Set Screw.STEP</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>E9B789BDEEA3CAF11BBEE554A4D8939D74BE8F25</SHA1>
       <FileSize>327143</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-10T22:13:32.1324802+00:00</LastUpdated>
@@ -256,42 +256,42 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Ref\97259A101_Low-Strength Steel Thin Square Nut.STEP</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>8FD3D97094F720C52CAD4A25F061274F93BD5C11</SHA1>
       <FileSize>160745</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-10T21:57:54.4340395+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Ref\Drive Bearing 57155K303_Stainless Steel Ball Bearing.STEP</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>F3120C389C6FEB5FC0EE63B966E28443E032DDEF</SHA1>
       <FileSize>169189</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:45:53.0583782+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>10 11 22 progress.PNG</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>41832B9C6DB2B44D5274C30674F03D1B5263E70F</SHA1>
       <FileSize>162336</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-12T01:34:44.7609736+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>10 13 22 disk.PNG</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>FDE641EFC832BCB5512F2829550DC3B55C50085B</SHA1>
       <FileSize>185408</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-13T18:30:18.6385818+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>10 7 22 drive progress.PNG</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>8DD97C2507F178D02014712011CA67A6EA686470</SHA1>
       <FileSize>201279</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T17:01:53.5251881+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>10 7 22 progress.PNG</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>E9D4A28538479BF4B472FC346825A9EE832B9DF4</SHA1>
       <FileSize>132742</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T17:02:41.6316855+00:00</LastUpdated>
@@ -340,7 +340,7 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>90417A126_Phillips Rounded Head Thread-Forming Screws.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>3EABC62B8AC519D6D95518AD118EA56E26FD314B</SHA1>
       <FileSize>693760</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:03:27.3107892+00:00</LastUpdated>
@@ -354,63 +354,63 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>91390A099_Alloy Steel Cup-Point Set Screw.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>9F27BFE2C5C34C7D9E6696913550D9AB7345CE07</SHA1>
       <FileSize>387072</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-10T22:15:19.5004200+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>97259A101_Low-Strength Steel Thin Square Nut.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>4A252B5C51B24ED7B2EEA83E0511D188196C9755</SHA1>
       <FileSize>241152</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-10T22:15:43.9172274+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Assembly1.iam</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>2409472</FileSize>
+      <SHA1>6FEB1AA5D52CB822BA0A15C3E941A8B6C3B4C46B</SHA1>
+      <FileSize>2008064</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-13T18:32:27.0930000+00:00</LastUpdated>
+      <LastUpdated>2023-01-16T02:32:12.3420000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>BackWheelPulleyAndHub.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>6E12F8FBB26872B76C920925AED7AE8C4E0339FC</SHA1>
       <FileSize>397312</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:55:28.8910000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>DerivedWeaponBiggerGear.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>544FFDCADF5C41BA2791C987B31EE8A9BDD69A0E</SHA1>
       <FileSize>1744384</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-11T22:56:34.4220000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>DerivedWeaponSmallerGear.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>8213C6522197F89D4FB4EB4C67CF7F498BA0E728</SHA1>
       <FileSize>1008128</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-11T21:02:14.4610000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>DiskWeapon.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>253952</FileSize>
+      <SHA1>6DD38536520AF939CCC0214AD39F664CA65A7F95</SHA1>
+      <FileSize>242688</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-13T18:28:29.8040000+00:00</LastUpdated>
+      <LastUpdated>2023-01-16T02:01:37.8260000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Drive Bearing 57155K303_Stainless Steel Ball Bearing.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>FCA0732EF19F626CBD8CF83F506AB5BEDAC445B4</SHA1>
       <FileSize>971776</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:48:14.9090000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>FrontWheelPulleyAndHub.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>C79C74E00C6AA92F3BDEF4FBAAA8A7D508CB90B6</SHA1>
       <FileSize>397824</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:53:40.1430000+00:00</LastUpdated>
@@ -424,17 +424,17 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>SHA BaseChassis.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>480256</FileSize>
+      <SHA1>3F94A27FB0F7D36BCE23200E42F888793257180C</SHA1>
+      <FileSize>485888</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-11T22:48:01.7200000+00:00</LastUpdated>
+      <LastUpdated>2023-01-16T02:32:02.7660000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>SHA Parameters.ipt</FileName>
-      <SHA1>BE2F94F087F1DD5F38C8FAFFCD1C916CD3588684</SHA1>
+      <SHA1>F86572C0E4250D71FAA9A956CC07515317099BAB</SHA1>
       <FileSize>68096</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-10-07T17:09:50.9690000+00:00</LastUpdated>
+      <LastUpdated>2023-01-16T02:01:37.6730000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Weapon Bolt 94328A932_Black Oxide Alloy Steel Low-Profile Shoulder Screw.ipt</FileName>
@@ -445,28 +445,28 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>WeaponBlade.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>BB81293FCF7276719B8495FB3173715AB71DC8FC</SHA1>
       <FileSize>219136</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-12T01:33:48.8760000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>WheelCap.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>1286EC008810E2FC2DCAD5D201C6E0B8CBDFAB3A</SHA1>
       <FileSize>204800</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T17:04:24.6460000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>WheelMockup.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>6CCA5BAC4046862580909639F11A49C73D2C9A7C</SHA1>
       <FileSize>88576</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:26:15.1900000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>WheelPulleyAndHub.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>6D905379D8EC2530C69310D2A26896DE12E24230</SHA1>
       <FileSize>308736</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-10-07T16:28:58.9880000+00:00</LastUpdated>

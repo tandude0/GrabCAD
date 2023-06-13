@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-05-13T16:56:54.9904707-04:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>OldVersions\Tag.0005.ipt</FileName>
+      <SHA1>6763672B525B043BA8E1C58C6563AF6C11D2497D</SHA1>
+      <FileSize>3352576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T21:29:49.3190000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back alt.PNG</FileName>
+      <SHA1>A3B48F8AFAE8686B70F1D6E02A1DCA0F09E640AD</SHA1>
+      <FileSize>19180</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T19:26:18.4404710+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Back.PNG</FileName>
+      <SHA1>0C7CC7268B7BAD53F2D075787B19A18715F5CEE5</SHA1>
+      <FileSize>21351</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T19:22:01.3993843+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>front fix alt.PNG</FileName>
+      <SHA1>FF59963B3BAD23A5A0350127EDE4AB0B32844220</SHA1>
+      <FileSize>21056</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T21:30:10.0491216+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FrontTag alt.PNG</FileName>
+      <SHA1>466A81509A90EC6FDAB8116B765118B732C3F8CB</SHA1>
+      <FileSize>21199</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T19:26:36.9098128+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FrontTag.PNG</FileName>
+      <SHA1>70D697BFCD8479894A3952F30E6EE13129573928</SHA1>
+      <FileSize>31903</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T19:21:45.7621725+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PF - PhoenixFlame.dxf</FileName>
+      <SHA1>9517B7653B30A76E3969FC7DD231200588C1039E</SHA1>
+      <FileSize>20539</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T16:40:36.3666875+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>PF - PhoenixFlame.svg</FileName>
+      <SHA1>7244BD01B4222D5F2EA49FC066207E4B5D03FEE9</SHA1>
+      <FileSize>2684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T16:37:34.3934730+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Tag.ipt</FileName>
+      <SHA1>834559996BBB776DC03E1E4BAE56B67B1DB63F0B</SHA1>
+      <FileSize>3300864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T21:38:12.8290000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TagBase.stl</FileName>
+      <SHA1>54DB423B3067EDAC7F52481BC58459A5F9FD4F36</SHA1>
+      <FileSize>626484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T17:55:13.3151039+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TagBaseFix.stl</FileName>
+      <SHA1>E923D94128BF9633D75B81F4D1BB3E1F2640642F</SHA1>
+      <FileSize>626484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T21:35:11.4846960+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Text.stl</FileName>
+      <SHA1>A6921B27F7D4D0A2B20ED25EAF68AD90E9C401D1</SHA1>
+      <FileSize>613484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T17:58:51.7172958+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Textfix.stl</FileName>
+      <SHA1>4980C5C15F47B7AEC133539E7838DD28D985BF08</SHA1>
+      <FileSize>613484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-27T21:36:15.1477864+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

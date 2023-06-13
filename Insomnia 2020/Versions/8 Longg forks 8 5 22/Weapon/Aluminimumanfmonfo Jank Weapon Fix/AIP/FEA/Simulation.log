@@ -1,0 +1,11 @@
+﻿Study 6061 started: 2/6/2023, 1:45:55 PM
+Number of configurations: 1
+Default mesh: 141174 elements, 250960 nodes
+Mesh at contact 24 is too coarse
+Mesh at contact 195 is too coarse
+Solution time 18.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 2/6/2023, 1:52:15 PM
+Total time 0:06:20
+

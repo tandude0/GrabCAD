@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <UpdateTime>2023-01-05T20:50:17.4422974+00:00</UpdateTime>
+  <UpdateTime>2023-04-25T22:02:41.8542090+00:00</UpdateTime>
   <Standins>
     <GCSCMStandin>
       <FileName>OldVersions\BatteryMockup.0001.ipt</FileName>
@@ -18,8 +18,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Chassis.ipt</FileName>
-      <SHA1>3F790AD324F1465B127BA585E15FBFBEFD0B51C8</SHA1>
-      <FileSize>738304</FileSize>
+      <SHA1>D5E50FC110C26157FD87B243407E1F81B7706BF4</SHA1>
+      <FileSize>754688</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -32,8 +32,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Leviathan Assembly.iam</FileName>
-      <SHA1>BCE7287F74AE03D5BB7DAB85FE4EF51749FA803F</SHA1>
-      <FileSize>3059200</FileSize>
+      <SHA1>8A26516DCB65CC6361BF6B09D508E242487D7D60</SHA1>
+      <FileSize>2714112</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -46,8 +46,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>MiddlePart.ipt</FileName>
-      <SHA1>DAD69295051939D7C8C9067C4EECCFC9AD910F90</SHA1>
-      <FileSize>225792</FileSize>
+      <SHA1>DE72121788E06A9C9D89488C148F30D49ED51784</SHA1>
+      <FileSize>212992</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -95,22 +95,22 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Chassis_MIR.ipt</FileName>
-      <SHA1>B01092E28124B042A852FA684094C3926221DDD6</SHA1>
-      <FileSize>550400</FileSize>
+      <SHA1>50B4A6EF97C9DF14F8CED7FB2A2C1BF5DCA0072A</SHA1>
+      <FileSize>553984</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>CustomTiming Belt Wheel.ipt</FileName>
-      <SHA1>64F63D033AF50D82CA8C1396DA1D5BCFCC2D7FF6</SHA1>
-      <FileSize>2421760</FileSize>
+      <SHA1>29DFC9E72D46AACEB9785EC3C26D32CB8011A576</SHA1>
+      <FileSize>2461696</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>CustomTiming Pulley.ipt</FileName>
-      <SHA1>CD7925C77182336A9609E3F23BB708FEDE0F0102</SHA1>
-      <FileSize>338432</FileSize>
+      <SHA1>29962463976EC2857C11D9ADD2E7D4FA16892BDC</SHA1>
+      <FileSize>228352</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -130,8 +130,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>DriveTrainRoller.ipt</FileName>
-      <SHA1>FBBC589938FB1866E599A25AD1709F64EDF9E0B1</SHA1>
-      <FileSize>98816</FileSize>
+      <SHA1>7B14541C495B2FD1EEEC8A2A2CB6E6072D490D13</SHA1>
+      <FileSize>97792</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -144,8 +144,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>DriveTrainTopStandoff.ipt</FileName>
-      <SHA1>35C0F6F6375BCC3502324EFBCACC81139F9C981C</SHA1>
-      <FileSize>253952</FileSize>
+      <SHA1>B1EEDA2E7C25E337647A0997D54739F4D5DAC3BF</SHA1>
+      <FileSize>270336</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -213,27 +213,6 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>STLs\CustomTiming Belt Wheel.stl</FileName>
-      <SHA1>2ACC8B64D8B3C4B1639B7827BD29FCF4271724A1</SHA1>
-      <FileSize>18240084</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\CustomTiming Pulley.stl</FileName>
-      <SHA1>E4C0C297F45A79702F97DE87AC0DA6F6AD010F55</SHA1>
-      <FileSize>1715184</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\KeepUp.stl</FileName>
-      <SHA1>8C10E6FAD931B6F6EB300585468A3E99C7B0FF91</SHA1>
-      <FileSize>445784</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>6 19 22 very small uprights.PNG</FileName>
       <SHA1>C5CB6F99C68DD3DB9D7A7DE4FB0A5CB3A4391603</SHA1>
       <FileSize>172832</FileSize>
@@ -283,13 +262,6 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>Leviathan Assembly\Design Accelerator\OldVersions\Spur Gear22.0003.ipt</FileName>
-      <SHA1>C99E99CDD3CD2E20B966A965AE1A22857C4243CC</SHA1>
-      <FileSize>282112</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>Leviathan Assembly\Design Accelerator\OldVersions\Spur Gears2.0002.iam</FileName>
       <SHA1>0A671CC0C80BA4E5003EADFB47EE7BA3109AF8EE</SHA1>
       <FileSize>147456</FileSize>
@@ -305,8 +277,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Leviathan Assembly\Design Accelerator\Spur Gear22.ipt</FileName>
-      <SHA1>FF530C1CDE3E90779BD262EDEB92B37C8B859D85</SHA1>
-      <FileSize>293376</FileSize>
+      <SHA1>3BF25A36AE781BE0D7ACDD5BCD60000F00FA400A</SHA1>
+      <FileSize>292864</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -333,15 +305,15 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Derived WeaponBiggerGear.ipt</FileName>
-      <SHA1>C60047706571A3820D3ACAACE6091FE3B9745F57</SHA1>
-      <FileSize>1304064</FileSize>
+      <SHA1>A2F28C695C4CF4E86318512CE16C5378CCE71BD4</SHA1>
+      <FileSize>1318912</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Derived WeaponSmallerGear.ipt</FileName>
-      <SHA1>F56D9B3DED216C4FB17D27FD012585671A91ECBD</SHA1>
-      <FileSize>495104</FileSize>
+      <SHA1>B0212236056E7B36FC65FAF87121B14ADFD1CBD1</SHA1>
+      <FileSize>503296</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -361,8 +333,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Derived WeaponBiggerGear_MIR.ipt</FileName>
-      <SHA1>F913C86403841493AA35FDF1839A2807A56EE06F</SHA1>
-      <FileSize>1399296</FileSize>
+      <SHA1>A1264FA251F827B72592514F993C49C8E39AAED9</SHA1>
+      <FileSize>1412096</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -384,27 +356,6 @@
       <FileName>KeyingCloseup.PNG</FileName>
       <SHA1>DC332185E3C8DE1313DADB42183418D02CC197CD</SHA1>
       <FileSize>211860</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\PLA KeepUps set.gcode</FileName>
-      <SHA1>CCD3A9A47417E0452A30365742FF40F0EA8D8F29</SHA1>
-      <FileSize>1523348</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\PLA Proto Lev Half Chassis and stuff 7 13 22.gcode</FileName>
-      <SHA1>3BBE1485F3E0C19F12A31414C56B3A4BCAD281C1</SHA1>
-      <FileSize>10783995</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\TPU 7 15 22 Wheel n Pulley.gcode</FileName>
-      <SHA1>12A4ECA5579AE22230FED9C012E69FFCAF24CAB9</SHA1>
-      <FileSize>26773510</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -437,13 +388,6 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>STLs\Multi NutTool.stl</FileName>
-      <SHA1>A7C493750C385C906965C8A1E748F5B9105ED48A</SHA1>
-      <FileSize>117384</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>7 24 22 New DrivePods.PNG</FileName>
       <SHA1>DD2DC8838567F26E85212D8E4DD0393E1542A25D</SHA1>
       <FileSize>166923</FileSize>
@@ -452,8 +396,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Derived Drivepod Plate.ipt</FileName>
-      <SHA1>EF2FAA3C1E34B0FB120B068B9083441B06C2ADDE</SHA1>
-      <FileSize>640000</FileSize>
+      <SHA1>6EDF2E73E71518EE6D44FF54ECCD96A53EB9462A</SHA1>
+      <FileSize>542720</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -466,8 +410,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>DrivePod subassembly.iam</FileName>
-      <SHA1>27020C31A4B4A7F84EBC64EB4CE53F8E87A8ADE3</SHA1>
-      <FileSize>683520</FileSize>
+      <SHA1>23D70D318665761AA95C69F9C6D0E26D9156ECE0</SHA1>
+      <FileSize>767488</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -521,51 +465,9 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>STLs\Chassis 7 24 22.stl</FileName>
-      <SHA1>BA938A56DDEA374B7534F89A963947B0F46D97D6</SHA1>
-      <FileSize>866984</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\Derived Drivepod Plate 7 24 22.stl</FileName>
-      <SHA1>32370703CCEA3B13C9DB121410F8AFB64B3A6B8C</SHA1>
-      <FileSize>1145584</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\DriveTrainRoller 7 24 22.stl</FileName>
-      <SHA1>36BEE95E90BD9C17E7B6F86E3044E4F91298B5B2</SHA1>
-      <FileSize>132684</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\DriveTrainStandoffs 7 24 22.stl</FileName>
-      <SHA1>69335E785FB6A318FB5E197EF5B77794BA12FCE2</SHA1>
-      <FileSize>238884</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\DriveTrainTopStandoff 7 24 22.stl</FileName>
-      <SHA1>C632E471B7910198279D484C6FA09D1B3DDD1D5B</SHA1>
-      <FileSize>869284</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>Small Drive Bearing 57155K571_Flanged Ball Bearing.ipt</FileName>
       <SHA1>E480C74F0A365D383AC2D76418C2BBBED85D3EB4</SHA1>
       <FileSize>638976</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>STLs\7 25 22 Double NutTool.stl</FileName>
-      <SHA1>B6A852DD784104B7D6B5CE6EA2E6304851F2D685</SHA1>
-      <FileSize>126684</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -577,13 +479,6 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>STLs\NEW 7 25 22 Double NutTool.stl</FileName>
-      <SHA1>2CE95F29FFC75647657F31B620AC44EAE0BC7FB6</SHA1>
-      <FileSize>98484</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>OldVersions\2207 5 fixed motor.0009.ipt</FileName>
       <SHA1>1F294439502355EAA87468D4D1851F094D310382</SHA1>
       <FileSize>9108992</FileSize>
@@ -591,23 +486,9 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\DriveTrainRoller.0011.ipt</FileName>
-      <SHA1>A1D369FEE6D8D562F97069B204E8130CBC545E29</SHA1>
-      <FileSize>98816</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>OldVersions\EMax RS2205 v1.0003.ipt</FileName>
       <SHA1>26FB96FBD33E5ADF3E607EB8AD7705835C206C7D</SHA1>
       <FileSize>280064</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\Vex 3 8th nylon roller spacer.0003.ipt</FileName>
-      <SHA1>E2BCDF93132FD17CF110616EE53449BD36689D60</SHA1>
-      <FileSize>86528</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -627,8 +508,8 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>Vex 3 8th nylon roller spacer.ipt</FileName>
-      <SHA1>0F4D53572A593427A4A063C40ADA442B78E15EA8</SHA1>
-      <FileSize>90624</FileSize>
+      <SHA1>A686120B987B2ECB0EBDC6CA5E8207042813D919</SHA1>
+      <FileSize>99328</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -647,65 +528,9 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\CustomTiming Belt Wheel.0014.ipt</FileName>
-      <SHA1>4EF26445126F0104A337E5B666BFD61FF1C2FC12</SHA1>
-      <FileSize>2411008</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\CustomTiming Pulley.0014.ipt</FileName>
-      <SHA1>7A7E2C3943FD5D2B2E50C893B9C3EBCD6F0FC473</SHA1>
-      <FileSize>337408</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>OldVersions\Parameters Part.0005.ipt</FileName>
       <SHA1>18B88042E78CC20233B3EB7E8D2BBCDD1A50BA66</SHA1>
       <FileSize>89088</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\Chassis.0039.ipt</FileName>
-      <SHA1>DC569BBB20C6A8F4CE273752EA4001CFB841105A</SHA1>
-      <FileSize>698368</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\Chassis_MIR.0015.ipt</FileName>
-      <SHA1>8610A922E4419E563FB608753E84C94536BAE2EC</SHA1>
-      <FileSize>526336</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\Derived Drivepod Plate.0016.ipt</FileName>
-      <SHA1>B3948D874ABD6C9324D7456DD51EEC1BD3D14ACE</SHA1>
-      <FileSize>610816</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\Derived WeaponBiggerGear.0017.ipt</FileName>
-      <SHA1>5D6B61E457D6D3F93CBC482195D86BDE186CAA44</SHA1>
-      <FileSize>1304576</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\Derived WeaponBiggerGear_MIR.0003.ipt</FileName>
-      <SHA1>FC24AC07017A3DFA2A1DB67334A2133771911264</SHA1>
-      <FileSize>1402880</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\DerivedTopLid.0002.ipt</FileName>
-      <SHA1>18A75A882E975214546A78564B5D453C74ECD1C0</SHA1>
-      <FileSize>127488</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -724,13 +549,6 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\MiddlePart.0015.ipt</FileName>
-      <SHA1>D18D8025692E917B61F8BFDE4D78595DED676B31</SHA1>
-      <FileSize>224256</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>OldVersions\smaller 6384K367_Ball Bearing.0001.ipt</FileName>
       <SHA1>BDE9395977957CF67FFB3DB67FA5F1FAFECBC0DA</SHA1>
       <FileSize>702976</FileSize>
@@ -738,37 +556,23 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\WeaponSpacer.0002.ipt</FileName>
-      <SHA1>F34079F5BBE5BCA6463B11E96CED2B4C8E14143C</SHA1>
-      <FileSize>88064</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>5905K605_Needle-Roller Bearing.ipt</FileName>
-      <SHA1>2C68FB51045E569954D56008689C07BEDCFEEF17</SHA1>
+      <SHA1>275117647E6E0B4EDC2BD43E20480BE89F97FA65</SHA1>
       <FileSize>271360</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>DerivedTopLid.ipt</FileName>
-      <SHA1>51648017C963C24F7D096BCFFFB1427AF257F130</SHA1>
-      <FileSize>133632</FileSize>
+      <SHA1>DDD8749840DD047CAEA2C2AA3AFD1C4740A9509F</SHA1>
+      <FileSize>151040</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>WeaponSpacer.ipt</FileName>
-      <SHA1>1DCD8AFB0416BEBEA8703316D60BE44565A7C3F0</SHA1>
+      <SHA1>BE1CCAAE79000EE30FA02D0DA3FA5F8879516BA9</SHA1>
       <FileSize>111104</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\DriveTrainTopStandoff.0029.ipt</FileName>
-      <SHA1>B9E73602BD34C5722218DCCE394CFD5DC6401E49</SHA1>
-      <FileSize>245760</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
@@ -857,27 +661,6 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\Derived WeaponSmallerGear.0006.ipt</FileName>
-      <SHA1>04E46B6423CED19DB2E1496B612B2EBB49F36E52</SHA1>
-      <FileSize>491520</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\DrivePod subassembly.0020.iam</FileName>
-      <SHA1>2F9AC215A376B5F7A1655139D5AF514E02740A67</SHA1>
-      <FileSize>850944</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>OldVersions\Leviathan Assembly.0068.iam</FileName>
-      <SHA1>46A77654DD07E3C4B51968325864D2EB650B9840</SHA1>
-      <FileSize>3058176</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>OldVersions\REV-41-1125.0001.ipt</FileName>
       <SHA1>1E4CD5C3100739ADEDC7C556406BD698DDA8E317</SHA1>
       <FileSize>113152</FileSize>
@@ -899,16 +682,366 @@
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>STLs\Bearing Roller.stl</FileName>
+      <FileName>STLs\11 26 22 prototype tpu\Drive stuff\PI3MK3M_Bearing Roller.gcode</FileName>
+      <SHA1>6F67789AC5C5787B43340ABFF62D4B9058AC45BF</SHA1>
+      <FileSize>2181841</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\DerivedTopLid.0004.ipt</FileName>
+      <SHA1>FC92D56C20655F7CFEB8D34EA4D980E5C35BE746</SHA1>
+      <FileSize>145408</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 14 23 New bearings proto\BearingStandoff.stl</FileName>
+      <SHA1>FCF0839D5C2FCD763908C9C6441F5F2105F2C822</SHA1>
+      <FileSize>160684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 14 23 New bearings proto\Derived Drivepod Plate.stl</FileName>
+      <SHA1>94EBF1B0945D6C576AA42BA5AB1ACFA015F41C16</SHA1>
+      <FileSize>757184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 14 23 New bearings proto\DriveTrainTopStandoff.stl</FileName>
+      <SHA1>467CED69F0A5040518D8DD31FDD49D20D0708837</SHA1>
+      <FileSize>532584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 14 23 New bearings proto\Vex 3 8th nylon roller spacer.stl</FileName>
+      <SHA1>AFD266076D3A0D7CDB21805E6C75F42DF969B9C5</SHA1>
+      <FileSize>129884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\BearingStandoff.ipt</FileName>
+      <SHA1>0E54C62751386B153CD9A9343156712536AA7168</SHA1>
+      <FileSize>83968</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldVersions\BearingStandoff.0001.ipt</FileName>
+      <SHA1>073FE57D235151EE445A45404229E18A9F3D5E60</SHA1>
+      <FileSize>78336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Leviathan Assembly\Design Accelerator\OldVersions\Spur Gear22.0004.ipt</FileName>
+      <SHA1>FF530C1CDE3E90779BD262EDEB92B37C8B859D85</SHA1>
+      <FileSize>293376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\5905K605_Needle-Roller Bearing.0001.ipt</FileName>
+      <SHA1>2C68FB51045E569954D56008689C07BEDCFEEF17</SHA1>
+      <FileSize>271360</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Chassis.0044.ipt</FileName>
+      <SHA1>0FC3FBFE3342F983B2BEE9E2644DB2C78E06D55C</SHA1>
+      <FileSize>747520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Chassis_MIR.0016.ipt</FileName>
+      <SHA1>B01092E28124B042A852FA684094C3926221DDD6</SHA1>
+      <FileSize>550400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\CustomTiming Belt Wheel.0015.ipt</FileName>
+      <SHA1>64F63D033AF50D82CA8C1396DA1D5BCFCC2D7FF6</SHA1>
+      <FileSize>2421760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Derived WeaponBiggerGear.0018.ipt</FileName>
+      <SHA1>C60047706571A3820D3ACAACE6091FE3B9745F57</SHA1>
+      <FileSize>1304064</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Derived WeaponSmallerGear.0007.ipt</FileName>
+      <SHA1>F56D9B3DED216C4FB17D27FD012585671A91ECBD</SHA1>
+      <FileSize>495104</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\DriveTrainRoller.0012.ipt</FileName>
+      <SHA1>FBBC589938FB1866E599A25AD1709F64EDF9E0B1</SHA1>
+      <FileSize>98816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\MiddlePart.0017.ipt</FileName>
+      <SHA1>6FFF5B77E0127A845CC7E7D2B66A9451F10F36FC</SHA1>
+      <FileSize>212480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Vex 3 8th nylon roller spacer.0005.ipt</FileName>
+      <SHA1>32034AEF3EED473F6167F8452A0671BF81876489</SHA1>
+      <FileSize>105472</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\WeaponSpacer.0003.ipt</FileName>
+      <SHA1>1DCD8AFB0416BEBEA8703316D60BE44565A7C3F0</SHA1>
+      <FileSize>111104</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 19 23 fixed rollers spacing\OldVersions\BottomStandoffs.0002.ipt</FileName>
+      <SHA1>9BC703650560AC4808BCD1FE71B125F9F4F22640</SHA1>
+      <FileSize>115200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 19 23 fixed rollers spacing\BottomStandoffs.ipt</FileName>
+      <SHA1>A95556C1C497B455F8EBDFC256C7C2202ECBB7ED</SHA1>
+      <FileSize>116224</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 19 23 fixed rollers spacing\BottomStandoffs.stl</FileName>
+      <SHA1>3C2E83ECAAC2598FEECD125BA3BF31406ACEE95D</SHA1>
+      <FileSize>578284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 19 23 fixed rollers spacing\Chassis.stl</FileName>
+      <SHA1>D5921B4871133F13E84A0B7BAC3646C4791B5FBB</SHA1>
+      <FileSize>1042684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 19 23 fixed rollers spacing\Derived Drivepod Plate.stl</FileName>
+      <SHA1>A20BAFD2745ECDC625BA87AD921C4B5E7F8AA84C</SHA1>
+      <FileSize>578184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 19 23 fixed rollers spacing\DriveTrainTopStandoff.stl</FileName>
+      <SHA1>CF6B81C48C710141F4FC578244985AD3923CF7B4</SHA1>
+      <FileSize>584184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 19 23 fixed rollers spacing\smallerCustomTiming Pulley.stl</FileName>
+      <SHA1>94E998ABD801D613DAE728FBBF6B4BC7D64C5443</SHA1>
+      <FileSize>861384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>1 20 23 Thicker better.PNG</FileName>
+      <SHA1>6538C6CDBC4423991F3BEF798C2073AB59AA1EAB</SHA1>
+      <FileSize>183281</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\CustomTiming Pulley.0017.ipt</FileName>
+      <SHA1>8C1C99E6549CA614440C4B9A7A19C0C133FD95E6</SHA1>
+      <FileSize>242688</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Derived Drivepod Plate.0025.ipt</FileName>
+      <SHA1>5627D2E22B043A3B4F485E81C4EC06A1A710AFE2</SHA1>
+      <FileSize>549376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Derived WeaponBiggerGear_MIR.0004.ipt</FileName>
+      <SHA1>F913C86403841493AA35FDF1839A2807A56EE06F</SHA1>
+      <FileSize>1399296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\DrivePod subassembly.0032.iam</FileName>
+      <SHA1>678DF5A29ABF18E4E8CA309CD770A9644D7FD6CF</SHA1>
+      <FileSize>752128</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\DriveTrainTopStandoff.0040.ipt</FileName>
+      <SHA1>DF89CFDB1985948847AD1EA18D4138A1CDD37292</SHA1>
+      <FileSize>271360</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\Leviathan Assembly.0078.iam</FileName>
+      <SHA1>B9610F867A792BA3C37FA0CD1812A8982E516C1E</SHA1>
+      <FileSize>3207680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 23 23\BottomStandoffs.stl</FileName>
+      <SHA1>2FDA6283BC7A0B5769BC5B3D180BCD6F9D67699D</SHA1>
+      <FileSize>586084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 23 23\CustomTiming Pulley.stl</FileName>
+      <SHA1>BAEABA003A3D27427250991897C9DC1414BA6FF6</SHA1>
+      <FileSize>453484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 23 23\Derived Drivepod Plate.stl</FileName>
+      <SHA1>FFA77950D06CD15F061006BD3A9219E5A4BFD37E</SHA1>
+      <FileSize>559284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\1 23 23\DriveTrainTopStandoff.stl</FileName>
+      <SHA1>ADACDF00DDB31F89AEEC919A8AADE5DFB4CA5B46</SHA1>
+      <FileSize>544384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\7 25 22 Double NutTool.stl</FileName>
+      <SHA1>B6A852DD784104B7D6B5CE6EA2E6304851F2D685</SHA1>
+      <FileSize>126684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\Bearing Roller.stl</FileName>
       <SHA1>4AB24009F59450E03952E68980B315943A73A5E4</SHA1>
       <FileSize>118884</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>STLs\11 26 22 prototype tpu\Drive stuff\PI3MK3M_Bearing Roller.gcode</FileName>
-      <SHA1>6F67789AC5C5787B43340ABFF62D4B9058AC45BF</SHA1>
-      <FileSize>2181841</FileSize>
+      <FileName>STLs\OldStls\Chassis 7 24 22.stl</FileName>
+      <SHA1>BA938A56DDEA374B7534F89A963947B0F46D97D6</SHA1>
+      <FileSize>866984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\CustomTiming Belt Wheel.stl</FileName>
+      <SHA1>2ACC8B64D8B3C4B1639B7827BD29FCF4271724A1</SHA1>
+      <FileSize>18240084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\CustomTiming Pulley.stl</FileName>
+      <SHA1>E4C0C297F45A79702F97DE87AC0DA6F6AD010F55</SHA1>
+      <FileSize>1715184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\Derived Drivepod Plate 7 24 22.stl</FileName>
+      <SHA1>32370703CCEA3B13C9DB121410F8AFB64B3A6B8C</SHA1>
+      <FileSize>1145584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\DriveTrainRoller 7 24 22.stl</FileName>
+      <SHA1>36BEE95E90BD9C17E7B6F86E3044E4F91298B5B2</SHA1>
+      <FileSize>132684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\DriveTrainStandoffs 7 24 22.stl</FileName>
+      <SHA1>69335E785FB6A318FB5E197EF5B77794BA12FCE2</SHA1>
+      <FileSize>238884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\DriveTrainTopStandoff 7 24 22.stl</FileName>
+      <SHA1>C632E471B7910198279D484C6FA09D1B3DDD1D5B</SHA1>
+      <FileSize>869284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\KeepUp.stl</FileName>
+      <SHA1>8C10E6FAD931B6F6EB300585468A3E99C7B0FF91</SHA1>
+      <FileSize>445784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\Multi NutTool.stl</FileName>
+      <SHA1>A7C493750C385C906965C8A1E748F5B9105ED48A</SHA1>
+      <FileSize>117384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\NEW 7 25 22 Double NutTool.stl</FileName>
+      <SHA1>2CE95F29FFC75647657F31B620AC44EAE0BC7FB6</SHA1>
+      <FileSize>98484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\PLA KeepUps set.gcode</FileName>
+      <SHA1>CCD3A9A47417E0452A30365742FF40F0EA8D8F29</SHA1>
+      <FileSize>1523348</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\PLA Proto Lev Half Chassis and stuff 7 13 22.gcode</FileName>
+      <SHA1>3BBE1485F3E0C19F12A31414C56B3A4BCAD281C1</SHA1>
+      <FileSize>10783995</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>STLs\OldStls\TPU 7 15 22 Wheel n Pulley.gcode</FileName>
+      <SHA1>12A4ECA5579AE22230FED9C012E69FFCAF24CAB9</SHA1>
+      <FileSize>26773510</FileSize>
       <ProEVersionedName />
       <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
     </GCSCMStandin>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <UpdateTime>2023-01-05T15:42:36.3232171-05:00</UpdateTime>
+  <UpdateTime>2023-05-13T16:56:44.4020831-04:00</UpdateTime>
   <Standins>
     <GCSCMStandin>
       <FileName>BeaterStuff\OldVersions\Ant Beater Bar R1.0001.ipt</FileName>
@@ -94,11 +94,11 @@
       <LastUpdated>2022-04-11T19:29:15.6945775+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>OldVersions\1lb_Beater_Bar_Assy.0006.iam</FileName>
-      <SHA1>E68928371084DBBECAC435BC81596E0D6820C623</SHA1>
-      <FileSize>675840</FileSize>
+      <FileName>OldVersions\1lb_Beater_Bar_Assy.0007.iam</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>623104</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-04-11T20:00:32.0970000+00:00</LastUpdated>
+      <LastUpdated>2022-04-11T20:06:30.4080000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>OldVersions\BottomPlateMiddle.0001.ipt</FileName>
@@ -151,10 +151,10 @@
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>1lb_Beater_Bar_Assy.iam</FileName>
-      <SHA1>73A3586F018E4C908E7D9F67E17FCF833C1C58FE</SHA1>
-      <FileSize>623104</FileSize>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>683008</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-04-11T20:06:30.4080000+00:00</LastUpdated>
+      <LastUpdated>2023-02-14T01:06:22.9590000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>1lb_Beater_Bar_Assy.STEP</FileName>

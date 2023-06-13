@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-04-25T22:06:19.9141354+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\Spur Gear11.ipt</FileName>
+      <SHA1>A4739C1D3220B4644F8F6D16FA019A1C968E2995</SHA1>
+      <FileSize>653824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\Spur Gear21.ipt</FileName>
+      <SHA1>087C55E904DE70D115C181537ECFF25D81DC8C17</SHA1>
+      <FileSize>2409984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\Spur Gears1.iam</FileName>
+      <SHA1>49DD548E6BE78EB8E779B8FF40F5EC107DB799CD</SHA1>
+      <FileSize>245760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\BCN3D Moveo Claw.jpg</FileName>
+      <SHA1>0367F805128D9C904FC8CA794859B52BA5437629</SHA1>
+      <FileSize>93828</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\BCN3D Moveo.jpg</FileName>
+      <SHA1>B41DDD3F84775A8AC2E324C14D5625429200CFF6</SHA1>
+      <FileSize>48975</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\Industrial_Robot_Arm_resources_1.docx</FileName>
+      <SHA1>013BC3D12B5B363BD8B1D381B87F263E78ACEF24</SHA1>
+      <FileSize>17377</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\kauda.png</FileName>
+      <SHA1>85F5A36FAED405B173B9B11A254FFFB8F42F56E9</SHA1>
+      <FileSize>395284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\NEMA17-42A0C.iam</FileName>
+      <SHA1>89CC0413216A6F68086F44D50A7469845A203269</SHA1>
+      <FileSize>155136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\NEMA17-42A0C.step</FileName>
+      <SHA1>75886975B800744D694F2D0BFB57E2ADCC30F069</SHA1>
+      <FileSize>170300</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\niryo.jpg</FileName>
+      <SHA1>F9B4066B35AA047B993281EA6EC58950C10FF07C</SHA1>
+      <FileSize>100841</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\Pinx100 (nice base).jpg</FileName>
+      <SHA1>A683DA8C1ECA68646F9C98A9DA685F8B8992DD26</SHA1>
+      <FileSize>122702</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\Zortax.pdf</FileName>
+      <SHA1>719884D372880E70BCC213AC6A15BA368F9CD013</SHA1>
+      <FileSize>2062425</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\zortrax.PNG</FileName>
+      <SHA1>013B333953BF0C11050E4A604DFA2AA733E7511F</SHA1>
+      <FileSize>913163</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1.iam</FileName>
+      <SHA1>D7B4C98744F121D5D1E2B4605F0A9BDDD354FA54</SHA1>
+      <FileSize>1562624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Base.ipt</FileName>
+      <SHA1>B14A6BECC86C42C51493562AFFB44D5F8C8B1F68</SHA1>
+      <FileSize>427520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\BaseLid.ipt</FileName>
+      <SHA1>C5A95AE350642DCFE4DF8A9CCCE9A23FB2D8FFF5</SHA1>
+      <FileSize>299008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\NEMA17-42A02C-Body.ipt</FileName>
+      <SHA1>0F68A6C61CFEE6FE2897441BB8F558E07B617E43</SHA1>
+      <FileSize>147968</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\ParametersPart.ipt</FileName>
+      <SHA1>A6872E1152A67B86D69F02AC61D8CC7CEA360C1C</SHA1>
+      <FileSize>72192</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\3 6 23 first link.png</FileName>
+      <SHA1>B082E6CD0794AC7ACE833650FEC518833C298850</SHA1>
+      <FileSize>137926</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\4390N117_Flanged Ultra-Thin Ball Bearing.ipt</FileName>
+      <SHA1>947F1378E0B1EA23EA6E4C1471A058663307CC89</SHA1>
+      <FileSize>560128</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\92981A312_Alloy Steel Shoulder Screws.ipt</FileName>
+      <SHA1>26ED48F26EECCA8E7C68C7300D511A616825DC4D</SHA1>
+      <FileSize>385536</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Arm First Joint 3 5 23.png</FileName>
+      <SHA1>4B34B274B15254005DCC194067D61B0239400364</SHA1>
+      <FileSize>137139</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\Link1Gear1.ipt</FileName>
+      <SHA1>B2724FC41740CCC89E9CB04658C68C02B1158C67</SHA1>
+      <FileSize>512000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\Link1Gear2.ipt</FileName>
+      <SHA1>28A8E923F0810CB73749AC95BF8CCE53F7C7C8A8</SHA1>
+      <FileSize>2087936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\Link1Gears.iam</FileName>
+      <SHA1>BEDE54CD281D6CF40E89E112219F176FB7B08B73</SHA1>
+      <FileSize>304640</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\Link2 Gear2.ipt</FileName>
+      <SHA1>A95EA69AC5D4A8FE9743BBC3C25BEFAA453AE9F1</SHA1>
+      <FileSize>2550272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\Link2 Gears1.iam</FileName>
+      <SHA1>CB875C7DBF908D78A04B8F1FAD1E09CC3FE6CEFA</SHA1>
+      <FileSize>244736</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\Link2Gear1.ipt</FileName>
+      <SHA1>E177D4EC925ECB618BE7BCD6A5183E8F3279DE3E</SHA1>
+      <FileSize>541696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\OldVersions\Link1Gears.0004.iam</FileName>
+      <SHA1>7A34CF1DD48C96D401E5CB0A9CC99326923F3D93</SHA1>
+      <FileSize>304640</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\OldVersions\Link2 Gears1.0001.iam</FileName>
+      <SHA1>8B9546A073721463FD7D16D24A779FCF15297184</SHA1>
+      <FileSize>259584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\FirstLink.ipt</FileName>
+      <SHA1>260DAE3E0CD777398941DFE38E0ED6F69861467F</SHA1>
+      <FileSize>374272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\MG995 Servo.iam</FileName>
+      <SHA1>8E8BCEF52D2092B396072910E7525AA8AC501A5C</SHA1>
+      <FileSize>2899456</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\NEMA17-42A02C-Body.0001.ipt</FileName>
+      <SHA1>C3FC883F423249CB80B4C95B9439977A06FAF6B6</SHA1>
+      <FileSize>124416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\ParametersPart.0009.ipt</FileName>
+      <SHA1>FAD672E1EA3A37DE38A028BA79D23296815FCC7B</SHA1>
+      <FileSize>71680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\4390N117_Flanged Ultra-Thin Ball Bearing.STEP</FileName>
+      <SHA1>78CBD4839B4B3B2D1CA82F2A49B4B22AFD066A5C</SHA1>
+      <FileSize>117058</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\90370A203_STEEL THIN HEX NUT.STEP</FileName>
+      <SHA1>D84F7452948D443F30C201412C40CDE51CC73310</SHA1>
+      <FileSize>192926</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\92981A312_Alloy Steel Shoulder Screws.STEP</FileName>
+      <SHA1>629CD8B5852608B596D30DE64059B390C2663605</SHA1>
+      <FileSize>392784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\F3C8KF3KEMTMDFK.jpg</FileName>
+      <SHA1>DA689172ABF78E6D8C9DE9B9AB934ECA0B0EF6F2</SHA1>
+      <FileSize>608510</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\MG995 Servo.step</FileName>
+      <SHA1>CE5873B511E520396BEB24ED6FFC8543F89B4192</SHA1>
+      <FileSize>715597</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\OldVersions\Spur Gear21.0016.ipt</FileName>
+      <SHA1>1DE43FC1D703047AFA4F9D5AB8AC6BE4E21012BC</SHA1>
+      <FileSize>2404864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Link4\Link4-01.ipt</FileName>
+      <SHA1>FF2FFFEED6FC5950547E66B8D782C01E2D09DB44</SHA1>
+      <FileSize>97280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\ParametersPart.0001.ipt</FileName>
+      <SHA1>FCEC450EC0FE4C9936D3CC6A283E9942D97BB291</SHA1>
+      <FileSize>60416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 20 23 Base Prints\Base.stl</FileName>
+      <SHA1>0EE64A432A9A342A9DFD33DCAD70A6F1B8938224</SHA1>
+      <FileSize>956784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 20 23 Base Prints\BaseLid.stl</FileName>
+      <SHA1>96223CD156D7C2353C3E8861E2F5B679CC2BF5CF</SHA1>
+      <FileSize>172084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 20 23 Base Prints\FirstLink.stl</FileName>
+      <SHA1>1F0D1DE519F4D67186CE8F4A400EF042F4D63B1A</SHA1>
+      <FileSize>705984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 20 23 Base Prints\Spur Gear11.stl</FileName>
+      <SHA1>646EDED73BDBA9FDE7A83C801387859B3926665B</SHA1>
+      <FileSize>1322184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 20 23 Base Prints\Spur Gear21.stl</FileName>
+      <SHA1>33F43687298FD97FDD00E0CB9CFCF07F90E5B6B7</SHA1>
+      <FileSize>698684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 20 23 Base Prints.zip</FileName>
+      <SHA1>8BB9EA7785D575B2748C071C3DE573843DEBB5CD</SHA1>
+      <FileSize>1126687</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\3 16 23 6Axis update.PNG</FileName>
+      <SHA1>33F0798187689AD01F0B126105C7354D893BC9DF</SHA1>
+      <FileSize>141351</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Link3.ipt</FileName>
+      <SHA1>8A247981B9FC53ABEB1FF0A83473A12455501B21</SHA1>
+      <FileSize>203264</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Link4.ipt</FileName>
+      <SHA1>B3D85B626B873E665BB6EA8C06852E190E3A9A17</SHA1>
+      <FileSize>404992</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 22 23 tolerances and balls\3 22 23 tol BaseLid.stl</FileName>
+      <SHA1>BE1BE1ED21F3B1AEDD021CD3604593B399DB5427</SHA1>
+      <FileSize>172084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 22 23 tolerances and balls\Ball.stl</FileName>
+      <SHA1>C25AFF5C8920B192C952FE34BA3DD5D559C23F4D</SHA1>
+      <FileSize>1428084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 22 23 tolerances and balls\FirstLink.stl</FileName>
+      <SHA1>B1D8F858FAE4C220FAE18B28ADBE1135CA1F97E1</SHA1>
+      <FileSize>706484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 22 23 tolerances and balls\PI3MK3M_FirstLink.gcode</FileName>
+      <SHA1>4036081D0D89B96B221E8892A73A19680BEA616F</SHA1>
+      <FileSize>12836333</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 21 tolerance fix small ringGear11.stl</FileName>
+      <SHA1>B22359C94A71277F4D136805988B52FDEC8D735D</SHA1>
+      <FileSize>1324684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Ball.ipt</FileName>
+      <SHA1>F7E6FD9D77FCAFD5B3799C0E4C2A965EE28EE6EE</SHA1>
+      <FileSize>120832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 23 23 link tolerances\3 27 23FirstLink.gcode</FileName>
+      <SHA1>0272647A0D2797E1E1D032E6E98E27F63B610D24</SHA1>
+      <FileSize>14016099</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 23 23 link tolerances\FirstLink.stl</FileName>
+      <SHA1>8D34A41ECF51C7FCA110FE923247DC8609547AED</SHA1>
+      <FileSize>733584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\MG995 Servo.0004.iam</FileName>
+      <SHA1>1FFC9E33384C7CFC9FBF724A5222E2828E47861A</SHA1>
+      <FileSize>2907136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\OldVersions\REV-41-1097.0001.ipt</FileName>
+      <SHA1>E459B3F50CED6D23053DEFBFC3925FDA7C054196</SHA1>
+      <FileSize>2641408</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\References\REV-41-1097.STEP</FileName>
+      <SHA1>78DBF8B98C97F867C410B9B2F38D4761B81B7250</SHA1>
+      <FileSize>4411721</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 28 23 link 1 2 thing\3 21 tolerance fix small ringGear11.stl</FileName>
+      <SHA1>D951B39274823DE3289029F781E792AF8900B342</SHA1>
+      <FileSize>3186984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 28 23 link 1 2 thing\Link1Gear1.stl</FileName>
+      <SHA1>560BC143D89D2754D3EFECD6C88DD323871CD441</SHA1>
+      <FileSize>3186984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 28 23 link 1 2 thing\Link1Gear2.stl</FileName>
+      <SHA1>A01A6F2B9CC75EDCE5E33AE3559968DF9D7664D9</SHA1>
+      <FileSize>1527684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 28 23 link 1 2 thing\Link2 Gear2.stl</FileName>
+      <SHA1>4F39B062E001079F6BA3F966ECE4E07E09686C6A</SHA1>
+      <FileSize>1593184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 28 23 link 1 2 thing\Link2Gear1.stl</FileName>
+      <SHA1>D951B39274823DE3289029F781E792AF8900B342</SHA1>
+      <FileSize>3186984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 28 23 link 1 2 thing\Link3.stl</FileName>
+      <SHA1>481321CF8993289D577C3552E956E69221F2D4DF</SHA1>
+      <FileSize>677284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 28 23 link 1 2 thing\Link4.stl</FileName>
+      <SHA1>09C5FD07B877516123C11CB44B73A6DE12768D2F</SHA1>
+      <FileSize>767984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 28 23 link 1 2 thing\PI3MK3M_Link2 Gear2.gcode</FileName>
+      <SHA1>04E57713D34705A0063E8B1E2EF6696D15B1B89D</SHA1>
+      <FileSize>44372433</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\REV-41-1097.ipt</FileName>
+      <SHA1>01154ACA892489AF31A01FA873FBEE8F2220716E</SHA1>
+      <FileSize>2856448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Link4 Servo Horn.ipt</FileName>
+      <SHA1>6D10399717131C106743AC8BE48CA0B0DEEC4EF9</SHA1>
+      <FileSize>144896</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Link5.ipt</FileName>
+      <SHA1>60C407070170F8BFFC7769439DF38D423E63F37A</SHA1>
+      <FileSize>357376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\OldVersions\Spur Gear11.0014.ipt</FileName>
+      <SHA1>7741674C77B65E5CC86F378AD5ED4D34B58DA464</SHA1>
+      <FileSize>642560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\OldVersions\Spur Gears1.0014.iam</FileName>
+      <SHA1>2177A9ADBBEEB6BB76EC4C62769A2B339E65FB1A</SHA1>
+      <FileSize>252416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\3 29 23.PNG</FileName>
+      <SHA1>2DE252F98BF5CE6F1A6F24B40D1A8A8CFD82B7E0</SHA1>
+      <FileSize>155185</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\OldVersions\Link1Gear1.0010.ipt</FileName>
+      <SHA1>E0D28612CECC09A856870C5CA7789E63A545EEF8</SHA1>
+      <FileSize>512000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\OldVersions\Link1Gear2.0030.ipt</FileName>
+      <SHA1>D9A5611922C898BC7DF7B36F51EBA8E52E5BF9F6</SHA1>
+      <FileSize>2090496</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\OldVersions\Link2 Gear2.0032.ipt</FileName>
+      <SHA1>A01F092EC80F2BE16BC00CB8D9E188C358D9BCD0</SHA1>
+      <FileSize>2352128</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\Assembly1\Design Accelerator\OldVersions\Link2Gear1.0005.ipt</FileName>
+      <SHA1>DD0525CEA6EE80BF7BA03CE6F51C92352A1E2716</SHA1>
+      <FileSize>540672</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\Base.0025.ipt</FileName>
+      <SHA1>22FE0475CBB1AEA3D601CE1AA10E09049ED3292E</SHA1>
+      <FileSize>401408</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\BaseLid.0017.ipt</FileName>
+      <SHA1>014C22A848635E3216A82D674277C0931F356E3E</SHA1>
+      <FileSize>267264</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\FirstLink.0028.ipt</FileName>
+      <SHA1>A2FA595BB1DDC634A92DCE3237098B7C9D0BBEF8</SHA1>
+      <FileSize>372736</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\Link3.0008.ipt</FileName>
+      <SHA1>EE1FF1746846D4DEAB795B2F7667C49236D29770</SHA1>
+      <FileSize>202240</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\Link4 Servo Horn.0003.ipt</FileName>
+      <SHA1>B3C721FAE41EDFF2E2681DF09E29BD0A6B111DE5</SHA1>
+      <FileSize>145408</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\Link4.0013.ipt</FileName>
+      <SHA1>5B066005E3470723696BBAB33E373B5CFE9AE958</SHA1>
+      <FileSize>403968</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\Link5.0009.ipt</FileName>
+      <SHA1>8FDBCA760A766F4E535BC21DF75896B8B914193F</SHA1>
+      <FileSize>360960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Base.stl</FileName>
+      <SHA1>3CE6C2B02B0244C5A01982532AE4FB6F0DBD4147</SHA1>
+      <FileSize>1120284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\BaseLid.stl</FileName>
+      <SHA1>683F1AA69AE0A45A1C89DE0C08695072614C592B</SHA1>
+      <FileSize>172084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\FirstLink.stl</FileName>
+      <SHA1>1B748D7533BC38C2EDB9D7FFCB7725C295FDD080</SHA1>
+      <FileSize>738784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Link1Gear1.stl</FileName>
+      <SHA1>5D816E7B4308D41DCAACFAE57B42E8918A7A84E4</SHA1>
+      <FileSize>3187484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Link1Gear2.stl</FileName>
+      <SHA1>F9DE1B12CDE559B3FE382ED7A24D62B3595ECD6E</SHA1>
+      <FileSize>1521684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Link2 Gear2.stl</FileName>
+      <SHA1>0521FD0AC9167F72C87B3E143B9A9739222753DD</SHA1>
+      <FileSize>1751984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Link2Gear1.stl</FileName>
+      <SHA1>C6D025AA2915F07807C68396E5E6BC67A381F66B</SHA1>
+      <FileSize>3187484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Link3.stl</FileName>
+      <SHA1>0AD7E6CB5B32E108286473ED50DFC961F37EB65E</SHA1>
+      <FileSize>664384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Link4 Servo Horn.stl</FileName>
+      <SHA1>15CC4E62D15BA74EE281F58959FBEEA0F07D7CE2</SHA1>
+      <FileSize>145284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Link4.stl</FileName>
+      <SHA1>14CD80B3BAA86EE6711C7F3663C96F0E21222473</SHA1>
+      <FileSize>771584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Link5.stl</FileName>
+      <SHA1>BE9D64BF242754DBB95953B9F317E94ED09605FD</SHA1>
+      <FileSize>654484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\STLs\3 30 23 alot of fixes\Spur Gear11.stl</FileName>
+      <SHA1>AD475A808F04445929B20F97932139BD8C1110C9</SHA1>
+      <FileSize>1323584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IndustrialStyledVersion\V1\OldVersions\Assembly1.0059.iam</FileName>
+      <SHA1>4DF9E40F55C7C11DF6FD1B710E4B173D81A9FE32</SHA1>
+      <FileSize>1990656</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
