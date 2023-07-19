@@ -1,95 +1,18 @@
-﻿Study Shape Generator:1 started: 6/30/2023, 11:36:07 PM
+﻿Study Static Analysis:1 started: 7/2/2023, 1:19:49 AM
 Number of configurations: 1
-Default mesh: 6295 elements, 10610 nodes
-Study Shape Generator:1 finished: 6/30/2023, 11:36:07 PM
-Total time 0:00:00
-
-Study Shape Generator:1 started: 6/30/2023, 11:39:24 PM
-Number of configurations: 1
-Default mesh: 6295 elements, 10610 nodes
+Default mesh: 31496 elements, 50524 nodes
+Solution time 3.7s
+Convergence rate: 10.1%
 Reached the total number of h refinements 
-Study Shape Generator:1 finished: 6/30/2023, 11:40:01 PM
-Total time 0:00:37
+Study        Worst Jacobian ratio :  2.8  on element 3763 finished: 7/2/2023, 1:19:55 AM
+Total time 0:00:06
 
-Study Shape Generator:1 started: 6/30/2023, 11:42:45 PM
+Study Static Analysis:1 started: 7/2/2023, 2:11:14 AM
 Number of configurations: 1
-Default mesh: 6295 elements, 10610 nodes
+Default mesh: 2485 elements, 4775 nodes
+Solution time 0.5s
+Convergence rate: 14.9%
 Reached the total number of h refinements 
-Study Shape Generator:1 finished: 6/30/2023, 11:43:21 PM
-Total time 0:00:36
-
-Study Shape Generator:1 started: 6/30/2023, 11:46:09 PM
-Number of configurations: 1
-Default mesh: 6295 elements, 10610 nodes
-Study Shape Generator:1 finished: 6/30/2023, 11:46:09 PM
-Total time 0:00:00
-
-Study Shape Generator:1 started: 6/30/2023, 11:46:20 PM
-Number of configurations: 1
-Default mesh: 6295 elements, 10610 nodes
-Reached the total number of h refinements 
-Study Shape Generator:1 finished: 6/30/2023, 11:46:52 PM
-Total time 0:00:32
-
-Study Shape Generator:1 started: 6/30/2023, 11:47:09 PM
-Number of configurations: 1
-Default mesh: 6295 elements, 10610 nodes
-Reached the total number of h refinements 
-Study Shape Generator:1 finished: 6/30/2023, 11:47:47 PM
-Total time 0:00:38
-
-Study Shape Generator:1 started: 6/30/2023, 11:48:01 PM
-Number of configurations: 1
-Default mesh: 6295 elements, 10610 nodes
-Reached the total number of h refinements 
-Study Shape Generator:1 finished: 6/30/2023, 11:48:33 PM
-Total time 0:00:32
-
-Study Shape Generator:1 started: 6/30/2023, 11:48:56 PM
-Number of configurations: 1
-Default mesh: 6295 elements, 10610 nodes
-Reached the total number of h refinements 
-Study Shape Generator:1 finished: 6/30/2023, 11:49:47 PM
-Total time 0:00:51
-
-Study Shape Generator:1 started: 6/30/2023, 11:50:18 PM
-Number of configurations: 1
-Default mesh: 15359 elements, 24694 nodes
-Study        Worst Jacobian ratio :  1.62  on element 8999 finished: 6/30/2023, 11:50:19 PM
-Total time 0:00:01
-
-Study Shape Generator:1 started: 7/1/2023, 1:17:06 AM
-Number of configurations: 1
-Default mesh: 4442 elements, 7920 nodes
-Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1.93  on element 2252 finished: 7/1/2023, 1:17:37 AM
-Total time 0:00:31
-
-Study Shape Generator:1 started: 7/1/2023, 1:18:31 AM
-Number of configurations: 1
-Default mesh: 4442 elements, 7920 nodes
-Reached the total number of h refinements 
-Study Shape Generator:1 finished: 7/1/2023, 1:19:23 AM
-Total time 0:00:52
-
-Study Shape Generator:1 started: 7/1/2023, 1:20:04 AM
-Number of configurations: 1
-Default mesh: 4442 elements, 7920 nodes
-Reached the total number of h refinements 
-Study Shape Generator:1 finished: 7/1/2023, 1:20:36 AM
-Total time 0:00:32
-
-Study Shape Generator:1 started: 7/1/2023, 1:21:10 AM
-Number of configurations: 1
-Default mesh: 77425 elements, 117480 nodes
-Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  2  on element 31665 finished: 7/1/2023, 1:22:40 AM
-Total time 0:01:30
-
-Study Shape Generator:1 started: 7/1/2023, 1:23:57 AM
-Number of configurations: 1
-Default mesh: 77425 elements, 117480 nodes
-Reached the total number of h refinements 
-Study Shape Generator:1 finished: 7/1/2023, 1:25:19 AM
-Total time 0:01:22
+Study        Worst Jacobian ratio :  2.14  on element 1452 finished: 7/2/2023, 2:11:16 AM
+Total time 0:00:02
 
