@@ -1,0 +1,13 @@
+to do: (last updated 12/28/2023)
+-make fork part of body
+-check fork is shortened
+-edit the uprights to better bring the weapon backwards, check theyre raised enough
+-fix weapon hub tolerance
+-possibly more airflow fan things on them
+-make wider version of wheels
+
+irl things:
+-swap to vytaflex 40
+-put startup torque to max and swap to 30a esc
+-lower kv weapon motor pls
+-probably order the new 4mm repeats and new bearings
