@@ -1,6 +1,6 @@
 to do: (last updated 12/28/2023)
 -make fork part of body
--check fork is shortened
+--check fork is shortened
 -edit the uprights to better bring the weapon backwards, check theyre raised enough
 -fix weapon hub tolerance
 -possibly more airflow fan things on them
